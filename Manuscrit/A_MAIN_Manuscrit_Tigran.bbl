@@ -1,0 +1,807 @@
+\begin{thebibliography}{100}
+
+\bibitem{Latre2011}
+Beno{\^{i}}t Latr{\'{e}}, Bart Braem, Ingrid Moerman, Chris Blondia, and Piet
+  Demeester.
+\newblock {A survey on wireless body area networks}.
+\newblock {\em Wireless Networks}, 17(1):1--18, 2011.
+
+\bibitem{Abidi2020}
+Bahae Abidi, Abdelillah Jilbab, and El~Haziti Mohamed.
+\newblock {Wireless body area networks: a comprehensive survey}.
+\newblock {\em Journal of Medical Engineering and Technology}, 44(3):97--107,
+  2020.
+
+\bibitem{Khan2010}
+Jamil~Y Khan and Mehmet~R Yuce.
+\newblock {Wireless Body Area Network (WBAN) for Medical Applications}, 2010.
+
+\bibitem{Alhuwaidi2021}
+Sadiq Alhuwaidi and Tanghid Rashid.
+\newblock {A Novel Compact Wearable Microstrip Patch Antenna for Medical
+  Applications}.
+\newblock pages 1--6, 2021.
+
+\bibitem{Yadav2020}
+Ashok Yadav, Vinod~Kumar Singh, Pranay Yadav, Amit~Kumar Beliya, Akash~Kumar
+  Bhoi, and Paolo Barsocchi.
+\newblock {Design of circularly polarized triple-band wearable textile antenna
+  with safe low sar for human health}.
+\newblock {\em Electronics (Switzerland)}, 9(9):1--17, 2020.
+
+\bibitem{Le2021}
+Tu~Tuan Le, Yong~Deok Kim, and Tae~Yeoul Yun.
+\newblock {A Triple-Band Dual-Open-Ring High-Gain High-Efficiency Antenna for
+  Wearable Applications}.
+\newblock {\em IEEE Access}, 9:118435--118442, 2021.
+
+\bibitem{Smida2020}
+Amor Smida, Amjad Iqbal, Abdullah~J. Alazemi, Mohamed~I. Waly, Ridha Ghayoula,
+  and Sunghwan Kim.
+\newblock {Wideband Wearable antenna for Biomedical Telemetry applications}.
+\newblock {\em IEEE Access}, 8:15687--15694, 2020.
+
+\bibitem{Mansouri2013}
+Kaweh Mansouri, Ren{\'{e}} Goedkoop, and Robert~N Weinreb.
+\newblock {A Minimally Invasive Device for the Monitoring of 24-hour
+  Intraocular Pressure Patterns}.
+\newblock {\em US Ophthalmic Review}, 06(01):10, 2013.
+
+\bibitem{Chu2011}
+Ming~Xing Chu, Kumiko Miyajima, Daishi Takahashi, Takahiro Arakawa, Kenji Sano,
+  Shin~Ichi Sawada, Hiroyuki Kudo, Yasuhiko Iwasaki, Kazunari Akiyoshi, Manabu
+  Mochizuki, and Kohji Mitsubayashi.
+\newblock {Soft contact lens biosensor for in situ monitoring of tear glucose
+  as non-invasive blood sugar assessment}.
+\newblock {\em Talanta}, 83(3):960--965, 2011.
+
+\bibitem{Elsherif2018}
+Mohamed Elsherif, Mohammed~Umair Hassan, Ali~K. Yetisen, and Haider Butt.
+\newblock {Wearable Contact Lens Biosensors for Continuous Glucose Monitoring
+  Using Smartphones}.
+\newblock {\em ACS Nano}, 12(6):5452--5462, 2018.
+
+\bibitem{Carioli2018}
+Johan Carioli, Aidin Delnavaz, Ricardo~J. Zednik, and Jeremie Voix.
+\newblock {Piezoelectric Earcanal Bending Sensor}.
+\newblock {\em IEEE Sensors Journal}, 18(5):2060--2067, mar 2018.
+
+\bibitem{Tao2012}
+Weijun Tao, Tao Liu, Rencheng Zheng, and Hutian Feng.
+\newblock {Gait analysis using wearable sensors}.
+\newblock {\em Sensors}, 12(2):2255--2283, 2012.
+
+\bibitem{Oriowo2011}
+O.~Matthew Oriowo and Abdullah~Z Alotaibi.
+\newblock {Chromagen lenses and abnormal colour perception}.
+\newblock {\em African Vision and Eye Health}, 70(2):69--74, 2011.
+
+\bibitem{Qaroush2021}
+Aziz Qaroush, Sara Yassin, Ali Al-Nubani, and Ameer Alqam.
+\newblock {Smart, comfortable wearable system for recognizing Arabic Sign
+  Language in real-time using IMUs and features-based fusion}.
+\newblock {\em Expert Systems with Applications}, 184(October 2020):115448,
+  2021.
+
+\bibitem{Palmowski2021}
+Y.~Palmowski, S.~Popovi{\'{c}}, D.~Kosack, and P.~Damm.
+\newblock {Analysis of hip joint loading during walking with different shoe
+  types using instrumented total hip prostheses}.
+\newblock {\em Scientific Reports}, 11(1):1--9, 2021.
+
+\bibitem{Qiao2011}
+Peng Qiao, Henk Corporaal, and Menno Lindwer.
+\newblock {A 0.964mW digital hearing aid system}.
+\newblock {\em Proceedings -Design, Automation and Test in Europe, DATE}, pages
+  883--886, 2011.
+
+\bibitem{Cornelius2014}
+Cory Cornelius, Ronald Peterson, Joseph Skinner, Ryan Halter, and David Kotz.
+\newblock {A wearable system that knows who wears it}.
+\newblock {\em MobiSys 2014 - Proceedings of the 12th Annual International
+  Conference on Mobile Systems, Applications, and Services}, pages 55--67,
+  2014.
+
+\bibitem{Kurz2021}
+Marc Kurz, Robert Gstoettner, and Erik Sonnleitner.
+\newblock {Smart Rings vs. Smartwatches: Utilizing Motion Sensors for Gesture
+  Recognition}.
+\newblock {\em Applied Sciences}, 11(5):2015, 2021.
+
+\bibitem{VISA2022}
+VISA.
+\newblock {VISA payement technologie}, 2022.
+
+\bibitem{FITBIT2022}
+FITBIT.
+\newblock {Fitbit Charge 5}, 2022.
+
+\bibitem{Rogers2010}
+John~A. Rogers, Takao Someya, and Yonggang Huang.
+\newblock {Materials and mechanics for stretchable electronics}.
+\newblock {\em Science}, 327(5973):1603--1607, 2010.
+
+\bibitem{Kim2010}
+Dae~Hyeong Kim, Jianliang Xiao, Jizhou Song, Yonggang Huang, and John~A.
+  Rogers.
+\newblock {Stretchable, curvilinear electronics based on inorganic materials}.
+\newblock {\em Advanced Materials}, 22(19):2108--2124, 2010.
+
+\bibitem{Ray2019}
+Tyler~R. Ray, Jungil Choi, Amay~J. Bandodkar, Siddharth Krishnan, Philipp
+  Gutruf, Limei Tian, Roozbeh Ghaffari, and John~A. Rogers.
+\newblock {Bio-integrated wearable systems: A comprehensive review}.
+\newblock {\em Chemical Reviews}, 119(8):5461--5533, 2019.
+
+\bibitem{Lee2017}
+Youngsik Lee, Jaemin Kim, Hyunwoo Joo, Milan~S. Raj, Roozbeh Ghaffari, and
+  Dae~Hyeong Kim.
+\newblock {Wearable Sensing Systems with Mechanically Soft Assemblies of
+  Nanoscale Materials}.
+\newblock {\em Advanced Materials Technologies}, 2(9):1--18, 2017.
+
+\bibitem{Lou2018}
+Zheng Lou, Lili Wang, and Guozhen Shen.
+\newblock {Recent Advances in Smart Wearable Sensing Systems}.
+\newblock {\em Advanced Materials Technologies}, 3(12):1--17, 2018.
+
+\bibitem{Muller2007}
+Christian M{\"{u}}ller, Shalom Goffri, Dag~W. Breiby, Jens~W. Andreasen,
+  Henri~D. Chanzy, Ren{\'{e}}~A.J. Janssen, Martin~M. Nielsen, Christopher~P.
+  Radano, Henning Sirringhaus, Paul Smith, and Natalie Stingelin-Stutzmann.
+\newblock {Tough, semiconducting polyethylene-poly(3-hexylthiophene) diblock
+  copolymers}.
+\newblock {\em Advanced Functional Materials}, 17(15):2674--2679, 2007.
+
+\bibitem{Wang2016b}
+Ging Ji~Nathan Wang, Leo Shaw, Jie Xu, Tadanori Kurosawa, Bob~C. Schroeder,
+  Jin~Young Oh, Stephanie~J. Benight, and Zhenan Bao.
+\newblock {Inducing Elasticity through Oligo-Siloxane Crosslinks for
+  Intrinsically Stretchable Semiconducting Polymers}.
+\newblock {\em Advanced Functional Materials}, 26(40):7254--7262, 2016.
+
+\bibitem{Tang2016}
+Jingda Tang, Jianyu Li, Joost~J. Vlassak, and Zhigang Suo.
+\newblock {Adhesion between highly stretchable materials}.
+\newblock {\em Soft Matter}, 12(4):1093--1099, 2016.
+
+\bibitem{Xie2018}
+Yunsong Xie, Ru~Xie, Hao~Cheng Yang, Zhaowei Chen, Jingwei Hou, Carlos~R.
+  L{\'{o}}pez-Barr{\'{o}}n, Norman~J. Wagner, and Kai~Zhong Gao.
+\newblock {Iono-Elastomer-Based Wearable Strain Sensor with Real-Time
+  Thermomechanical Dual Response}.
+\newblock {\em ACS Applied Materials and Interfaces}, 10(38):32435--32443,
+  2018.
+
+\bibitem{Li2007}
+Jing Li, Peng~Cheng Ma, Wing~Sze Chow, Chi~Kai To, Ben~Zhong Tang, and Jang~Kyo
+  Kim.
+\newblock {Correlations between percolation threshold, dispersion state, and
+  aspect ratio of carbon nanotubes}.
+\newblock {\em Advanced Functional Materials}, 17(16):3207--3215, 2007.
+
+\bibitem{Lu2020}
+Tongqing Lu, Cheng Ma, and Tiejun Wang.
+\newblock {Mechanics of dielectric elastomer structures: A review}.
+\newblock {\em Extreme Mechanics Letters}, 38:100752, 2020.
+
+\bibitem{Zhao2010}
+Xuanhe Zhao and Zhigang Suo.
+\newblock {Theory of dielectric elastomers capable of giant deformation of
+  actuation}.
+\newblock {\em Physical Review Letters}, 104(17):1--4, 2010.
+
+\bibitem{Lv2018}
+Xiongfei Lv, Liwu Liu, Yanju Liu, and Jinsong Leng.
+\newblock {Electromechanical modeling of softening behavior for dielectric
+  elastomers}.
+\newblock {\em Journal of Applied Mechanics, Transactions ASME}, 85(11), 2018.
+
+\bibitem{Mennad2015}
+A~Mennad.
+\newblock {Les techniques de d{\'{e}}p{\^{o}}t de couches minces et leurs
+  applications}.
+\newblock {\em Revue des Energies Renouvelables}, 18:713, 2015.
+
+\bibitem{Coudert2005}
+T{\'{e}}rence Coudert.
+\newblock {\em {Reconstruction tridimensionnelle du volume int{\'{e}}rieur
+  d'une chaussure : {\'{e}}valuation du chaussant}}.
+\newblock PhD thesis, Unicersit{\'{e}} de Savoie, 2005.
+
+\bibitem{Liu2018}
+Jikai Liu, Andrew~T. Gaynor, Shikui Chen, Zhan Kang, Krishnan Suresh, Akihiro
+  Takezawa, Lei Li, Junji Kato, Jinyuan Tang, Charlie~C.L. Wang, Lin Cheng,
+  Xuan Liang, and Albert~C. To.
+\newblock {Current and future trends in topology optimization for additive
+  manufacturing}.
+\newblock {\em Structural and Multidisciplinary Optimization},
+  57(6):2457--2483, 2018.
+
+\bibitem{Zegard2016}
+Tom{\'{a}}s Zegard and Glaucio~H. Paulino.
+\newblock {Bridging topology optimization and additive manufacturing}.
+\newblock {\em Structural and Multidisciplinary Optimization}, 53(1):175--192,
+  2016.
+
+\bibitem{Vogiatzis2017}
+Panagiotis Vogiatzis, Shikui Chen, Xiao Wang, Tiantian Li, and Lifeng Wang.
+\newblock {Topology optimization of multi-material negative Poisson's ratio
+  metamaterials using a reconciled level set method}.
+\newblock {\em CAD Computer Aided Design}, 83:15--32, 2017.
+
+\bibitem{Croce2021}
+Sipontina Croce, Julian Neu, Jonas Hubertus, Stefan Seelecke, Guenter Schultes,
+  and Gianluca Rizzello.
+\newblock {Model-based design optimization of soft polymeric domes used as
+  nonlinear biasing systems for dielectric elastomer actuators}.
+\newblock {\em Actuators}, 10(9), 2021.
+
+\bibitem{Voix2002}
+J{\'{e}}r{\'{e}}mie Voix and Fr{\'{e}}d{\'{e}}ric Laville.
+\newblock {Expandable Earplug with Smart Custom Fitting Capabilities}.
+\newblock In {\em The 2002 International Congress and Exposition on Noise
+  Control Engineering}, volume Vol. 111,, pages pp. 833--841, 2002.
+
+\bibitem{Smilek2016}
+Jan Smilek and Zdenek Hadas.
+\newblock {A study of kinetic energy harvesting for biomedical application in
+  the head area}.
+\newblock {\em Microsystem Technologies}, 22(7):1535--1547, jul 2016.
+
+\bibitem{Choi2016}
+Seon~Jin Choi, Sang~Joon Kim, and Il~Doo Kim.
+\newblock {Ultrafast optical reduction of graphene oxide sheets on colorless
+  polyimide film for wearable chemical sensors}.
+\newblock {\em NPG Asia Materials}, 8(9):1--10, 2016.
+
+\bibitem{Lee2016}
+Kun~Hyuck Lee and Sameh Tawfick.
+\newblock {Fiber micro-architected Electro–Elasto-Kinematic muscles}.
+\newblock {\em Extreme Mechanics Letters}, 8:64--69, 2016.
+
+\bibitem{Yip2015}
+Marcus Yip, Rui Jin, Hideko~Heidi Nakajima, Konstantina~M. Stankovic, and
+  Anantha~P. Chandrakasan.
+\newblock {A fully-implantable cochlear implant SoC with piezoelectric
+  middle-ear sensor and arbitrary waveform neural stimulation}.
+\newblock {\em IEEE Journal of Solid-State Circuits}, 50(1):214--229, 2015.
+
+\bibitem{Borole2021}
+Yogini~Dilip Borole and C~G Dethe.
+\newblock {\em {Low-Power IOT-Enabled Energy Systems}}, chapter~10, pages
+  151--197.
+\newblock John Wiley and Sons, Ltd, 2021.
+
+\bibitem{Gonzalez2016}
+Ander Gonz{\'{a}}lez, Eider Goikolea, Jon~Andoni Barrena, and Roman Mysyk.
+\newblock {Review on supercapacitors: Technologies and materials}.
+\newblock {\em Renewable and Sustainable Energy Reviews}, 58:1189--1206, 2016.
+
+\bibitem{Wang2015}
+Yuxing Wang, Bo~Liu, Qiuyan Li, Samuel Cartmell, Seth Ferrara, Zhiqun~Daniel
+  Deng, and Jie Xiao.
+\newblock {Lithium and lithium ion batteries for applications in
+  microelectronic devices: A review}.
+\newblock {\em Journal of Power Sources}, 286:330--345, 2015.
+
+\bibitem{Gibus2020}
+David Gibus.
+\newblock {\em {Conception de dispositifs pi{\'{e}}zo{\'{e}}lectriques
+  fortement coupl{\'{e}}s pour la r{\'{e}}cup{\'{e}}ration d ' {\'{e}}nergie
+  vibratoire large bande}}.
+\newblock PhD thesis, Universit{\'{e}} Savoie Mont Blanc, 2020.
+
+\bibitem{Kumari2020}
+Sweta Kumari, Sitanshu~Sekhar Sahu, Bharat Gupta, and Sudhansu {Kumar Mishra}.
+\newblock {\em {Energy harvesting via human body activities}}.
+\newblock Elsevier Inc., 2020.
+
+\bibitem{Khalid2019}
+Khalid Salman, Raouf Izaz, Khan Asif, Kim Nayeon, and Kim {Heung Soo}.
+\newblock {A Review of Human‑Powered Energy Harvesting for Smart Electronics
+  : Recent Progress and Challenges}.
+\newblock {\em Int. J. of Precis. Eng. and Manuf.-Green Tech.}, 6:821--851,
+  2019.
+
+\bibitem{Azimi2021}
+Sara Azimi, Allahyar Golabchi, Abdolhossein Nekookar, Shahram Rabbani,
+  Morteza~Hassanpour Amiri, Kamal Asadi, and Mohammad~Mahdi Abolhasani.
+\newblock {Self-powered cardiac pacemaker by piezoelectric polymer
+  nanogenerator implant}.
+\newblock {\em Nano Energy}, 83(November 2020):105781, 2021.
+
+\bibitem{Kim2014}
+Sun~Jin Kim, Ju~Hyung We, and Byung~Jin Cho.
+\newblock {A wearable thermoelectric generator fabricated on a glass fabric}.
+\newblock {\em Energy and Environmental Science}, 7(6):1959--1965, 2014.
+
+\bibitem{Zhao2020}
+Jinwei Zhao, Rami Ghannam, Kaung~Oo Htet, Yuchi Liu, Man kay Law,
+  Vellaisamy~A.L. Roy, Bruno Michel, Muhammad~Ali Imran, and Hadi Heidari.
+\newblock {Self-Powered Implantable Medical Devices: Photovoltaic Energy
+  Harvesting Review}.
+\newblock {\em Advanced Healthcare Materials}, 9(17):1--22, 2020.
+
+\bibitem{Wang2009}
+Shiunchin~C. Wang, Fan Yang, Manuel Silva, Anna Zarow, Yubing Wang, and Zafar
+  Iqbal.
+\newblock {Membrane-less and mediator-free enzymatic biofuel cell using carbon
+  nanotube/porous silicon electrodes}.
+\newblock {\em Electrochemistry Communications}, 11(1):34--37, 2009.
+
+\bibitem{Kwon2017}
+Dae~Sung Kwon, Hee~Jin Ko, and Jongbaeg Kim.
+\newblock {Piezoelectric and electromagnetic hybrid energy harvester using two
+  cantilevers for frequency up-conversion}.
+\newblock {\em Proceedings of the IEEE International Conference on Micro
+  Electro Mechanical Systems (MEMS)}, pages 49--52, 2017.
+
+\bibitem{Almouahed2016}
+Shaban Almouahed, Chafiaa Hamitouche, and Eric Stindel.
+\newblock {Self-powered device for tibiofemoral force measurement in knee
+  implant}.
+\newblock {\em 2nd International Conference on Advanced Technologies for Signal
+  and Image Processing, ATSIP 2016}, pages 359--363, 2016.
+
+\bibitem{Yang2013}
+Weiqing Yang, Jun Chen, Guang Zhu, Jin Yang, Peng Bai, Yuanjie Su, Qingsheng
+  Jing, Xia Cao, and Zhong~Lin Wang.
+\newblock {Harvesting energy from the natural vibration of human walking}.
+\newblock {\em ACS Nano}, 7(12):11317--11324, 2013.
+
+\bibitem{Ryu2021}
+Hanjun Ryu, Hyun moon Park, Moo~Kang Kim, Bosung Kim, Hyoun~Seok Myoung,
+  Tae~Yun Kim, Hong~Joon Yoon, Sung~Soo Kwak, Jihye Kim, Tae~Ho Hwang, Eue~Keun
+  Choi, and Sang~Woo Kim.
+\newblock {Self-rechargeable cardiac pacemaker system with triboelectric
+  nanogenerators}.
+\newblock {\em Nature Communications}, 12(1):1--9, 2021.
+
+\bibitem{Razek2020}
+S.~A. Razek, M.~R. Popeil, L.~Wangoh, J.~Rana, N.~Suwandaratne, J.~L. Andrews,
+  D.~F. Watson, S.~Banerjee, and L.~F.~J. Piper.
+\newblock {4 Ac ce pte d M us}.
+\newblock {\em Electronic Structure}, pages 0--25, 2020.
+
+\bibitem{Jang2011}
+Seon~Jun Jang, In~Ho Kim, Hyung~Jo Jung, and Yoon~Pyo Lee.
+\newblock {A tunable rotational energy harvester for low frequency vibration}.
+\newblock {\em Applied Physics Letters}, 99(13):2012--2015, 2011.
+
+\bibitem{Karadag2017}
+Cevat~Volkan Karadag and Nezih Topaloglu.
+\newblock {A Self-Sufficient and Frequency Tunable Piezoelectric Vibration
+  Energy Harvester}.
+\newblock {\em Journal of Vibration and Acoustics, Transactions of the ASME},
+  139(1):1--8, 2017.
+
+\bibitem{Tang2013}
+Lihua Tang, Yaowen Yang, and Chee~Kiong Soh.
+\newblock {Broadband Vibration Energy Harvesting Techniques}.
+\newblock In {\em Advances in Energy Harvesting Methods}, chapter~2, pages
+  17--61. 2013.
+
+\bibitem{Yildirim2017}
+Tanju Yildirim, Mergen~H. Ghayesh, Weihua Li, and Gursel Alici.
+\newblock {A review on performance enhancement techniques for ambient vibration
+  energy harvesters}.
+\newblock {\em Renewable and Sustainable Energy Reviews}, 71(July
+  2015):435--449, 2017.
+
+\bibitem{Morris2008}
+Dylan~J. Morris, John~M. Youngsman, Michael~J. Anderson, and David~F. Bahr.
+\newblock {A resonant frequency tunable, extensional mode piezoelectric
+  vibration harvesting mechanism}.
+\newblock {\em Smart Materials and Structures}, 17(6), 2008.
+
+\bibitem{Sari2008}
+Ibrahim Sari, Tuna Balkan, and Haluk Kulah.
+\newblock {An electromagnetic micro power generator for wideband environmental
+  vibrations}.
+\newblock {\em Sensors and Actuators, A: Physical}, 145-146(1-2):405--413,
+  2008.
+
+\bibitem{Toyabur2018}
+R.~M. Toyabur, M.~Salauddin, Hyunok Cho, and Jae~Y. Park.
+\newblock {A multimodal hybrid energy harvester based on
+  piezoelectric-electromagnetic mechanisms for low-frequency ambient
+  vibrations}.
+\newblock {\em Energy Conversion and Management}, 168(May):454--466, 2018.
+
+\bibitem{Maamer2019}
+Bilel Maamer, Ayda Boughamoura, Ahmed~M.R. {Fath El-Bab}, Laurent~A. Francis,
+  and Far{\`{e}}s Tounsi.
+\newblock {A review on design improvements and techniques for mechanical energy
+  harvesting using piezoelectric and electromagnetic schemes}.
+\newblock {\em Energy Conversion and Management}, 199(February):111973, 2019.
+
+\bibitem{Galchev2009}
+T.~Galchev, H.~Kim, and K.~Najafi.
+\newblock {Non-resonant bi-stable frequency-increased power scavenger from
+  low-frequency ambient vibration}.
+\newblock In {\em TRANSDUCERS 2009 - 15th International Conference on
+  Solid-State Sensors, Actuators and Microsystems}, pages 632--635. IEEE, jun
+  2009.
+
+\bibitem{Halim2015}
+Miah~A. Halim, Hyunok Cho, and Jae~Y. Park.
+\newblock {Design and experiment of a human-limb driven, frequency up-converted
+  electromagnetic energy harvester}.
+\newblock {\em Energy Conversion and Management}, 106:393--404, 2015.
+
+\bibitem{Halim2013}
+M.~A. Halim and J.~Y. Park.
+\newblock {A frequency up-converted electromagnetic energy harvester using
+  human hand-shaking}.
+\newblock {\em Journal of Physics: Conference Series}, 476(1):0--5, 2013.
+
+\bibitem{Sari2010}
+Ibrahim Sari, Tuna Balkan, and Haluk K{\"{u}}lah.
+\newblock {An electromagnetic micro power generator for low-frequency
+  environmental vibrations based on the frequency upconversion technique}.
+\newblock {\em Journal of Microelectromechanical Systems}, 19(1):14--27, 2010.
+
+\bibitem{Gu2011}
+Lei Gu.
+\newblock {Low-frequency piezoelectric energy harvesting prototype suitable for
+  the MEMS implementation}.
+\newblock {\em Microelectronics Journal}, 42(2):277--282, mar 2011.
+
+\bibitem{Zhang2018}
+Xiyang Zhang, Shiqiao Gao, Dongguang Li, Lei Jin, Qinghe Wu, and Feng Liu.
+\newblock {Frequency up-converted piezoelectric energy harvester for
+  ultralow-frequency and ultrawide-frequency-range operation}.
+\newblock {\em Applied Physics Letters}, 112(16), 2018.
+
+\bibitem{Quattro2019}
+Resound.
+\newblock {ReSound LiNX Quattro Datasheet}.
+\newblock 2019.
+
+\bibitem{COCHLEAR}
+COCHLEAR.
+\newblock {Nucleus CI612 technical datasheet}, 2021.
+
+\bibitem{Scherer2019}
+Moritz Scherer, Kiran Menachery, and Michele Magno.
+\newblock {SmartAid: A Low-Power Smart Hearing Aid for Stutterers}.
+\newblock {\em SAS 2019 - 2019 IEEE Sensors Applications Symposium, Conference
+  Proceedings}, pages 1--6, 2019.
+
+\bibitem{Kulah2022}
+Haluk Külah, Hasan Uluşan, Salar Chamanian, Aykan Batu, M.~Birol Uğur,
+  M.~Berat Yüksel, Akin~M. Yilmaz, H.~Andaç Yiğit, Aziz Koyuncuoğlu, Özlem
+  Topçu, and Alper~K. Soydan.
+\newblock A fully-implantable mems-based autonomous cochlear implant.
+\newblock In {\em 2022 IEEE 35th International Conference on Micro Electro
+  Mechanical Systems Conference (MEMS)}, pages 396--399, 2022.
+
+\bibitem{ASL-Kids2019}
+ASL-Kids.
+\newblock {How long do Cochlear Implant batteries last?}
+\newblock {\em
+  https://asl-kids.com/how-long-do-cochlear-implant-batteries-last/}, 2019.
+
+\bibitem{Woodruff2021}
+Torri~Ann Woodruff, Jackie DiFrancesco, Michael Kurth, Alison Marinelli, and
+  Kathleen~M. Cienkowski.
+\newblock Disposable hearing aid battery management: Survey assessment of
+  providers and qualitative interviews of patients.
+\newblock {\em American Journal of Audiology}, 30:730--744, 9 2021.
+
+\bibitem{PracticesAudiology2016}
+{Practices Audiology}.
+\newblock {RECHARGEABLE HEARING AID PREFERENCES: SURVEY FINDINGS}.
+\newblock {\em
+  https://www.audiologypractices.org/rechargeable-hearing-aid-preferences-survey-findings},
+  2016.
+
+\bibitem{Carioli2016}
+Johan Carioli, Aidin Delnavaz, Ricardo~J. Zednik, and J{\'{e}}r{\'{e}}mie Voix.
+\newblock {Power capacity from earcanal dynamic motion}.
+\newblock {\em AIP Advances}, 6(12):125203, dec 2016.
+
+\bibitem{Delnavaz2014}
+Aidin Delnavaz and Jeremie Voix.
+\newblock {Energy Harvesting for In-Ear Devices Using Ear Canal Dynamic
+  Motion}.
+\newblock {\em IEEE Transactions on Industrial Electronics}, 61(1):583--590,
+  jan 2014.
+
+\bibitem{Bouchard-Roy2020}
+Jacob Bouchard-Roy, Aidin Delnavaz, and Jeremie Voix.
+\newblock {In-Ear Energy Harvesting: Evaluation of the Power Capability of the
+  Temporomandibular Joint}.
+\newblock {\em IEEE Sensors Journal}, 20(12):6338--6345, 2020.
+
+\bibitem{TURCOT2011}
+Michael~C. Turcot and J{\'{e}}r{\'{e}}mie Voix.
+\newblock {United States Patent Application 20110079227 : Pressure Regulation
+  Mechanism for Inﬂatable In- Ear Device}, 2011.
+
+\bibitem{Delnavaz2013}
+Aidin Delnavaz and J{\'{e}}r{\'{e}}mie Voix.
+\newblock {Piezo-earpiece for micro-power generation from ear canal dynamic
+  motion}.
+\newblock {\em Journal of Micromechanics and Microengineering}, 23(11):114001,
+  nov 2013.
+
+\bibitem{Kulah2008}
+Haluk Kulah and Khalil Najafi.
+\newblock {Energy Scavenging from Low-Frequency Vibrations by Using Frequency
+  Up-Conversion for Wireless Sensor Applications}.
+\newblock {\em IEEE Sensors Journal}, 8(3):261--268, 2008.
+
+\bibitem{Priya2017}
+{A Review on Piezoelectric Energy Harvesting: Materials, Methods, and
+  Circuits}.
+\newblock {\em Energy Harvesting and Systems}, 4(1):3--39, 2019.
+
+\bibitem{Marin2011}
+Anthony Marin, Scott Bressers, and Shashank Priya.
+\newblock Multiple cell configuration electromagnetic vibration energy
+  harvester.
+\newblock {\em Journal of Physics D: Applied Physics}, 44(29):295501, jul 2011.
+
+\bibitem{Delnavaz2012}
+A~Delnavaz and J~Voix.
+\newblock {Micro-Power Energy Harvesting for In-Ear Devices}.
+\newblock In {\em PowerMEMS 2012}, pages 488--491, 2012.
+
+\bibitem{Fady1988}
+Z.~Kamand Fady.
+\newblock {HYDRAULIC FRICTION FACTORS FOR PIPE FLOW By Fadi Z. Kamand, 1
+  Associate Member, ASCE}.
+\newblock {\em Irrigation and Drainage}, 114(2):311--323, 1988.
+
+\bibitem{Wang2020}
+Yingzhe Wang, Kazuma Toyoda, Kaoru Uesugi, and Keisuke Morishima.
+\newblock {A simple micro check valve using a photo-patterned hydrogel valve
+  core}.
+\newblock {\em Sensors and Actuators, A: Physical}, 304:111878, 2020.
+
+\bibitem{Snyder2007}
+Benjamin Snyder, Seungjun Lee, Nadine {Barrie Smith}, and Robert~E. Newnham.
+\newblock {Ferroelectric transducer arrays for transdermal insulin delivery}.
+\newblock {\em Frontiers of Ferroelectricity: A Special Issue of the Journal of
+  Materials Science}, (December):1--288, 2007.
+
+\bibitem{Guo2019}
+Rongjing Guo, Shiyang Li, Tangan Li, Xuan Sun, Luan Lin, and Sihao Sun.
+\newblock {Analysis and design of low frequency and high power flextensional
+  transducer with double-grooves}.
+\newblock {\em Applied Acoustics}, 149:25--31, 2019.
+
+\bibitem{Aldrich1994}
+Jack~B Aldrich and National Aeronautics.
+\newblock {\em {Design Space of Passive Structures Piezoelectric Damping for}}.
+\newblock Number Report 4625. 1994.
+
+\bibitem{Zhou2013}
+Wanlu Zhou and Lei Zuo.
+\newblock {On the effects of blade-disk interface mistuning on the response of
+  integrated bladed rotors}.
+\newblock {\em Proceedings of the ASME Design Engineering Technical
+  Conference}, 8, 2013.
+
+\bibitem{OmegaPiezo2022}
+{Omega Piezo}.
+\newblock {Piezoelectric ceramics datasheet}, 2022.
+
+\bibitem{Fujishima1984}
+S.~Fujishima, J.~Merlina, and J.~Miyazaki.
+\newblock {\em Piezo Electric Ceramic Resonators and Filters}.
+\newblock 1984.
+
+\bibitem{HYDRACINTERNATIONAL2022}
+{HYDRAC INTERNATIONAL}.
+\newblock {Distributeur {\`{a}} tiroir 4/2 et 4/3 {\`{a}} commande
+  {\'{e}}lectrique, pilotage direct {\`{a}} commutation souple 4WEW 6}.
+\newblock {\em Product datasheet}, pages 1--8, 2022.
+
+\bibitem{Maxicours2022}
+Maxicours.
+\newblock Controles de debit.
+\newblock {\em https://www.maxicours.com/se/cours/controles-de-debit/}, 2022.
+
+\bibitem{Kenovel2022}
+Kenovel.
+\newblock {Vanne a membrane}.
+\newblock {\em https://kenovel.fr/vanne-membrane.html}, 2022.
+
+\bibitem{Elad1992}
+D.~Elad, M.~Sahar, J.~M. Avidor, and S.~Einav.
+\newblock {Steady flow through collapsible tubes: Measurements of flow and
+  geometry}.
+\newblock {\em Journal of Biomechanical Engineering}, 114(1):84--91, 1992.
+
+\bibitem{Ribeau1994}
+C.~Ribeau, S.~Naili, and A.~Langlet.
+\newblock {Head loss in smooth pipes obtained from collapsed tubes}.
+\newblock {\em Journal of fluids and structures}, 8:183--200, 1994.
+
+\bibitem{Heil1996}
+M.~Heil and T.~J. Pedley.
+\newblock {Large post-buckling deformations of cylindrical shells conveying
+  viscous flow}.
+\newblock {\em Journal of Fluids and Structures}, 10(6):565--599, 1996.
+
+\bibitem{Conrad1969}
+William~A. Conrad.
+\newblock {Pressure-Flow Relationships in Collapsible Tubes}.
+\newblock {\em IEEE Transactions on Biomedical Engineering},
+  BME-16(4):284--295, 1969.
+
+\bibitem{SMARTFLEXGarden2019}
+{SMARTFLEX Garden}.
+\newblock {Le gamme SMARTFLEX SMT - Une nouvelle g{\'{e}}n{\'{e}}ration de
+  tuyaux d'arrosage}.
+\newblock {\em https://www.youtube.com/watch?v=va2GyB3WzLg}, 2019.
+
+\bibitem{Blessingscaptured2022}
+Blessingscaptured.
+\newblock {A green kinked garden hose}.
+\newblock {\em
+  https://www.dreamstime.com/knot-kink-garden-illustrates-selfishness-god-s-love-isn-t-flowing-green-kinked-garden-hose-image200331045},
+  2022.
+
+\bibitem{Avetissian2021}
+Tigran Avetissian, Fabien Formosa, Adrien Badel, Michel Demuynck, Aidin
+  Delnavaz, and J{\'{e}}r{\'{e}}mie Voix.
+\newblock {ENERGY HARVESTER DEVICE USING DYNAMIC MOTION AND METHOD THEREOF
+  (M{\'{e}}thode et dispositif de grappillage {\'{e}}nerg{\'{e}}tique {\`{a}}
+  base de micro-pompe hydraulique : utilisation intra-auriculaire)}.
+\newblock {\em US Provisional Patent Application 63/173,463}, pages 1--17,
+  2021.
+
+\bibitem{Corona1996}
+Edmundo Corona and Suhas~P. Vaze.
+\newblock {Buckling of elastic-plastic square tubes under bending}.
+\newblock 38(7):753--775, 1996.
+
+\bibitem{Houliara2006}
+S.~Houliara and S.~A. Karamanos.
+\newblock {Buckling and post-buckling of long pressurized elastic thin-walled
+  tubes under in-plane bending}.
+\newblock {\em International Journal of Non-Linear Mechanics}, 41(4):491--511,
+  2006.
+
+\bibitem{Ju1992}
+G.~T. Ju and S.~Kyriakides.
+\newblock {Bifurcation and localization instabilities in cylindrical shells
+  under bending-II. Predictions}.
+\newblock {\em International Journal of Solids and Structures},
+  29(9):1143--1171, 1992.
+
+\bibitem{Liu2008}
+Yucheng Liu and Michael~L. Day.
+\newblock {Bending collapse of thin-walled circular tubes and computational
+  application}.
+\newblock {\em Thin-Walled Structures}, 46(4):442--450, 2008.
+
+\bibitem{Chen2016}
+Dai-heng Chen.
+\newblock {\em {Crush Mechanics of Thin-Walled Tubes}}.
+\newblock 2016.
+
+\bibitem{Huguet2019}
+Thomas Huguet.
+\newblock {\em {Vers une meilleure exploitation des dispositifs de
+  r{\'{e}}cup{\'{e}}ration d'{\'{e}}nergie vibratoire bistables: Analyse et
+  utilisation de comportements originaux pour am{\'{e}}liorer la bande
+  passante}}.
+\newblock PhD thesis, Universit{\'{e}} Savoie Mont Blanc, 2019.
+
+\bibitem{Idelcik1986}
+Idel'cik.
+\newblock {\em {M{\'{e}}mento des pertes de charges}}.
+\newblock Eyrolles edition, 1986.
+
+\bibitem{Giles2013}
+Renald~V. Giles, Jack~B. Evett, and Cheng Liu.
+\newblock {\em {Fluid Mechanics and Hydraulics}}.
+\newblock 4th editio edition, 2013.
+
+\bibitem{Brater1988}
+Ernest~F. Brater, Horace~W. King, James~E. Lindell, and C.Y. Wei.
+\newblock {\em {Handbook of Hydraulics}}.
+\newblock 7th editio edition, 1988.
+
+\bibitem{Huguet2018}
+Thomas Huguet, Micka{\"{e}}l Lallart, and Adrien Badel.
+\newblock {Orbit jump in bistable energy harvesters through buckling level
+  modification}.
+\newblock {\em Mechanical Systems and Signal Processing}, 128:202--215, 2019.
+
+\bibitem{Rajurkar1997}
+K.~P. Rajurkar and W.~M. Wang.
+\newblock {Improvement of edm performance with advanced monitoring and control
+  systems}.
+\newblock {\em Journal of Manufacturing Science and Engineering, Transactions
+  of the ASME}, 119(4B):770--775, 1997.
+
+\bibitem{Courbon1988}
+J~Courbon and Jean-No{\"{e}}l Theillout.
+\newblock {R{\'{e}}sistance des mat{\'{e}}riaux. Formulaire (suite)= Material
+  strength. Formulary (continuation)}.
+\newblock {\em Techniques de l'ing{\'{e}}nieur}, 1988.
+
+\bibitem{Lefeuvre2005}
+Elie Lefeuvre, Adrien Badel, Claude Richard, and Daniel Guyomar.
+\newblock {Piezoelectric energy harvesting device optimization by synchronous
+  electric charge extraction}.
+\newblock {\em Journal of Intelligent Material Systems and Structures},
+  16(10):865--876, 2005.
+
+\bibitem{Ashby1998}
+Michael~F. Ashby and David~R.H. Jones.
+\newblock {\em {Mat{\'{e}}riaux - Tome 1 : Propri{\'{e}}t{\'{e}}s, applications
+  et conception}}.
+\newblock Dunod, 1998.
+
+\bibitem{Jaboviste2018}
+K{\'{e}}vin Jaboviste.
+\newblock {\em {Caract{\'{e}}risation exp{\'{e}}rimentale et mod{\'{e}}lisation
+  de solutions amortissantes pour la r{\'{e}}duction des transferts vibratoires
+  et la stabilisation de syst{\`{e}}mes embarqu{\'{e}}s}}.
+\newblock PhD thesis, Universit{\'{e}} Bourgogne Franche-Comt{\'{e}}, 2018.
+
+\bibitem{Podoprosvetova2021}
+A.~Podoprosvetova, J.~Zayko, V.~Yushutin, and V.~Vedeneev.
+\newblock {Experimental study of the flow regime effect on the stability of
+  collapsible tubes conveying fluid}.
+\newblock {\em Physics of Fluids}, 33(6), 2021.
+
+\bibitem{Nahar2019}
+Samsun Nahar, Bipro~N. Dubey, and Erich~J. Windhab.
+\newblock {Influence of flowing fluid property through an elastic tube on
+  various deformations along the tube length}.
+\newblock {\em Physics of Fluids}, 31(10), 2019.
+
+\bibitem{Ghazy2018}
+Mohammed Ghazy, Mohamed~B. Elgindi, and Dongming Wei.
+\newblock {Analytical and numerical investigations of the collapse of blood
+  vessels with nonlinear wall material embedded in nonlinear soft tissues}.
+\newblock {\em Alexandria Engineering Journal}, 57(4):3437--3450, 2018.
+
+\bibitem{Gibson1910}
+A~H Gibson and Proc R Soc~Lond A.
+\newblock {On the flow of water through pipes and passages having converging or
+  diverging boundaries}.
+\newblock {\em Proceedings of the Royal Society of London. Series A, Containing
+  Papers of a Mathematical and Physical Character}, 83(563):366--378, 1910.
+
+\bibitem{CRANECO1982}
+{\em {Flow of fluids through valves, fittings and pipe.}}
+\newblock 1982.
+
+\bibitem{Dupont2012}
+{Dupont Kapton}.
+\newblock {1mil DuPont Kapton datasheet}.
+\newblock {\em
+  https://www.dupont.com/content/dam/dupont/amer/us/en/products/ei-transformation/documents/EI-10142-Kapton-Summary-of-Properties.pdf},
+  pages 1--19, 2021.
+
+\bibitem{Hussian2008}
+Zoeb Hussian, Zulkifly Abdullah, and Zanial Alimuddin.
+\newblock {\em {Basic Fluid Mechanics and Hydraulic Machines}}.
+\newblock BS Publications, 2008.
+
+\bibitem{Nosonovsky2013}
+Michael Nosonovsky, Satish~V Kailas, and Michael R~Lovell Editors.
+\newblock {\em {Tribology for Scientists and Engineers}}.
+\newblock 2013.
+
+\bibitem{Koutnik2006}
+Jiri Koutnik, Christophe Nicolet, Gerald~A. Schohl, and Francois Avellan.
+\newblock {Overload Surge Event in a Pumped-Storage Power Plant}.
+\newblock {\em 23rd IAHR Symposium, Yokohama}, 1(October):1--14, 2006.
+
+\bibitem{Flemming2009}
+Felix Flemming, Jason Foust, Jiri Koutnik, and Richard~K. Fisher.
+\newblock {Overload Surge Investigation Using CFD Data}.
+\newblock {\em International Journal of Fluid Machinery and Systems},
+  2(4):315--323, 2009.
+
+\end{thebibliography}

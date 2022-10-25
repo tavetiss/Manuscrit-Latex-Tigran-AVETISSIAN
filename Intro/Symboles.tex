@@ -1,0 +1,187 @@
+% LTeX: language=fr
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                         SYMBOLES
+%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\phantomsection     
+\addcontentsline{toc}{chapter}{Liste des symboles}
+
+\vspace*{-1cm}
+\begin{center}
+\section*{\fontsize{24pt}{24pt}\selectfont\textnormal{Liste des symboles}}
+\end{center}
+\vspace{2cm}
+
+\lhead[\fancyplain{}{Liste des symboles}]
+      {\fancyplain{}{}}
+\chead[\fancyplain{}{}]
+      {\fancyplain{}{}}
+\rhead[\fancyplain{}{}]
+      {\fancyplain{}{Liste des symboles}}
+\lfoot[\fancyplain{}{}]%
+      {\fancyplain{}{}}
+\cfoot[\fancyplain{}{\thepage}]
+      {\fancyplain{}{\thepage}}
+\rfoot[\fancyplain{}{}]%
+     {\fancyplain{}{\scriptsize}}
+     
+
+\begin{table}
+      \begin{tabular}{l m{12cm}}
+\toprule
+$a_h$ [~~]           & Coefficient d'amplification hydraulique                            \\
+$a$ [m]         & Bras de levier de pliage de la VH                                  \\ \cline{1-1}
+$C_0$~[Fa]       & Capacité interne du GPA \\
+$Cf$~[Pa.s$^2$m$^{-6}$]            & Coefficient de PdC de la VH à   \\
+$Cf_{b}$~[Pa.s$^2$m$^{-6}$]        & Coefficient de PdC de la VH$_b$                       \\
+$Cf_{h}$~[Pa.s$^2$m$^{-6}$]        & Coefficient de PdC de la VH$_h$  \\
+$Cf_{0}$~[Pa.s$^2$m$^{-6}$]        & Coefficient de PdC de la VH en position ouverte                    \\
+$Cf_{f}$~[Pa.s$^2$m$^{-6}$]        & Coefficient de PdC de la VH en position fermée                     \\
+$Cf_{VH}$~[Pa.s$^2$m$^{-6}$]       & Coefficient de PdC de la VH à base de tube flambé   \\
+$C_p$~[N.s/m]    & Coefficient de frottement visqueux dans un PH \\
+$c_{xp}$~[~~]      & Rapport entre la position rétractée des pistons et la hauteur de flambement du système bistable \\  \cline{1-1}
+$D$~[m]              & Diamètre du conduit pour le calcul des pertes de charges régulières    \\
+$D_{gr}$ [m]         & Diamètre de la gaine rigide de la VH                               \\
+$D_h$~[m]           & Diamètre hydraulique \\ 
+$D_p$~[m]            & Diamètre du piston hydraulique actionnant l'OB                \\
+$D_t$~[m]       & Diamètre de tube \\  \cline{1-1}
+$E$~[GPa]    & Module d'Young de l'acier APX4 \\
+$E_{ear,m}$~[J]          & Énergie maximale pouvant être fournie par le bouchon d'oreille \\
+$Ep_{bar,m}$~[J]         & Énergie élastique maximale pouvant être emmagasinée avec un OB depuis $E_{ear,m}$. \\
+$E_{st}$~[J]          & Énergie élastique dans la structure déformée dans le modèle EF pour l'étude statique des LF \\
+$E_t$~[GPa]    & Module d'Young du kapton \\
+$e$~[m]         & Épaisseur de l'OB monobloc (suivant $\vec{y}$) \\  \cline{1-1}
+$F_{adm}$~[N]      & Force de compression sur les LF au passage de M par $x=0$    \\
+$F_{atm}$~[N]      & Force de précontrainte maximale supportée par le GPA  \\
+$F_{c}$~[N]        & Force élastique maximale de l'OB suivant son axe d'oscillation \\
+$F_{cfl}$ [N]      & Force critique de compression sur les LF, faisant apparaître les modes de flambement au passage de M par $x=0$    \\
+$F_{fl}$~[N]          & Modélisation de la précontrainte de flambement induite par la vis micrométrique dans le modèle EF pour l'étude de flambement des LF \\
+
+
+
+     \end{tabular}
+\end{table}
+
+\begin{table}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l m{12cm}}
+$F_{ob}$~[N]       & Force élastique de l'OB suivant son axe d'oscillation \\
+$F_{p}$~[N]        & Force de perturbation pour étude statique en EF \\
+$F_{pis}$~[N]      & Force de poussée du piston actif \\
+$F_t$~[N]          & Force exercée par le tube durant les essais statiques  \\      
+$F_{pis}$~[N]      & Force de poussée du piston actif \\
+$F_t$~[N]          & Force exercée par le tube durant les essais statiques  \\$F_{z,0}$~[N]      & Force de compression sur les LF au passage de M par $x=0$    \\
+$F_{z,x_0}$~[N]    & Force de précontrainte sur le GPA, induisant le flambement en x0 \\
+$f_0$~[Hz]         & Fréquence d'oscillations naturelle du convertisseur électromécanique \\   
+$f_{ear}$~[Hz]    & Fréquence de mastication  \\   
+$\tilde{f}$~[~~]   & Critère de fonctionnement  \\  \cline{1-1}
+$H_1$~[m]          & Largeur du cadre de l'OB monobloc (suivant $\vec{x}$) \\
+$H_2$~[m]          & Longueur du cadre de l'OB monobloc (suivant $\vec{z}$) \\  \cline{1-1}
+$I_v$~[m$^4$]      & Moment quadratique de la LG usinée suivant l'axe $\vec{y}$ \\  \cline{1-1}
+$K$~[N/m]       & Raideur du GPA \\ 
+$K_{eq}$~[N/m]  & Raideur équivalente de l'OB implémentant le GPA \\
+$K_{LG}$~[N/m]  & Raideur en flexion de la LG usinée \\
+$K_{LF}$~[N/m]  & Raideur en compression des quatre LFs \\
+$K_{t}$~[Nm/rad]     & Raideur en rotation du tube kapton testé sur le banc d'essai statique                  \\
+$K_{st}$~[Nm/rad]     & Raideur en rotation des 8 liaisons pivots souples dans le modèle EF pour l'étude statique des LFs \\
+$K_{VH}$~[Nm/rad]    & Raideur en rotation de la VH                                       \\
+$K_{\varphi}$~[Nm/rad]& Raideur en rotation pour une liaison pivot souple   \\
+$k^2$~[~~]      & Coefficient de couplage électromécanique du GPA \\
+$k^2_{sys}$~[~~]& Coefficient de couplage électromécanique de l'OB intégrant le GPA (convertisseur électromécanique HF) \\  \cline{1-1}
+$L$~[m]    & Distance entre deux liaisons pivots adjacents sur l'OB (suivant $\vec{z}$) \\
+$L_{GR}$~[m]    & Longueur de la portion mobile de GR \\
+$L_t$~[m]       & Longueur de tube \\
+$L_{v}$~[m]     & Longueur d'une demi LG usinée (suivant $\vec{x}$) \\
+$L_{v2}$~[m]    & Longueur de la LG ajoutée au montage (suivant $\vec{x}$) \\
+$l$~[m]         & Largeur d'une LF (suivant $\vec{x}$) \\
+$l_{v}$~[m]     & Largeur d'une demi LG usinée (suivant $\vec{z}$) \\
+$l_{v2}$~[m]    & Largeur de la LG ajoutée au montage(suivant $\vec{z}$) \\  \cline{1-1}
+$M_{st}$~[N.m]        & Moment généré par les 8 liaisons pivots souples dans le modèle EF pour l'étude statique des LF\\
+$m$~[kg]          & Masse dynamique de l'OB  \\
+$m_b$~[kg]         & Masse mesurée sur la balance de précision pour essais statiques  \\
+            \end{tabular}}
+\end{table}
+
+\begin{table}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l m{12cm}}
+$m_{ch}$~[~~]      & Coefficient multiplicateur de charge pour le calcul de $F_{cfl}$   \\  \cline{1-1}
+$N_b$~[~~]         & Nombre de tours de la bobine d'une génératrice EM     \\  \cline{1-1}
+$P_e$~[$W$]        & Puissance électrique récupérée par le GPA  \\
+$p_{1}$~[Pa]       & Pression en amont de la VH sur le banc d'essai hydraulique  \\
+$p_{2}$~[Pa]       & Pression en aval de la VH sur le banc d'essai hydraulique   \\
+$p_c$~[Pa]         & Pression seuil pour le confort de l'utilisateur \\
+$p_{ear}$~[Pa]     & Pression du bouchon d'oreille  \\
+$p_{gon}$~[Pa]     & Pression de gonflage initiale du bouchon d'oreille \\
+$p_{f}$~[Pa]       & Pression de fluide dans le piston passif \\
+$p_{o}$~[Pa]       & Pression du fluide dans le piston actif  \\
+$p_{pb}$~[Pa]      & Pression du fluide dans le PH$_b$  \\
+$p_{ph}$~[Pa]      & Pression de fluide dans le PH$_h$ \\  \cline{1-1}
+$Q$~[~~]           & Facteur de qualité du convertisseur électromécanique \\  \cline{1-1}
+$q_{ear}$~[m$^3$/s]& Débit de fluide sortant du bouchon d'oreille \\ 
+$q_{f}$~[m$^3$/s]  & Débit de fluide traversant la branche fermée  \\
+$q_{o}$~[m$^3$/s]  & Débit de fluide traversant la branche ouverte \\
+$q_{pb}$~[m$^3$/s] & Débit de fluide vu par le PH$_b$ \\
+$q_{ph}$~[m$^3$/s] & Débit de fluide vu par le PH$_h$  \\ \cline{1-1}
+$R_{ch}$~[$\Omega$]  & Résistance de charge du circuit d'extraction du système  \\
+$Re$~[~~]            & Nombre adimensionnel de Reynolds               \\
+$r_{Cf}$~[~~]        & Rapport entre $Cf_{f}$ et $Cf_{0}$                                 \\
+($r_{Cf})_{min}$~[~~]& Rapport minimal entre $Cf_{f}$ et $Cf_{0}$ pour assurer le cyclage hydraulique   \\  \cline{1-1}
+$S_e$~[m$^2$]       & Section à l'entrée de l'AH \\ 
+$S_p$~[m$^2$]       & Section du PH \\ 
+$S_s$~[m$^2$]       & Section à la sortie de l'AH \\  \cline{1-1} 
+$t$~[s]            & Temps   \\
+$th_t$~[m]      & Épaisseur de tube \\  \cline{1-1}
+$U_b$~[V]            & Tension induite dans la bobine d'une génératrice EM     \\
+$U_p$~[V]      & Tension aux bornes du GPA \\  \cline{1-1}
+$V_{boitier}$~[m$^3$]   & Volume standard d'appareil auditif ou d'implant cochléaire\\
+$V_m$~[m$^3$]      & Volume effectif de matériau transducteur   \\  \cline{1-1}
+$x_0$~[m]            & Position d'équilibre stable de M / niveau de flambement de l'OB \\
+$x_{0,eq}$~[m]       & Niveau de flambement de l'OB$_{0,eq}$                     \\
+$x_{0,max}$~[m]      & Niveau de flambement maximal admissible pour l'OB fabriqué \\
+$x_{0,vh}$~[m]       & Niveau de flambement de l'OBVH                    \\
+$x_{c}$~[m]        & Position de M où la force élastique de l'OB, suivant son axe d'oscillation, est maximale \\
+\end{tabular}}
+\end{table}
+
+
+\begin{table}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l m{12cm}}
+$x_m$~[m]          & Position de la masse M   \\
+$(x_m)_{max}$~[m]     & Position maximale de M dans le modèle EF pour l'étude statique des LF \\
+$x_{ms}$ [m]       & Abscisse limite de M avant l'apparition du contact supérieur      \\
+$x_{p0}$~[m$^3$]   & Valeur absolue de la position rétractée des PH \\
+$x_{pb}$~[m$^3$]   & Valeur absolue de la position du PH$_b$ \\
+$x_{ph}$~[m$^3$]   & Valeur absolue de la position du PH$_h$ \\  \cline{1-1}
+$\alpha$           & Facteur de force du GPA  \\  \cline{1-1}
+$\Delta p_{ear}$~[Pa]     & Variation de pression du bouchon d'oreille \\
+$\Delta p_{cl}$~[Pa]    & Pertes de charges singulières dans un clapet anti-retour \\
+$\Delta V_{ear}$~[m$^3$]     & Variation de volume du bouchon d'oreille   \\
+$(\Delta V_{ear})_{max}$~[m$^3$]& Variation de volume maximale du bouchon d'oreille   \\
+$\Delta\theta$~[deg] & Plage d'angle de flexion de la VH pour $x_m\in[\ 0\ ;\ x_0\ ]$     \\
+\cline{1-1}
+$\epsilon$~[~~]      & Niveau de flambement de l'OB.  \\  \cline{1-1}
+$\eta_{g}$~[~~]    & Rendement global du récupérateur \\
+$\eta_{ob}$~[~~]   & Rendements qu convertisseur électromécanique \\ 
+$\tilde{\eta}$~[~~]  & Critère de rendement  \\ \cline{1-1}
+$\theta$~[deg]       & Angle de flexion de la VH              \\            
+$\theta_{0}$~[deg]   & Angle de la VH en position ouverte                           \\
+$\theta_{f}$~[deg]   & Angle de la VH en position fermée                              \\
+$\theta_p$~[$rad$]   & Angle induit par la plastification locale sur le tube kapton.  \\  \cline{1-1}
+$\lambda$~[SI]       & Coefficient de PdC singulières issu d'abaques \\  \cline{1-1}
+$\mu$~[Ns/m]         & Coefficient d'amortissement visqueux de l'OB     \\
+$\mu_f$~[Pa.s]       & Viscosité dynamique du fluide pressurisant le bouchon d'oreille     \\
+$\mu_{fs}$~[~~]    & Coefficient de frottement sec au contact entre M et une VH         \\
+$\mu_{to}$~[Pa.s]      & Viscosité dynamique de l'huile de tournesol \\   \cline{1-1}
+$\nu_t$~[~~]    & Coefficient de poisson du kapton \\  \cline{1-1}
+$\rho$~[kg/m$^3$]    & Masse volumique du fluide pressurisant le bouchon d'oreille     \\
+$\rho_{to}$~[kg/m$^3$] & Masse volumique de l'huile de tournesol \\   \cline{1-1}
+$\sigma_{max}$~[MPa] & Contrainte maximale dans une LF     \\  \cline{1-1}
+$\Phi$~[Wb]          & Flux magnétique variable dans une génératrice EM  \\
+$\varphi$~[rad]      & Angle de rotation pour une liaison pivot souple   \\  \cline{1-1}
+$\omega_0$~[rad/s] & Pulsation propre du système oscillant \\ 
+\bottomrule
+\end{tabular}}
+\end{table}

@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: A_MAIN_Manuscrit_Tigran.aux
+The style file: unsrt.bst
+Database file #1: ../Conclusion/Biblio.bib
+Warning--I didn't find a database entry for ""
+Warning--empty journal in Alhuwaidi2021
+Warning--can't use both volume and number fields in Voix2002
+Warning--empty publisher in Tang2013
+Warning--empty journal in Quattro2019
+Warning--empty author in Priya2017
+Warning--there's a number but no volume in Snyder2007
+Warning--there's a number but no series in Aldrich1994
+Warning--empty publisher in Aldrich1994
+Warning--empty publisher in Fujishima1984
+Warning--empty journal in Corona1996
+Warning--empty publisher in Chen2016
+Warning--empty publisher in Idelcik1986
+Warning--empty publisher in Giles2013
+Warning--empty publisher in Brater1988
+Warning--empty author and editor in CRANECO1982
+Warning--empty publisher in CRANECO1982
+Warning--empty publisher in Nosonovsky2013
+You've used 132 entries,
+            1791 wiz_defined-function locations,
+            1299 strings with 30527 characters,
+and the built_in function-call counts, 31840 in all, are:
+= -- 2781
+> -- 1637
+< -- 20
++ -- 598
+- -- 466
+* -- 2429
+:= -- 5112
+add.period$ -- 391
+call.type$ -- 132
+change.case$ -- 119
+chr.to.int$ -- 0
+cite$ -- 149
+duplicate$ -- 1295
+empty$ -- 2941
+format.name$ -- 466
+if$ -- 6906
+int.to.chr$ -- 0
+int.to.str$ -- 132
+missing$ -- 133
+newline$ -- 655
+num.names$ -- 130
+pop$ -- 314
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 580
+stack$ -- 0
+substring$ -- 2288
+swap$ -- 260
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 17
+while$ -- 325
+width$ -- 135
+write$ -- 1408
+(There were 18 warnings)

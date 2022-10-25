@@ -1,0 +1,4037 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.3)  7 SEP 2022 12:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/PHD/Manuscrit/Manuscrit Latex Tigran AVETISSIAN/Manuscrit/A_MAIN_Manuscrit_Tigran.tex"
+(d:/PHD/Manuscrit/Manuscrit Latex Tigran AVETISSIAN/Manuscrit/A_MAIN_Manuscrit_Tigran.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-29> (./Classe_SYMME.cls
+Document Class: Classe_SYMME 2017/02/23 Classe de l'UniversitÃ© Savoie Mont Blanc
+(./report2.cls
+Document Class: report2 2007/10/19 v1.4h Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./Packages.tex (c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/04/30 3.74 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language87
+ (c:/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+ (c:/texlive/2022/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2022/04/18 v3.5n French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language29). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language29). Reported on input line 92.
+\FB@nonchar=\count196
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count197
+\FBold@everypar=\toks18
+\FB@Mht=\dimen140
+\mc@charclass=\count198
+\mc@charfam=\count199
+\mc@charslot=\count266
+\std@mcc=\count267
+\dec@mcc=\count268
+\listindentFB=\dimen141
+\descindentFB=\dimen142
+\labelindentFB=\dimen143
+\labelwidthFB=\dimen144
+\leftmarginFB=\dimen145
+\parindentFFN=\dimen146
+\FBfnindent=\dimen147
+)) (c:/texlive/2022/texmf-dist/tex/latex/carlisle/scalefnt.sty) (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (./meta-donnees.sty
+Package: meta-donnees 2011/02/25 v0.01
+\@UGTtitlepageshift=\skip49
+\@Sethpageshift=\skip50
+\@Setvpageshift=\skip51
+) (./meta-donnees2.sty
+Package: meta-donnees2 2011/02/25 v0.01
+\@UGTtitlepageshiftt=\skip52
+\@Sethpageshiftt=\skip53
+\@Setvpageshiftt=\skip54
+) (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read3
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box50
+\extrarowheight=\dimen149
+\NC@list=\toks23
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box51
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (c:/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty (c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-04-29 L3 programming layer (loader) 
+ (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box52
+)) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen150
+)) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen153
+\l__xtemplate_tmp_int=\count270
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip57
+)
+Package: xfrac 2022-01-12 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box53
+\l__xfrac_tmp_box=\box54
+\l__xfrac_denominator_bot_sep_dim=\dimen154
+\l__xfrac_numerator_bot_sep_dim=\dimen155
+\l__xfrac_numerator_top_sep_dim=\dimen156
+\l__xfrac_slash_left_sep_dim=\dimen157
+\l__xfrac_slash_right_sep_dim=\dimen158
+\l__xfrac_slash_left_muskip=\muskip17
+\l__xfrac_slash_right_muskip=\muskip18
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+) (c:/texlive/2022/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (c:/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen159
+\enit@toks=\toks25
+\enit@inbox=\box55
+\enit@count@id=\count271
+\enitdp@description=\count272
+) (c:/texlive/2022/texmf-dist/tex/latex/esvect/esvect.sty
+Package: esvect 
+\symesvector=\mathgroup8
+) (c:/texlive/2022/texmf-dist/tex/latex/siunits/SIunits.sty
+Package: SIunits 2007/12/02 v1.36 Support for the International System of units (MH)
+
+
+\@qskwidth=\skip59
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
+\symgreek=\mathgroup9
+(c:/texlive/2022/texmf-dist/tex/latex/siunits/SIunits.cfg)
+Option `squaren' provided!
+Option `Gray' provided!
+) (c:/texlive/2022/texmf-dist/tex/latex/sistyle/sistyle.sty
+Package: sistyle 2008/07/16 v2.3a SI units and numbers (DNJ Els)
+\ttoks@A=\toks26
+\ttoks@B=\toks27
+) (c:/texlive/2022/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box56
+) (c:/texlive/2022/texmf-dist/tex/latex/fundus-calligra/calligra.sty
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
+) (c:/texlive/2022/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (c:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count273
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (c:/texlive/2022/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (c:/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box57
+)
+\tc@llx=\dimen160
+\tc@lly=\dimen161
+\tc@urx=\dimen162
+\tc@ury=\dimen163
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (c:/texlive/2022/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen164
+\adjbox@Height=\dimen165
+\adjbox@Depth=\dimen166
+\adjbox@Totalheight=\dimen167
+\adjbox@pwidth=\dimen168
+\adjbox@pheight=\dimen169
+\adjbox@pdepth=\dimen170
+\adjbox@ptotalheight=\dimen171
+ (c:/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count274
+) (c:/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box58
+\sift@deathcycles=\count275
+\@vwid@loff=\dimen172
+\@vwid@roff=\dimen173
+)) (c:/texlive/2022/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/texlive/2022/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box59
+) (c:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box60
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen176
+\pgf@y=\dimen177
+\pgf@xa=\dimen178
+\pgf@ya=\dimen179
+\pgf@xb=\dimen180
+\pgf@yb=\dimen181
+\pgf@xc=\dimen182
+\pgf@yc=\dimen183
+\pgf@xd=\dimen184
+\pgf@yd=\dimen185
+\w@pgf@writea=\write3
+\r@pgf@reada=\read4
+\c@pgf@counta=\count276
+\c@pgf@countb=\count277
+\c@pgf@countc=\count278
+\c@pgf@countd=\count279
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count280
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count281
+\pgfsyssoftpath@bigbuffer@items=\count282
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (c:/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks37
+\minrowclearance=\skip60
+)
+LaTeX Info: Redefining \color on input line 711.
+\rownum=\count283
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count284
+\pgfmath@box=\box61
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count286
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen261
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen265
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count287
+\pgf@shadingcount=\count288
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box65
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box66
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
+) (c:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen269
+\pgffor@skip=\dimen270
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+)) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count289
+\pgfplotmarksize=\dimen271
+)
+\tikz@lastx=\dimen272
+\tikz@lasty=\dimen273
+\tikz@lastxsaved=\dimen274
+\tikz@lastysaved=\dimen275
+\tikz@lastmovetox=\dimen276
+\tikz@lastmovetoy=\dimen277
+\tikzleveldistance=\dimen278
+\tikzsiblingdistance=\dimen279
+\tikz@figbox=\box67
+\tikz@figbox@bg=\box68
+\tikz@tempbox=\box69
+\tikz@tempbox@bg=\box70
+\tikztreelevel=\count290
+\tikznumberofchildren=\count291
+\tikznumberofcurrentchild=\count292
+\tikz@fig@count=\count293
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count294
+\pgfmatrixcurrentcolumn=\count295
+\pgf@matrix@numberofcolumns=\count296
+)
+\tikz@expandcount=\count297
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@layerbox@background=\box71
+\pgf@layerboxsaved@background=\box72
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex  v1.02, 2012/12/09 (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfbs@fading@count=\count298
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (c:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (c:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (c:/texlive/2022/texmf-dist/tex/latex/bigints/bigints.sty
+Package: bigints 2010/02/15 Writing big integrals
+Package bigints Info: This is Bigints by Merciadri Luca. on input line 5.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen280
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count299
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count300
+\leftroot@=\count301
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count302
+\DOTSCASE@=\count303
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box73
+\strutbox@=\box74
+\big@size=\dimen281
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count304
+\c@MaxMatrixCols=\count305
+\dotsspace@=\muskip19
+\c@parentequation=\count306
+\dspbrk@lvl=\count307
+\tag@help=\toks43
+\row@=\count308
+\column@=\count309
+\maxfields@=\count310
+\andhelp@=\toks44
+\eqnshift@=\dimen282
+\alignsep@=\dimen283
+\tagshift@=\dimen284
+\tagwidth@=\dimen285
+\totwidth@=\dimen286
+\lineht@=\dimen287
+\@envbody=\toks45
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks46
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)) (c:/texlive/2022/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+ (c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count311
+\calc@Bcount=\count312
+\calc@Adimen=\dimen288
+\calc@Bdimen=\dimen289
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count313
+\calc@Cskip=\skip66
+) (c:/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen290
+\ESO@tempdimb=\dimen291
+)
+\AM@pagewidth=\dimen292
+\AM@pageheight=\dimen293
+\AM@fboxrule=\dimen294
+ (c:/texlive/2022/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count314
+\AM@pagebox=\box75
+\AM@global@opts=\toks47
+\AM@pagecnt=\count315
+\AM@toc@title=\toks48
+\c@AM@survey=\count316
+\AM@templatesizebox=\box76
+) (c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip67
+\f@nch@O@elh=\skip68
+\f@nch@O@erh=\skip69
+\f@nch@O@olh=\skip70
+\f@nch@O@orh=\skip71
+\f@nch@O@elf=\skip72
+\f@nch@O@erf=\skip73
+\f@nch@O@olf=\skip74
+\f@nch@O@orf=\skip75
+) (c:/texlive/2022/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (c:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen295
+\captionmargin=\dimen296
+\caption@leftmargin=\dimen297
+\caption@rightmargin=\dimen298
+\caption@width=\dimen299
+\caption@indent=\dimen300
+\caption@parindent=\dimen301
+\caption@hangindent=\dimen302
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count317
+\c@continuedfloat=\count318
+Package caption Info: threeparttable package is loaded.
+) (c:/texlive/2022/texmf-dist/tex/latex/fncychap/fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip76
+\mylen=\skip77
+\myhi=\skip78
+\px=\skip79
+\py=\skip80
+\pyy=\skip81
+\pxx=\skip82
+) (c:/texlive/2022/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+ (c:/texlive/2022/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+\MFP@loopctr=\count319
+)
+\c@DefaultLines=\count320
+\c@DefaultDepth=\count321
+\DefaultFindent=\dimen303
+\DefaultNindent=\dimen304
+\DefaultSlope=\dimen305
+\DiscardVskip=\dimen306
+\L@lbox=\box77
+\L@tbox=\box78
+\c@L@lines=\count322
+\c@L@depth=\count323
+\L@Pindent=\dimen307
+\L@Findent=\dimen308
+\L@Nindent=\dimen309
+\L@lraise=\dimen310
+\L@first=\dimen311
+\L@next=\dimen312
+\L@slope=\dimen313
+\L@height=\dimen314
+\L@novskip=\dimen315
+\L@target@ht=\dimen316
+\L@target@dp=\dimen317
+\L@target@tht=\dimen318
+\LettrineWidth=\dimen319
+\LettrineHeight=\dimen320
+\LettrineDepth=\dimen321
+\Llist@everypar=\toks49
+
+Loading lettrine.cfg
+(c:/texlive/2022/texmf-dist/tex/latex/lettrine/lettrine.cfg)) (c:/texlive/2022/texmf-dist/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+ (c:/texlive/2022/texmf-dist/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write4
+\mtcindent=\skip83
+\mtcskipamount=\skip84
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks50
+\mtc@strutbox=\box79
+\mtc@hstrutbox=\box80
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc0'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+ (./A_MAIN_Manuscrit_Tigran.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc0'.
+
+\c@mtc=\count324
+\c@minitocdepth=\count325
+\c@ptc=\count326
+\c@parttocdepth=\count327
+\ptcindent=\skip85
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+ (c:/texlive/2022/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+) (c:/texlive/2022/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+)
+Package minitoc Info: I0010
+(minitoc)             The francais language is selected.
+(minitoc)              on input line 4911.
+ (c:/texlive/2022/texmf-dist/tex/latex/minitoc/francais.mld
+File: francais.mld 2004/12/14
+Package minitoc Info: I0010
+(minitoc)             The french language is selected.
+(minitoc)              on input line 74.
+ (c:/texlive/2022/texmf-dist/tex/latex/minitoc/french.mld
+File: french.mld 2006/03/21
+))) (c:/texlive/2022/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen322
+\epsfysize=\dimen323
+) (c:/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen324
+\WF@size=\dimen325
+\c@WF@wrappedlines=\count328
+\WF@box=\box81
+\WF@everypar=\toks51
+Package: wrapfig 2003/01/31  v 3.6
+) (c:/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count329
+\float@exts=\toks52
+\float@box=\box82
+\@float@everytoks=\toks53
+\@floatcapt=\box83
+) (c:/texlive/2022/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (c:/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count330
+\c@subtable=\count331
+) (c:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen326
+\lightrulewidth=\dimen327
+\cmidrulewidth=\dimen328
+\belowrulesep=\dimen329
+\belowbottomsep=\dimen330
+\aboverulesep=\dimen331
+\abovetopsep=\dimen332
+\cmidrulesep=\dimen333
+\cmidrulekern=\dimen334
+\defaultaddspace=\dimen335
+\@cmidla=\count332
+\@cmidlb=\count333
+\@aboverulesep=\dimen336
+\@belowrulesep=\dimen337
+\@thisruleclass=\count334
+\@lastruleclass=\count335
+\@thisrulewidth=\dimen338
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip86
+\LTright=\skip87
+\LTpre=\skip88
+\LTpost=\skip89
+\LTchunksize=\count336
+\LTcapwidth=\dimen339
+\LT@head=\box84
+\LT@firsthead=\box85
+\LT@foot=\box86
+\LT@lastfoot=\box87
+\LT@gbox=\box88
+\LT@cols=\count337
+\LT@rows=\count338
+\c@LT@tables=\count339
+\c@LT@chunks=\count340
+\LT@p@ftn=\toks54
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip90
+\multirow@cntb=\count341
+\multirow@dima=\skip91
+\bigstrutjot=\dimen340
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen341
+\TX@old@table=\dimen342
+\TX@old@col=\dimen343
+\TX@target=\dimen344
+\TX@delta=\dimen345
+\TX@cols=\count342
+\TX@ftn=\toks55
+) (c:/texlive/2022/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+\c@taburow=\count343
+\tabu@nbcols=\count344
+\tabu@cnt=\count345
+\tabu@Xcol=\count346
+\tabu@alloc=\count347
+\tabu@nested=\count348
+\tabu@target=\dimen346
+\tabu@spreadtarget=\dimen347
+\tabu@naturalX=\dimen348
+\tabucolX=\dimen349
+\tabu@Xsum=\dimen350
+\extrarowdepth=\dimen351
+\abovetabulinesep=\dimen352
+\belowtabulinesep=\dimen353
+\tabustrutrule=\dimen354
+\tabu@thebody=\toks56
+\tabu@footnotes=\toks57
+\tabu@box=\box89
+\tabu@arstrutbox=\box90
+\tabu@hleads=\box91
+\tabu@vleads=\box92
+\tabu@cellskip=\skip92
+) (./slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box93
+\@slashboxb=\box94
+\@slashboxc=\box95
+\@slashboxwd=\count349
+\@slashboxht=\count350
+\@slashsepl=\dimen355
+\@slashsepr=\dimen356
+) (c:/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (c:/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count351
+\l_MT_multwidth_dim=\dimen357
+\origjot=\skip93
+\l_MT_shortvdotswithinadjustabove_dim=\dimen358
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen359
+\l_MT_above_intertext_sep=\dimen360
+\l_MT_below_intertext_sep=\dimen361
+\l_MT_above_shortintertext_sep=\dimen362
+\l_MT_below_shortintertext_sep=\dimen363
+\xmathstrut@box=\box96
+\xmathstrut@dim=\dimen364
+) (c:/texlive/2022/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+Package bm Info: No bold for \OT1/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OML/ztmcm/m/it, using \pmb.
+Package bm Info: No bold for \OMS/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \OMX/ztmcm/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+Package bm Info: No bold for \OT1/ptm/bx/n, using \pmb.
+Package bm Info: No bold for \OT1/ptm/m/it, using \pmb.
+Package bm Info: No bold for \U/esvect/m/n, using \pmb.
+Package bm Info: No bold for \OML/eur/m/n, using \pmb.
+) (c:/texlive/2022/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \upmu on input line 51.
+) (c:/texlive/2022/texmf-dist/tex/latex/mathtools/empheq.sty
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+\l_EQ_equationtype_int=\count352
+\l_EQ_alignmentmode_int=\count353
+\l_EQ_totalwidth_dim=\dimen365
+\l_EQ_displaywidth_dim=\dimen366
+\l_EQ_temp_linewidth_dim=\dimen367
+\l_EQ_linewidth_dim=\dimen368
+\EmphEqdelimitershortfall=\dimen369
+\EmphEqdelimiterfactor=\count354
+\g_EQ_toptag_height_dim=\dimen370
+\g_EQ_bottomtag_depth_dim=\dimen371
+\g_EQ_toprow_height_dim=\dimen372
+\g_EQ_bottomrow_depth_dim=\dimen373
+\g_EQ_widesttag_dim=\dimen374
+\EQ_mathdisplay_box=\box97
+\EQ_tag_box=\box98
+\g_EQ_temprow_int=\count355
+) (c:/texlive/2022/texmf-dist/tex/latex/cases/cases.sty
+Package: cases 2020/03/29 ver 3.2
+\numc@numwid=\dimen375
+) (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (c:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen376
+\Hy@linkcounter=\count356
+\Hy@pagecounter=\count357
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count358
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count359
+ (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip20
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen377
+ (c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count360
+\Field@Width=\dimen378
+\Fld@charsize=\dimen379
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count361
+\c@Item=\count362
+\c@Hfootnote=\count363
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (c:/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count364
+\c@bookmark@seq@number=\count365
+ (c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip94
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 176.
+ (c:/texlive/2022/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+)) (./Format.tex) (./Commands.tex))
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (./A_MAIN_Manuscrit_Tigran.aux
+
+LaTeX Warning: Label `fig:hearing_aid_Resound' multiply defined.
+
+
+LaTeX Warning: Label `fig:hearing_aid_Resound@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:hearing_aid_Resound' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:hearing_aid_Resound@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:implant_Cochlear' multiply defined.
+
+
+LaTeX Warning: Label `fig:implant_Cochlear@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:implant_Cochlear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:implant_Cochlear@cref' multiply defined.
+
+
+LaTeX Warning: Label `subsec:1.3.1_Caracterisation la source d energie' multiply defined.
+
+
+LaTeX Warning: Label `subsec:1.3.1_Caracterisation la source d energie@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:flextenseur' multiply defined.
+
+
+LaTeX Warning: Label `fig:flextenseur@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:BarriÃ¨re de potentiel expÃ©rimental' multiply defined.
+
+
+LaTeX Warning: Label `eq:BarriÃ¨re de potentiel expÃ©rimental@cref' multiply defined.
+
+
+LaTeX Warning: Label `subsec:6.4.2.b' multiply defined.
+
+
+LaTeX Warning: Label `subsec:6.4.2.b@cref' multiply defined.
+
+
+LaTeX Warning: Label `eq:theta_max_av_saut' multiply defined.
+
+
+LaTeX Warning: Label `eq:theta_max_av_saut@cref' multiply defined.
+
+)
+\openout1 = `A_MAIN_Manuscrit_Tigran.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Info: Redefining \degres on input line 24.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 24.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 24.
+LaTeX Info: Redefining \up on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count366
+\scratchdimen=\dimen380
+\scratchbox=\box99
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen381
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks59
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Option `squaren' provided! 
+ Command \squaren defined by SIunits package!
+
+Option `Gray' provided! 
+ Command \Gray defined by SIunits package!
+
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 24.
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+LaTeX Font Info:    Trying to load font information for U+esvect on input line 24.
+ (c:/texlive/2022/texmf-dist/tex/latex/esvect/uesvect.fd
+File: uesvect.fd 
+) (c:/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (c:/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+Package hyperref Info: Link coloring ON on input line 24.
+(c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count372
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (./A_MAIN_Manuscrit_Tigran.out) (./A_MAIN_Manuscrit_Tigran.out)
+\@outlinefile=\write5
+\openout5 = `A_MAIN_Manuscrit_Tigran.out'.
+
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM A_MAIN_Manuscrit_Tigran.toc on input line 27.
+
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Remerciements}{\reset@font\mtcSfont i}{section*.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode Table des matiÃ¨res}{\reset@font\mtcSfont iii}{section*.3}}
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc1.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc2.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc3.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc3'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc4.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc4'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc5.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc5'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc6.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc6'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc7.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc7'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc8.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc8'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc9.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc9'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc10.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc10'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc11.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc11'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc12.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc12'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc13.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc13'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc14.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc14'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc15.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc15'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc16.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc16'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc17.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc17'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc18.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc18'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing A_MAIN_Manuscrit_Tigran.mtc19.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc19'.
+
+(../Page_de_garde/Page_de_garde.tex
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 29.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+<../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf, id=505, 284.62335pt x 1408.78322pt>
+File: ../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf Graphic file (type pdf)
+<use ../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf>
+Package pdftex.def Info: ../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf  used on input line 29.
+(pdftex.def)             Requested size: 160.95581pt x 796.67715pt.
+
+Overfull \hbox (1.62021pt too wide) in paragraph at lines 29--29
+[] [] 
+ []
+
+<../Page_de_garde/Figure//logo_USMB_color.png, id=506, 1204.5pt x 445.665pt>
+File: ../Page_de_garde/Figure//logo_USMB_color.png Graphic file (type png)
+<use ../Page_de_garde/Figure//logo_USMB_color.png>
+Package pdftex.def Info: ../Page_de_garde/Figure//logo_USMB_color.png  used on input line 29.
+(pdftex.def)             Requested size: 199.16928pt x 73.68796pt.
+
+Overfull \hbox (84.22034pt too wide) in paragraph at lines 29--29
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\T1/phv/b/n/19 Approche pié-zo-élec-trique op-ti-mi-sée
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 29--29
+\T1/phv/b/n/19 pour l'au-to-no-mie éner-gé-tique des ap-
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+
+Overfull \hbox (17.79987pt too wide) in paragraph at lines 29--29
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 29
+ []
+
+[1
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf> <../Page_de_garde/Figure//logo_USMB_color.png>]) [2] (../Intro/Dedicace.tex) [3] [4] (../Intro/Remerciement.tex) [1] [2] (../Intro/Sommaire.tex (./A_MAIN_Manuscrit_Tigran.toc [3
+
+] [4] [5])
+\tf@toc=\write6
+\openout6 = `A_MAIN_Manuscrit_Tigran.toc'.
+
+) [6] (../Intro/Acronymes.tex) [7] [8] (../Intro/Symboles.tex
+Overfull \hbox (8.34271pt too wide) in paragraph at lines 31--64
+[][] 
+ []
+
+) [9] [10] [11] [12] (../Intro/Introduction.tex
+LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
+(Font)              scaled to size 15.76802pt on input line 35.
+LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
+(Font)              scaled to size 31.86794pt on input line 35.
+LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
+(Font)              scaled to size 31.41425pt on input line 35.
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 21.17232pt (L~);
+(lettrine.sty)             reported on input line 35.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 39.
+ (c:/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+[13]) [14] [15] (../Chap1/Chap1.tex
+Chapitre I.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 25.
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+ (./A_MAIN_Manuscrit_Tigran.mtc4)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 \newpage
+              [1
+
+]
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 21.17232pt (L~â€™);
+(lettrine.sty)             reported on input line 35.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+<../Chap1/Figure/capteurs_corps_humain.pdf, id=778, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/capteurs_corps_humain.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/capteurs_corps_humain.pdf>
+Package pdftex.def Info: ../Chap1/Figure/capteurs_corps_humain.pdf  used on input line 44.
+(pdftex.def)             Requested size: 341.43436pt x 184.3963pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 45.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 45.
+
+
+Underfull \vbox (badness 1681) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 
+      [2]
+Overfull \hbox (5.24855pt too wide) in paragraph at lines 83--83
+[]|\T1/ptm/b/n/10 Consommation
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 84.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 84.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.92 
+      [3 <../Chap1/Figure/capteurs_corps_humain.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.102 	\item L
+              es polymÃ¨res intrinsÃ¨quement extensibles. [4] [5]
+<../Chap1/Figure/DEA.pdf, id=881, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/DEA.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/DEA.pdf>
+Package pdftex.def Info: ../Chap1/Figure/DEA.pdf  used on input line 129.
+(pdftex.def)             Requested size: 426.79134pt x 114.04573pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 131.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 131.
+
+[6 <../Chap1/Figure/DEA.pdf>]
+<../Chap1/Figure/earplug.pdf, id=921, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/earplug.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/earplug.pdf>
+Package pdftex.def Info: ../Chap1/Figure/earplug.pdf  used on input line 164.
+(pdftex.def)             Requested size: 426.79134pt x 128.46156pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 165.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 165.
+
+<../Chap1/Figure/kinetic_energy_head.pdf, id=927, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/kinetic_energy_head.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/kinetic_energy_head.pdf>
+Package pdftex.def Info: ../Chap1/Figure/kinetic_energy_head.pdf  used on input line 176.
+(pdftex.def)             Requested size: 426.79134pt x 114.04573pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 177.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 177.
+
+[7 <../Chap1/Figure/earplug.pdf>] [8 <../Chap1/Figure/kinetic_energy_head.pdf>]
+<../Chap1/Figure/noeud_capteur-actionneur.pdf, id=976, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/noeud_capteur-actionneur.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/noeud_capteur-actionneur.pdf>
+Package pdftex.def Info: ../Chap1/Figure/noeud_capteur-actionneur.pdf  used on input line 205.
+(pdftex.def)             Requested size: 384.10959pt x 180.092pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 206.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 206.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T1/ptm/m/n/10 Récupérateur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\T1/ptm/m/n/10 Unité(s) de
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 238.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 238.
+
+[9 <../Chap1/Figure/noeud_capteur-actionneur.pdf>] [10]
+<../Chap1/Figure/diagramme_bloc_recuperateur.pdf, id=1026, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/diagramme_bloc_recuperateur.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/diagramme_bloc_recuperateur.pdf>
+Package pdftex.def Info: ../Chap1/Figure/diagramme_bloc_recuperateur.pdf  used on input line 261.
+(pdftex.def)             Requested size: 426.79134pt x 43.58366pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 262.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 262.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\T1/ptm/m/n/10 éle-vée, []
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 304--304
+\T1/ptm/m/n/10 d'éner-gie faible, dé-ve-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 304--304
+\T1/ptm/m/n/10 lop-pe-ment lent, né-ces-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Piles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Utilisable dans les ap-
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Faible ef-fi-ca-cité, du-rée
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Bio-compatibilité,
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Coût élevé des semi-
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 304--304
+\T1/ptm/m/n/10 conducteurs, du-rée de
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Tension de fonc-tion-ne-
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 304--304
+\T1/ptm/m/n/10 ment éle-vée, né-ces-sité
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 304--304
+\T1/ptm/m/n/10 tés faibles, cou-rant de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Induction
+ []
+
+
+Overfull \hbox (2.73718pt too wide) in paragraph at lines 304--304
+[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Réalisation simple et
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 304--304
+\T1/ptm/m/n/10 faible coût, ro-buste et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\T1/ptm/m/n/10 ten-sion de sor-tie et
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 304--304
+\T1/ptm/m/n/10 ca-pa-cité faible, ef-fi-ca-
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 304--304
+\T1/ptm/m/n/10 cité faible aux pe-tites
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 304--304
+[]|\T1/ptm/m/n/10 Utilisation simple, ten-
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 304--304
+\T1/ptm/m/n/10 pié-zo-élec-triques, ef-fi-ca-
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 305.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 305.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 351.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 351.
+
+[11 <../Chap1/Figure/diagramme_bloc_recuperateur.pdf>] [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+<../Chap1/Figure/flextenseur.pdf, id=1107, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/flextenseur.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/flextenseur.pdf>
+Package pdftex.def Info: ../Chap1/Figure/flextenseur.pdf  used on input line 385.
+(pdftex.def)             Requested size: 341.43436pt x 171.88922pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 386.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 386.
+
+
+Overfull \hbox (4.75464pt too wide) in paragraph at lines 393--394
+[]\T1/ptm/m/n/10.95 La conver-sion \T1/ptm/m/it/10.95 frequency-up \T1/ptm/m/n/10.95 clas-sique per-met-tant d'am-pli-fier la fré-quence de la source d'éner-
+ []
+
+[14]
+<../Chap1/Figure/frequency-up_EM.pdf, id=1131, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/frequency-up_EM.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/frequency-up_EM.pdf>
+Package pdftex.def Info: ../Chap1/Figure/frequency-up_EM.pdf  used on input line 400.
+(pdftex.def)             Requested size: 426.79134pt x 117.51906pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 401.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 401.
+
+<../Chap1/Figure/frequency-up_piezo.pdf, id=1137, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/frequency-up_piezo.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/frequency-up_piezo.pdf>
+Package pdftex.def Info: ../Chap1/Figure/frequency-up_piezo.pdf  used on input line 410.
+(pdftex.def)             Requested size: 426.79134pt x 117.51906pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 411.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 411.
+
+<../Chap1/Figure/free_ball.pdf, id=1143, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/free_ball.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/free_ball.pdf>
+Package pdftex.def Info: ../Chap1/Figure/free_ball.pdf  used on input line 420.
+(pdftex.def)             Requested size: 213.39566pt x 216.22163pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 421.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 421.
+
+[15 <../Chap1/Figure/flextenseur.pdf> <../Chap1/Figure/frequency-up_EM.pdf>] [16 <../Chap1/Figure/frequency-up_piezo.pdf> <../Chap1/Figure/free_ball.pdf>]
+Overfull \hbox (6.08195pt too wide) in paragraph at lines 438--438
+[]\T1/ptm/b/n/14.4 Cas par-ti-cu-lier de la ré-cu-pé-ra-tion d'éner-gie dans le conduit [] 
+ []
+
+<../Chap1/Figure/hearing_aid_Resound.pdf, id=1200, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/hearing_aid_Resound.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/hearing_aid_Resound.pdf>
+Package pdftex.def Info: ../Chap1/Figure/hearing_aid_Resound.pdf  used on input line 453.
+(pdftex.def)             Requested size: 104.56503pt x 94.93643pt.
+<../Chap1/Figure/nucleus_Cochlear.pdf, id=1204, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/nucleus_Cochlear.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/nucleus_Cochlear.pdf>
+Package pdftex.def Info: ../Chap1/Figure/nucleus_Cochlear.pdf  used on input line 460.
+(pdftex.def)             Requested size: 104.56503pt x 107.35388pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 464.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 464.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 483.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 483.
+
+[17]
+<../Chap1/Figure/hearing_aid_Scherer2019.pdf, id=1214, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/hearing_aid_Scherer2019.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/hearing_aid_Scherer2019.pdf>
+Package pdftex.def Info: ../Chap1/Figure/hearing_aid_Scherer2019.pdf  used on input line 498.
+(pdftex.def)             Requested size: 96.02739pt x 95.83896pt.
+<../Chap1/Figure/implant_cochleaire_Yip2015.pdf, id=1218, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/implant_cochleaire_Yip2015.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/implant_cochleaire_Yip2015.pdf>
+Package pdftex.def Info: ../Chap1/Figure/implant_cochleaire_Yip2015.pdf  used on input line 505.
+(pdftex.def)             Requested size: 117.36826pt x 98.70241pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 509.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 509.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 529.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 529.
+
+<../Chap1/Figure/cochleaire_MEMS.pdf, id=1230, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/cochleaire_MEMS.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/cochleaire_MEMS.pdf>
+Package pdftex.def Info: ../Chap1/Figure/cochleaire_MEMS.pdf  used on input line 541.
+(pdftex.def)             Requested size: 426.79134pt x 95.14313pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 542.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 542.
+
+[18 <../Chap1/Figure/hearing_aid_Resound.pdf> <../Chap1/Figure/nucleus_Cochlear.pdf> <../Chap1/Figure/hearing_aid_Scherer2019.pdf> <../Chap1/Figure/implant_cochleaire_Yip2015.pdf>]
+<../Chap2/Figure/earcanal_3D_a.pdf, id=1276, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/earcanal_3D_a.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/earcanal_3D_a.pdf>
+Package pdftex.def Info: ../Chap2/Figure/earcanal_3D_a.pdf  used on input line 559.
+(pdftex.def)             Requested size: 170.71393pt x 81.47743pt.
+<../Chap2/Figure/earcanal_3D_b.pdf, id=1278, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/earcanal_3D_b.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/earcanal_3D_b.pdf>
+Package pdftex.def Info: ../Chap2/Figure/earcanal_3D_b.pdf  used on input line 566.
+(pdftex.def)             Requested size: 170.71393pt x 72.83795pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 570.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 570.
+
+<../Chap1/Figure/schema_JTM.pdf, id=1282, 963.6pt x 542.025pt>
+File: ../Chap1/Figure/schema_JTM.pdf Graphic file (type pdf)
+<use ../Chap1/Figure/schema_JTM.pdf>
+Package pdftex.def Info: ../Chap1/Figure/schema_JTM.pdf  used on input line 579.
+(pdftex.def)             Requested size: 256.0774pt x 164.93149pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 580.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 580.
+
+[19 <../Chap1/Figure/cochleaire_MEMS.pdf>]
+<../Chap2/Figure/earcanal_energie_estimation_subjects.pdf, id=1302, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/earcanal_energie_estimation_subjects.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/earcanal_energie_estimation_subjects.pdf>
+Package pdftex.def Info: ../Chap2/Figure/earcanal_energie_estimation_subjects.pdf  used on input line 600.
+(pdftex.def)             Requested size: 341.43436pt x 284.45158pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 602.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 602.
+
+<../Chap2/Figure/Bouchard_BDT.pdf, id=1306, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Bouchard_BDT.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Bouchard_BDT.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Bouchard_BDT.pdf  used on input line 615.
+(pdftex.def)             Requested size: 281.68384pt x 131.53198pt.
+<../Chap2/Figure/Bouchard_essais.pdf, id=1308, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Bouchard_essais.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Bouchard_essais.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Bouchard_essais.pdf  used on input line 622.
+(pdftex.def)             Requested size: 119.50105pt x 132.45932pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 626.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 626.
+
+[20 <../Chap2/Figure/earcanal_3D_a.pdf> <../Chap2/Figure/earcanal_3D_b.pdf> <../Chap1/Figure/schema_JTM.pdf>]
+<../Chap2/Figure/Bouchard_pression.pdf, id=1354, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Bouchard_pression.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Bouchard_pression.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Bouchard_pression.pdf  used on input line 637.
+(pdftex.def)             Requested size: 426.79134pt x 101.444pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 638.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 638.
+
+[21 <../Chap2/Figure/earcanal_energie_estimation_subjects.pdf> <../Chap2/Figure/Bouchard_BDT.pdf> <../Chap2/Figure/Bouchard_essais.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 657.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 657.
+
+<../Chap2/Figure/conversion_critias_pvdf.pdf, id=1414, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/conversion_critias_pvdf.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/conversion_critias_pvdf.pdf>
+Package pdftex.def Info: ../Chap2/Figure/conversion_critias_pvdf.pdf  used on input line 672.
+(pdftex.def)             Requested size: 298.75262pt x 109.98213pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 673.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 673.
+
+<../Chap2/Figure/conversion_critias_electromag.pdf, id=1418, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/conversion_critias_electromag.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/conversion_critias_electromag.pdf>
+Package pdftex.def Info: ../Chap2/Figure/conversion_critias_electromag.pdf  used on input line 681.
+(pdftex.def)             Requested size: 426.79134pt x 114.50818pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 682.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 682.
+
+[22 <../Chap2/Figure/Bouchard_pression.pdf>]
+<../Chap2/Figure/Critias_electromag.pdf, id=1450, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Critias_electromag.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Critias_electromag.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Critias_electromag.pdf  used on input line 695.
+(pdftex.def)             Requested size: 128.0387pt x 129.86359pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 696.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 696.
+
+[23 <../Chap2/Figure/conversion_critias_pvdf.pdf> <../Chap2/Figure/conversion_critias_electromag.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 706--711
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--716
+
+ []
+
+<../Chap2/Figure/puissance-frequence_electromag.pdf, id=1519, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/puissance-frequence_electromag.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/puissance-frequence_electromag.pdf>
+Package pdftex.def Info: ../Chap2/Figure/puissance-frequence_electromag.pdf  used on input line 725.
+(pdftex.def)             Requested size: 341.43436pt x 171.88922pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 726.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 726.
+
+[24 <../Chap2/Figure/Critias_electromag.pdf>]
+<../Chap2/Figure/puissance-volume.pdf, id=1559, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/puissance-volume.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/puissance-volume.pdf>
+Package pdftex.def Info: ../Chap2/Figure/puissance-volume.pdf  used on input line 740.
+(pdftex.def)             Requested size: 298.75262pt x 220.02342pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 741.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 741.
+
+[25 <../Chap2/Figure/puissance-frequence_electromag.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 763.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 763.
+
+<../Chap2/Figure/debit.pdf, id=1601, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/debit.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/debit.pdf>
+Package pdftex.def Info: ../Chap2/Figure/debit.pdf  used on input line 771.
+(pdftex.def)             Requested size: 213.39566pt x 132.77151pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 772.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 772.
+
+[26 <../Chap2/Figure/puissance-volume.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 782--787
+
+ []
+
+[27 <../Chap2/Figure/debit.pdf>]) (../Chap2/Chap2.tex [28]
+Chapitre II.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+(./A_MAIN_Manuscrit_Tigran.mtc5 [29
+
+]) [30]
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 22.1304pt (E~);
+(lettrine.sty)             reported on input line 41.
+<../Chap2/Figure/conversion_symme.pdf, id=1727, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/conversion_symme.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/conversion_symme.pdf>
+Package pdftex.def Info: ../Chap2/Figure/conversion_symme.pdf  used on input line 46.
+(pdftex.def)             Requested size: 426.79134pt x 132.94836pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 47.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 47.
+
+
+Overfull \hbox (1.10779pt too wide) in paragraph at lines 59--61
+\T1/ptm/m/n/10.95 On pré-sente alors dans la suite, le dé-tail de l'ar-chi-tec-ture du ré-cu-pé-ra-teur d'éner-gie intra-auriculaire
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 101.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 101.
+
+<../Chap2/Figure/schema_systeme_complet_decoupleur.pdf, id=1731, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/schema_systeme_complet_decoupleur.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/schema_systeme_complet_decoupleur.pdf>
+Package pdftex.def Info: ../Chap2/Figure/schema_systeme_complet_decoupleur.pdf  used on input line 110.
+(pdftex.def)             Requested size: 426.79134pt x 195.95706pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 111.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 111.
+
+[31 <../Chap2/Figure/conversion_symme.pdf>] [32] [33 <../Chap2/Figure/schema_systeme_complet_decoupleur.pdf>]
+Overfull \hbox (25.84517pt too wide) in paragraph at lines 149--150
+\T1/ptm/m/n/10.95 l'au-di-tion stan-dard, dont le vo-lume peut être ap-proximé par un pavé de di-men-sions 50x20x10mm$[]$. 
+ []
+
+<../Chap2/Figure/flextenseur_cinematique.pdf, id=1860, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/flextenseur_cinematique.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/flextenseur_cinematique.pdf>
+Package pdftex.def Info: ../Chap2/Figure/flextenseur_cinematique.pdf  used on input line 166.
+(pdftex.def)             Requested size: 192.0548pt x 201.18872pt.
+<../Chap2/Figure/flextenseur_statique.pdf, id=1862, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/flextenseur_statique.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/flextenseur_statique.pdf>
+Package pdftex.def Info: ../Chap2/Figure/flextenseur_statique.pdf  used on input line 172.
+(pdftex.def)             Requested size: 192.0548pt x 187.50645pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 176.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 176.
+
+[34] [35 <../Chap2/Figure/flextenseur_cinematique.pdf> <../Chap2/Figure/flextenseur_statique.pdf>] [36]
+<../Chap2/Figure/phases_act/phase_act_1.pdf, id=1933, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/phases_act/phase_act_1.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/phases_act/phase_act_1.pdf>
+Package pdftex.def Info: ../Chap2/Figure/phases_act/phase_act_1.pdf  used on input line 215.
+(pdftex.def)             Requested size: 142.26378pt x 84.29578pt.
+<../Chap2/Figure/phases_act/phase_act_2.pdf, id=1935, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/phases_act/phase_act_2.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/phases_act/phase_act_2.pdf>
+Package pdftex.def Info: ../Chap2/Figure/phases_act/phase_act_2.pdf  used on input line 221.
+(pdftex.def)             Requested size: 142.26378pt x 78.22026pt.
+<../Chap2/Figure/phases_act/phase_act_3.pdf, id=1937, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/phases_act/phase_act_3.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/phases_act/phase_act_3.pdf>
+Package pdftex.def Info: ../Chap2/Figure/phases_act/phase_act_3.pdf  used on input line 227.
+(pdftex.def)             Requested size: 142.26378pt x 78.22026pt.
+<../Chap2/Figure/phases_act/phase_act_4.pdf, id=1939, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/phases_act/phase_act_4.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/phases_act/phase_act_4.pdf>
+Package pdftex.def Info: ../Chap2/Figure/phases_act/phase_act_4.pdf  used on input line 233.
+(pdftex.def)             Requested size: 142.26378pt x 76.70155pt.
+<../Chap2/Figure/phases_act/phase_act_5.pdf, id=1941, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/phases_act/phase_act_5.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/phases_act/phase_act_5.pdf>
+Package pdftex.def Info: ../Chap2/Figure/phases_act/phase_act_5.pdf  used on input line 239.
+(pdftex.def)             Requested size: 142.26378pt x 78.22026pt.
+<../Chap2/Figure/phases_act/phase_act_6.pdf, id=1943, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/phases_act/phase_act_6.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/phases_act/phase_act_6.pdf>
+Package pdftex.def Info: ../Chap2/Figure/phases_act/phase_act_6.pdf  used on input line 245.
+(pdftex.def)             Requested size: 142.26378pt x 78.22026pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 252.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 252.
+
+[37 <../Chap2/Figure/phases_act/phase_act_1.pdf> <../Chap2/Figure/phases_act/phase_act_2.pdf> <../Chap2/Figure/phases_act/phase_act_3.pdf> <../Chap2/Figure/phases_act/phase_act_4.pdf> <../Chap2/Figure/phases_act/phase_act_5.pdf> <../Chap2/Figure/phases_act/phase_act_6.pdf>]
+<../Chap2/Figure/distributeur_hyd8_Hydrac.pdf, id=2173, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/distributeur_hyd8_Hydrac.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/distributeur_hyd8_Hydrac.pdf>
+Package pdftex.def Info: ../Chap2/Figure/distributeur_hyd8_Hydrac.pdf  used on input line 275.
+(pdftex.def)             Requested size: 298.75262pt x 98.13617pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 276.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 276.
+
+[38]
+<../Chap2/Figure/distributeur_hyd.pdf, id=2184, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/distributeur_hyd.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/distributeur_hyd.pdf>
+Package pdftex.def Info: ../Chap2/Figure/distributeur_hyd.pdf  used on input line 285.
+(pdftex.def)             Requested size: 256.0774pt x 107.76411pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 286.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 286.
+
+<../Chap2/Figure/etrangleur_hyd.pdf, id=2188, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/etrangleur_hyd.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/etrangleur_hyd.pdf>
+Package pdftex.def Info: ../Chap2/Figure/etrangleur_hyd.pdf  used on input line 301.
+(pdftex.def)             Requested size: 256.0774pt x 115.74953pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 302.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 302.
+
+<../Chap2/Figure/etrangleur_fixe.pdf, id=2190, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/etrangleur_fixe.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/etrangleur_fixe.pdf>
+Package pdftex.def Info: ../Chap2/Figure/etrangleur_fixe.pdf  used on input line 312.
+(pdftex.def)             Requested size: 136.57634pt x 78.00865pt.
+<../Chap2/Figure/etrangleur_pointeau.pdf, id=2192, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/etrangleur_pointeau.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/etrangleur_pointeau.pdf>
+Package pdftex.def Info: ../Chap2/Figure/etrangleur_pointeau.pdf  used on input line 318.
+(pdftex.def)             Requested size: 128.0387pt x 122.89023pt.
+<../Chap2/Figure/etrangleur_membrane32.pdf, id=2194, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/etrangleur_membrane32.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/etrangleur_membrane32.pdf>
+Package pdftex.def Info: ../Chap2/Figure/etrangleur_membrane32.pdf  used on input line 324.
+(pdftex.def)             Requested size: 145.10748pt x 118.65553pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 328.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 328.
+
+[39 <../Chap2/Figure/distributeur_hyd8_Hydrac.pdf> <../Chap2/Figure/distributeur_hyd.pdf>] [40 <../Chap2/Figure/etrangleur_hyd.pdf> <../Chap2/Figure/etrangleur_fixe.pdf> <../Chap2/Figure/etrangleur_pointeau.pdf> <../Chap2/Figure/etrangleur_membrane32.pdf>]
+<../Chap2/Figure/Ã©coulement_tube_Ã©crÃ©sÃ©_Conrad1969.pdf, id=2329, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Ã©coulement_tube_Ã©crÃ©sÃ©_Conrad1969.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Ã©coulement_tube_Ã©crÃ©sÃ©_Conrad1969.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Ã©coulement_tube_Ã©crÃ©sÃ©_Conrad1969.pdf  used on input line 348.
+(pdftex.def)             Requested size: 426.79134pt x 272.21933pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 349.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 349.
+
+<../Chap2/Figure/tuyau_arrosage.pdf, id=2335, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/tuyau_arrosage.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/tuyau_arrosage.pdf>
+Package pdftex.def Info: ../Chap2/Figure/tuyau_arrosage.pdf  used on input line 361.
+(pdftex.def)             Requested size: 256.0774pt x 93.19798pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 362.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 362.
+
+[41 <../Chap2/Figure/Ã©coulement_tube_Ã©crÃ©sÃ©_Conrad1969.pdf>]
+<../Chap2/Figure/detail_flambement_MDB.pdf, id=2363, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/detail_flambement_MDB.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/detail_flambement_MDB.pdf>
+Package pdftex.def Info: ../Chap2/Figure/detail_flambement_MDB.pdf  used on input line 374.
+(pdftex.def)             Requested size: 213.39566pt x 118.64693pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 375.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 375.
+
+[42 <../Chap2/Figure/tuyau_arrosage.pdf> <../Chap2/Figure/detail_flambement_MDB.pdf>]
+<../Chap2/Figure/integration_VH_face.pdf, id=2422, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/integration_VH_face.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/integration_VH_face.pdf>
+Package pdftex.def Info: ../Chap2/Figure/integration_VH_face.pdf  used on input line 393.
+(pdftex.def)             Requested size: 341.43436pt x 179.18921pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 394.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 394.
+
+<../Chap2/Figure/integration_VH_dessus.pdf, id=2424, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/integration_VH_dessus.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/integration_VH_dessus.pdf>
+Package pdftex.def Info: ../Chap2/Figure/integration_VH_dessus.pdf  used on input line 403.
+(pdftex.def)             Requested size: 341.43436pt x 126.0559pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 404.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 404.
+
+<../Chap2/Figure/flambement_tubes_Chen2016.pdf, id=2429, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/flambement_tubes_Chen2016.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/flambement_tubes_Chen2016.pdf>
+Package pdftex.def Info: ../Chap2/Figure/flambement_tubes_Chen2016.pdf  used on input line 415.
+(pdftex.def)             Requested size: 213.39566pt x 204.62352pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 416.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 416.
+
+[43 <../Chap2/Figure/integration_VH_face.pdf>] [44 <../Chap2/Figure/integration_VH_dessus.pdf> <../Chap2/Figure/flambement_tubes_Chen2016.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 456.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 456.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 477.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 477.
+
+
+Overfull \hbox (26.27185pt too wide) in paragraph at lines 484--494
+ [][] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 494.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 494.
+
+<../Chap2/Figure/schema_cinematique1.pdf, id=2602, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/schema_cinematique1.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/schema_cinematique1.pdf>
+Package pdftex.def Info: ../Chap2/Figure/schema_cinematique1.pdf  used on input line 502.
+(pdftex.def)             Requested size: 426.79134pt x 223.19377pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 503.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 503.
+
+[45] [46 <../Chap2/Figure/schema_cinematique1.pdf>]
+<../Chap2/Figure/Kphi_Ep.pdf, id=2662, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Kphi_Ep.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Kphi_Ep.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Kphi_Ep.pdf  used on input line 576.
+(pdftex.def)             Requested size: 170.71393pt x 157.8883pt.
+<../Chap2/Figure/Kphi_Felas.pdf, id=2664, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/Kphi_Felas.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/Kphi_Felas.pdf>
+Package pdftex.def Info: ../Chap2/Figure/Kphi_Felas.pdf  used on input line 583.
+(pdftex.def)             Requested size: 162.18279pt x 165.2011pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 587.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 587.
+
+[47]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 625.
+
+[48 <../Chap2/Figure/Kphi_Ep.pdf> <../Chap2/Figure/Kphi_Felas.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 659--662
+
+ []
+
+[49]
+<../Chap2/Figure/schema_hydraulique2.pdf, id=2762, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/schema_hydraulique2.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/schema_hydraulique2.pdf>
+Package pdftex.def Info: ../Chap2/Figure/schema_hydraulique2.pdf  used on input line 690.
+(pdftex.def)             Requested size: 341.43436pt x 199.78568pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 691.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 691.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 712.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 712.
+
+[50 <../Chap2/Figure/schema_hydraulique2.pdf>] [51]
+<../Chap2/Figure/force_elastique_lineaire_vs_OB.pdf, id=2828, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/force_elastique_lineaire_vs_OB.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/force_elastique_lineaire_vs_OB.pdf>
+Package pdftex.def Info: ../Chap2/Figure/force_elastique_lineaire_vs_OB.pdf  used on input line 801.
+(pdftex.def)             Requested size: 256.0774pt x 159.16066pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 802.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 802.
+
+[52 <../Chap2/Figure/force_elastique_lineaire_vs_OB.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 843.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 843.
+
+<../Chap2/Figure/dessin APA_dimensions.pdf, id=2871, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/dessin APA_dimensions.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/dessin APA_dimensions.pdf>
+Package pdftex.def Info: ../Chap2/Figure/dessin APA_dimensions.pdf  used on input line 851.
+(pdftex.def)             Requested size: 64.01608pt x 80.52196pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 852.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 852.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 866--867
+
+ []
+
+[54 <../Chap2/Figure/dessin APA_dimensions.pdf>]
+<../Chap2/Figure/x_crit.pdf, id=2924, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/x_crit.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/x_crit.pdf>
+Package pdftex.def Info: ../Chap2/Figure/x_crit.pdf  used on input line 901.
+(pdftex.def)             Requested size: 213.39566pt x 167.90916pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 902.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 902.
+
+[55 <../Chap2/Figure/x_crit.pdf>] [56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 958--959
+
+ []
+
+[58] [59] [60]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1136.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1136.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1154.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1154.
+
+
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 1117--1157
+[][] [] 
+ []
+
+<../Chap2/Figure/simu_pos_debit_Cf_pression_1CYCLE.pdf, id=3002, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/simu_pos_debit_Cf_pression_1CYCLE.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/simu_pos_debit_Cf_pression_1CYCLE.pdf>
+Package pdftex.def Info: ../Chap2/Figure/simu_pos_debit_Cf_pression_1CYCLE.pdf  used on input line 1166.
+(pdftex.def)             Requested size: 362.77524pt x 287.15608pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1167.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1167.
+
+[61]
+<../Chap2/Figure/simu_pos_Up_puissances_energie_1CYCLE.pdf, id=3015, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/simu_pos_Up_puissances_energie_1CYCLE.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/simu_pos_Up_puissances_energie_1CYCLE.pdf>
+Package pdftex.def Info: ../Chap2/Figure/simu_pos_Up_puissances_energie_1CYCLE.pdf  used on input line 1180.
+(pdftex.def)             Requested size: 341.43436pt x 272.52534pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1181.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1181.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Chap2/Figure/conversion_symme_rendements.pdf, id=3018, 963.6pt x 542.025pt>
+File: ../Chap2/Figure/conversion_symme_rendements.pdf Graphic file (type pdf)
+<use ../Chap2/Figure/conversion_symme_rendements.pdf>
+Package pdftex.def Info: ../Chap2/Figure/conversion_symme_rendements.pdf  used on input line 1192.
+(pdftex.def)             Requested size: 426.79134pt x 151.85097pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1193.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 1193.
+
+[62 <../Chap2/Figure/simu_pos_debit_Cf_pression_1CYCLE.pdf>] [63 <../Chap2/Figure/simu_pos_Up_puissances_energie_1CYCLE.pdf> <../Chap2/Figure/conversion_symme_rendements.pdf>]) (../Chap3/Chap3.tex [64]
+Chapitre III.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+(./A_MAIN_Manuscrit_Tigran.mtc6) [65
+
+]
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 21.17232pt (L~');
+(lettrine.sty)             reported on input line 84.
+<../Chap3/Figure/monobloc+GPA_face.pdf, id=3133, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/monobloc+GPA_face.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/monobloc+GPA_face.pdf>
+Package pdftex.def Info: ../Chap3/Figure/monobloc+GPA_face.pdf  used on input line 100.
+(pdftex.def)             Requested size: 251.80531pt x 147.74643pt.
+<../Chap3/Figure/monobloc+GPA_iso.pdf, id=3135, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/monobloc+GPA_iso.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/monobloc+GPA_iso.pdf>
+Package pdftex.def Info: ../Chap3/Figure/monobloc+GPA_iso.pdf  used on input line 106.
+(pdftex.def)             Requested size: 170.71393pt x 112.73473pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 110.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 110.
+
+[66 <../Chap3/Figure/monobloc+GPA_face.pdf> <../Chap3/Figure/monobloc+GPA_iso.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 145.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 145.
+
+[67]
+<../Chap3/Figure/ANSYS_Conditions_Initiales.pdf, id=3209, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/ANSYS_Conditions_Initiales.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/ANSYS_Conditions_Initiales.pdf>
+Package pdftex.def Info: ../Chap3/Figure/ANSYS_Conditions_Initiales.pdf  used on input line 184.
+(pdftex.def)             Requested size: 341.43436pt x 284.45158pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 185.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 185.
+
+[68] [69 <../Chap3/Figure/ANSYS_Conditions_Initiales.pdf>]
+<../Chap3/Figure/ANSYS_deplacement_X.pdf, id=3272, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/ANSYS_deplacement_X.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/ANSYS_deplacement_X.pdf>
+Package pdftex.def Info: ../Chap3/Figure/ANSYS_deplacement_X.pdf  used on input line 215.
+(pdftex.def)             Requested size: 341.43436pt x 290.8117pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 216.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 216.
+
+[70 <../Chap3/Figure/ANSYS_deplacement_X.pdf>]
+<../Chap3/Figure/ANSYS_Von_Mises.pdf, id=3342, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/ANSYS_Von_Mises.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/ANSYS_Von_Mises.pdf>
+Package pdftex.def Info: ../Chap3/Figure/ANSYS_Von_Mises.pdf  used on input line 229.
+(pdftex.def)             Requested size: 341.43436pt x 226.89632pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 230.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 230.
+
+<../Chap3/Figure/ANSYS_energie+moment.pdf, id=3348, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/ANSYS_energie+moment.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/ANSYS_energie+moment.pdf>
+Package pdftex.def Info: ../Chap3/Figure/ANSYS_energie+moment.pdf  used on input line 253.
+(pdftex.def)             Requested size: 298.75262pt x 301.66277pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 254.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 254.
+
+[71 <../Chap3/Figure/ANSYS_Von_Mises.pdf>] [72 <../Chap3/Figure/ANSYS_energie+moment.pdf>]
+<../Chap3/Figure/schÃ©ma_compression_GPA_flambement.pdf, id=3403, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/schÃ©ma_compression_GPA_flambement.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/schÃ©ma_compression_GPA_flambement.pdf>
+Package pdftex.def Info: ../Chap3/Figure/schÃ©ma_compression_GPA_flambement.pdf  used on input line 274.
+(pdftex.def)             Requested size: 341.43436pt x 141.64478pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 275.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 275.
+
+<../Chap3/Figure/Fz(x0).pdf, id=3408, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/Fz(x0).pdf Graphic file (type pdf)
+<use ../Chap3/Figure/Fz(x0).pdf>
+Package pdftex.def Info: ../Chap3/Figure/Fz(x0).pdf  used on input line 289.
+(pdftex.def)             Requested size: 213.39566pt x 170.32524pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 290.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 290.
+
+<../Chap3/Figure/EF_flambement_CI.pdf, id=3410, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/EF_flambement_CI.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/EF_flambement_CI.pdf>
+Package pdftex.def Info: ../Chap3/Figure/EF_flambement_CI.pdf  used on input line 300.
+(pdftex.def)             Requested size: 341.43436pt x 284.45158pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 301.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 301.
+
+[73 <../Chap3/Figure/schÃ©ma_compression_GPA_flambement.pdf> <../Chap3/Figure/Fz(x0).pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 335.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 335.
+
+<../Chap3/Figure/EF_flambement_avec_et_sans_masselotte.pdf, id=3454, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/EF_flambement_avec_et_sans_masselotte.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/EF_flambement_avec_et_sans_masselotte.pdf>
+Package pdftex.def Info: ../Chap3/Figure/EF_flambement_avec_et_sans_masselotte.pdf  used on input line 343.
+(pdftex.def)             Requested size: 426.79134pt x 177.05444pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 344.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 344.
+
+[74 <../Chap3/Figure/EF_flambement_CI.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 368.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 368.
+
+[75 <../Chap3/Figure/EF_flambement_avec_et_sans_masselotte.pdf>] [76]
+<../Chap3/Figure/KGPA_Kv2.pdf, id=3550, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/KGPA_Kv2.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/KGPA_Kv2.pdf>
+Package pdftex.def Info: ../Chap3/Figure/KGPA_Kv2.pdf  used on input line 406.
+(pdftex.def)             Requested size: 128.0387pt x 87.0762pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 407.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 407.
+
+<../Chap3/Figure/Kv_modele2.pdf, id=3552, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/Kv_modele2.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/Kv_modele2.pdf>
+Package pdftex.def Info: ../Chap3/Figure/Kv_modele2.pdf  used on input line 416.
+(pdftex.def)             Requested size: 298.75262pt x 147.67122pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 417.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 417.
+
+[77 <../Chap3/Figure/KGPA_Kv2.pdf> <../Chap3/Figure/Kv_modele2.pdf>]
+<../Chap3/Figure/BDT_OB+GPA.pdf, id=3623, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/BDT_OB+GPA.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/BDT_OB+GPA.pdf>
+Package pdftex.def Info: ../Chap3/Figure/BDT_OB+GPA.pdf  used on input line 483.
+(pdftex.def)             Requested size: 384.10959pt x 168.61813pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 484.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 484.
+
+<../Chap3/Figure/BDT_detail_plan45.pdf, id=3625, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/BDT_detail_plan45.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/BDT_detail_plan45.pdf>
+Package pdftex.def Info: ../Chap3/Figure/BDT_detail_plan45.pdf  used on input line 493.
+(pdftex.def)             Requested size: 298.75262pt x 132.75214pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 494.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 494.
+
+[78] [79 <../Chap3/Figure/BDT_OB+GPA.pdf> <../Chap3/Figure/BDT_detail_plan45.pdf>]
+<../Chap3/Figure/BDT_detail_capteur_RC63_2.pdf, id=3737, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/BDT_detail_capteur_RC63_2.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/BDT_detail_capteur_RC63_2.pdf>
+Package pdftex.def Info: ../Chap3/Figure/BDT_detail_capteur_RC63_2.pdf  used on input line 507.
+(pdftex.def)             Requested size: 426.79134pt x 211.63707pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 508.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 508.
+
+[80 <../Chap3/Figure/BDT_detail_capteur_RC63_2.pdf>]
+<../Chap3/Figure/BDT_defauts_OB.pdf, id=3803, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/BDT_defauts_OB.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/BDT_defauts_OB.pdf>
+Package pdftex.def Info: ../Chap3/Figure/BDT_defauts_OB.pdf  used on input line 528.
+(pdftex.def)             Requested size: 384.10959pt x 196.85666pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 529.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 529.
+
+<../Chap3/Figure/BDT_acquisition.pdf, id=3806, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/BDT_acquisition.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/BDT_acquisition.pdf>
+Package pdftex.def Info: ../Chap3/Figure/BDT_acquisition.pdf  used on input line 543.
+(pdftex.def)             Requested size: 298.75262pt x 147.7442pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 544.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 544.
+
+[81 <../Chap3/Figure/BDT_defauts_OB.pdf>]
+<../Chap3/Figure/BDT_correlation_simu_exp_lacher.pdf, id=3835, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/BDT_correlation_simu_exp_lacher.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/BDT_correlation_simu_exp_lacher.pdf>
+Package pdftex.def Info: ../Chap3/Figure/BDT_correlation_simu_exp_lacher.pdf  used on input line 565.
+(pdftex.def)             Requested size: 426.79134pt x 326.9626pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 566.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 566.
+
+
+Overfull \hbox (22.61826pt too wide) in paragraph at lines 560--571
+[]\T1/ptm/m/n/10.95 Les va-leurs des pa-ra-mètres ainsi re-ca-lés et celles des pa-ra-mètres du mo-dèle de pré-dimensionnement
+ []
+
+[82 <../Chap3/Figure/BDT_acquisition.pdf>] [83 <../Chap3/Figure/BDT_correlation_simu_exp_lacher.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 605.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 605.
+
+[84]) [85] [86] (../Chap4/Chap4.tex
+Chapitre IV.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+(./A_MAIN_Manuscrit_Tigran.mtc7) [87
+
+]
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 21.17232pt (L~);
+(lettrine.sty)             reported on input line 67.
+ [88]
+<../Chap4/Figure/(K_VH)_max(a)_bistabilite.pdf, id=3944, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/(K_VH)_max(a)_bistabilite.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/(K_VH)_max(a)_bistabilite.pdf>
+Package pdftex.def Info: ../Chap4/Figure/(K_VH)_max(a)_bistabilite.pdf  used on input line 107.
+(pdftex.def)             Requested size: 341.43436pt x 121.48183pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 108.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 108.
+
+[89]
+<../Chap4/Figure/materiaux_tubes_plies.pdf, id=3957, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/materiaux_tubes_plies.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/materiaux_tubes_plies.pdf>
+Package pdftex.def Info: ../Chap4/Figure/materiaux_tubes_plies.pdf  used on input line 126.
+(pdftex.def)             Requested size: 341.43436pt x 197.99086pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 127.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 127.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 147.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 147.
+
+[90 <../Chap4/Figure/(K_VH)_max(a)_bistabilite.pdf>]
+<../Chap4/Figure/BDT_statique_VH.pdf, id=3983, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/BDT_statique_VH.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/BDT_statique_VH.pdf>
+Package pdftex.def Info: ../Chap4/Figure/BDT_statique_VH.pdf  used on input line 164.
+(pdftex.def)             Requested size: 426.79134pt x 184.54816pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 165.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 165.
+
+[91 <../Chap4/Figure/materiaux_tubes_plies.pdf>]
+<../Chap4/Figure/essais_statique_VH.pdf, id=4094, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/essais_statique_VH.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/essais_statique_VH.pdf>
+Package pdftex.def Info: ../Chap4/Figure/essais_statique_VH.pdf  used on input line 185.
+(pdftex.def)             Requested size: 294.48706pt x 98.50127pt.
+<../Chap4/Figure/essais_statique_detail.pdf, id=4096, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/essais_statique_detail.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/essais_statique_detail.pdf>
+Package pdftex.def Info: ../Chap4/Figure/essais_statique_detail.pdf  used on input line 192.
+(pdftex.def)             Requested size: 123.76662pt x 75.0675pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 196.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 196.
+
+<../Chap4/Figure/resultats_essais_statique_VH_tous_sans_simu.pdf, id=4099, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/resultats_essais_statique_VH_tous_sans_simu.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/resultats_essais_statique_VH_tous_sans_simu.pdf>
+Package pdftex.def Info: ../Chap4/Figure/resultats_essais_statique_VH_tous_sans_simu.pdf  used on input line 210.
+(pdftex.def)             Requested size: 426.79134pt x 240.06314pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 211.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 211.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 234.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 234.
+
+[92 <../Chap4/Figure/BDT_statique_VH.pdf> <../Chap4/Figure/essais_statique_VH.pdf> <../Chap4/Figure/essais_statique_detail.pdf>] [93 <../Chap4/Figure/resultats_essais_statique_VH_tous_sans_simu.pdf>]
+<../Chap4/Figure/(K_VH)_vs_theta_D1mm_plastifie_essai2.pdf, id=4199, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/(K_VH)_vs_theta_D1mm_plastifie_essai2.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/(K_VH)_vs_theta_D1mm_plastifie_essai2.pdf>
+Package pdftex.def Info: ../Chap4/Figure/(K_VH)_vs_theta_D1mm_plastifie_essai2.pdf  used on input line 250.
+(pdftex.def)             Requested size: 256.0774pt x 200.207pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 251.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 251.
+
+<../Chap4/Figure/plastification_tube.pdf, id=4203, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/plastification_tube.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/plastification_tube.pdf>
+Package pdftex.def Info: ../Chap4/Figure/plastification_tube.pdf  used on input line 261.
+(pdftex.def)             Requested size: 170.71393pt x 72.83795pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 262.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 262.
+
+[94 <../Chap4/Figure/(K_VH)_vs_theta_D1mm_plastifie_essai2.pdf>] [95 <../Chap4/Figure/plastification_tube.pdf>]
+<../Chap4/Figure/BDT_hydraulique_VH.pdf, id=4265, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/BDT_hydraulique_VH.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/BDT_hydraulique_VH.pdf>
+Package pdftex.def Info: ../Chap4/Figure/BDT_hydraulique_VH.pdf  used on input line 292.
+(pdftex.def)             Requested size: 426.79134pt x 231.81897pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 293.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 293.
+
+<../Chap4/Figure/essais_hydraulique_VH.pdf, id=4268, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/essais_hydraulique_VH.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/essais_hydraulique_VH.pdf>
+Package pdftex.def Info: ../Chap4/Figure/essais_hydraulique_VH.pdf  used on input line 306.
+(pdftex.def)             Requested size: 426.79134pt x 121.20454pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 307.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 307.
+
+[96 <../Chap4/Figure/BDT_hydraulique_VH.pdf>]
+<../Chap4/Figure/fabrication_tube_experimental.pdf, id=4366, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/fabrication_tube_experimental.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/fabrication_tube_experimental.pdf>
+Package pdftex.def Info: ../Chap4/Figure/fabrication_tube_experimental.pdf  used on input line 331.
+(pdftex.def)             Requested size: 256.0774pt x 120.93799pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 332.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 332.
+
+<../Chap4/Figure/resultats_essais_hydraulique_P1,P2,Qe_D1mm.pdf, id=4369, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/resultats_essais_hydraulique_P1,P2,Qe_D1mm.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/resultats_essais_hydraulique_P1,P2,Qe_D1mm.pdf>
+Package pdftex.def Info: ../Chap4/Figure/resultats_essais_hydraulique_P1,P2,Qe_D1mm.pdf  used on input line 346.
+(pdftex.def)             Requested size: 426.79134pt x 291.75455pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 347.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 347.
+
+[97 <../Chap4/Figure/essais_hydraulique_VH.pdf>]
+<../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf, id=4436, 963.6pt x 542.025pt>
+File: ../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf>
+Package pdftex.def Info: ../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf  used on input line 358.
+(pdftex.def)             Requested size: 256.0774pt x 204.39194pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 359.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 359.
+
+[98 <../Chap4/Figure/fabrication_tube_experimental.pdf> <../Chap4/Figure/resultats_essais_hydraulique_P1,P2,Qe_D1mm.pdf>]
+<../Chap6/Figure/presentation_BDT_avant_actionnement.pdf, id=4481, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/presentation_BDT_avant_actionnement.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/presentation_BDT_avant_actionnement.pdf>
+Package pdftex.def Info: ../Chap6/Figure/presentation_BDT_avant_actionnement.pdf  used on input line 381.
+(pdftex.def)             Requested size: 209.1301pt x 155.44524pt.
+<../Chap6/Figure/presentation_BDT_apres_actionnement.pdf, id=4483, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/presentation_BDT_apres_actionnement.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/presentation_BDT_apres_actionnement.pdf>
+Package pdftex.def Info: ../Chap6/Figure/presentation_BDT_apres_actionnement.pdf  used on input line 388.
+(pdftex.def)             Requested size: 209.1301pt x 155.44524pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 392.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 392.
+
+[99 <../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf>]
+<../Chap6/Figure/deplacement_zlat_xm=0.pdf, id=4512, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/deplacement_zlat_xm=0.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/deplacement_zlat_xm=0.pdf>
+Package pdftex.def Info: ../Chap6/Figure/deplacement_zlat_xm=0.pdf  used on input line 410.
+(pdftex.def)             Requested size: 209.1301pt x 149.43387pt.
+<../Chap6/Figure/deplacement_zlat_xm=x0.pdf, id=4514, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/deplacement_zlat_xm=x0.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/deplacement_zlat_xm=x0.pdf>
+Package pdftex.def Info: ../Chap6/Figure/deplacement_zlat_xm=x0.pdf  used on input line 417.
+(pdftex.def)             Requested size: 209.1301pt x 149.43387pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 421.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 421.
+
+<../Chap6/Figure/cinematique_pliage_VH_lacher_mini.pdf, id=4516, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/cinematique_pliage_VH_lacher_mini.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/cinematique_pliage_VH_lacher_mini.pdf>
+Package pdftex.def Info: ../Chap6/Figure/cinematique_pliage_VH_lacher_mini.pdf  used on input line 431.
+(pdftex.def)             Requested size: 209.1301pt x 166.04147pt.
+<../Chap6/Figure/cinematique_pliage_VH_lacher_mini_saut.pdf, id=4518, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/cinematique_pliage_VH_lacher_mini_saut.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/cinematique_pliage_VH_lacher_mini_saut.pdf>
+Package pdftex.def Info: ../Chap6/Figure/cinematique_pliage_VH_lacher_mini_saut.pdf  used on input line 438.
+(pdftex.def)             Requested size: 209.1301pt x 166.04147pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 442.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 442.
+
+[100 <../Chap6/Figure/presentation_BDT_avant_actionnement.pdf> <../Chap6/Figure/presentation_BDT_apres_actionnement.pdf>] [101 <../Chap6/Figure/deplacement_zlat_xm=0.pdf> <../Chap6/Figure/deplacement_zlat_xm=x0.pdf> <../Chap6/Figure/cinematique_pliage_VH_lacher_mini.pdf> <../Chap6/Figure/cinematique_pliage_VH_lacher_mini_saut.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 459.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 459.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 459.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 459.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\theta' on input line 459.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 459.
+
+<../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_tot.pdf, id=4800, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_tot.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_tot.pdf>
+Package pdftex.def Info: ../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_tot.pdf  used on input line 485.
+(pdftex.def)             Requested size: 200.7663pt x 160.24335pt.
+<../Chap6/Figure/a_vs_xm_avec_et_sans_gaine_tot.pdf, id=4802, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/a_vs_xm_avec_et_sans_gaine_tot.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/a_vs_xm_avec_et_sans_gaine_tot.pdf>
+Package pdftex.def Info: ../Chap6/Figure/a_vs_xm_avec_et_sans_gaine_tot.pdf  used on input line 492.
+(pdftex.def)             Requested size: 207.03993pt x 161.8644pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 496.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 496.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 521.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 521.
+
+[102] [103 <../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_tot.pdf> <../Chap6/Figure/a_vs_xm_avec_et_sans_gaine_tot.pdf>] [104]) [105] [106] (../Chap5/Chap5.tex
+Chapitre V.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+(./A_MAIN_Manuscrit_Tigran.mtc8) [107
+
+]
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.4341pt (P~);
+(lettrine.sty)             reported on input line 63.
+<../Chap5/Figure/geometrie_approx.pdf, id=4928, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/geometrie_approx.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/geometrie_approx.pdf>
+Package pdftex.def Info: ../Chap5/Figure/geometrie_approx.pdf  used on input line 80.
+(pdftex.def)             Requested size: 384.10959pt x 117.27258pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 81.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 81.
+
+[108 <../Chap5/Figure/geometrie_approx.pdf>] [109]
+<../Chap5/Figure/g(fD).pdf, id=5002, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/g(fD).pdf Graphic file (type pdf)
+<use ../Chap5/Figure/g(fD).pdf>
+Package pdftex.def Info: ../Chap5/Figure/g(fD).pdf  used on input line 150.
+(pdftex.def)             Requested size: 341.43436pt x 161.80772pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 151.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 151.
+
+[110 <../Chap5/Figure/g(fD).pdf>]
+<../Chap5/Figure/presentation_modele_EF.pdf, id=5022, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/presentation_modele_EF.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/presentation_modele_EF.pdf>
+Package pdftex.def Info: ../Chap5/Figure/presentation_modele_EF.pdf  used on input line 173.
+(pdftex.def)             Requested size: 298.75262pt x 120.74402pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 174.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 174.
+
+[111 <../Chap5/Figure/presentation_modele_EF.pdf>]
+<../Chap5/Figure/theta_impose.pdf, id=5066, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/theta_impose.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/theta_impose.pdf>
+Package pdftex.def Info: ../Chap5/Figure/theta_impose.pdf  used on input line 195.
+(pdftex.def)             Requested size: 298.75262pt x 232.15993pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 196.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 196.
+
+<../Chap5/Figure/Dupont_kapton.pdf, id=5068, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/Dupont_kapton.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/Dupont_kapton.pdf>
+Package pdftex.def Info: ../Chap5/Figure/Dupont_kapton.pdf  used on input line 205.
+(pdftex.def)             Requested size: 341.43436pt x 204.11075pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 206.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 206.
+
+[112 <../Chap5/Figure/theta_impose.pdf> <../Chap5/Figure/Dupont_kapton.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 242.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 242.
+
+<../Chap5/Figure/prospection_fD_L&R&thvar.pdf, id=5124, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/prospection_fD_L&R&thvar.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/prospection_fD_L&R&thvar.pdf>
+Package pdftex.def Info: ../Chap5/Figure/prospection_fD_L&R&thvar.pdf  used on input line 258.
+(pdftex.def)             Requested size: 209.1301pt x 236.20076pt.
+<../Chap5/Figure/prospection_Cf_L&R&thvar.pdf, id=5126, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/prospection_Cf_L&R&thvar.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/prospection_Cf_L&R&thvar.pdf>
+Package pdftex.def Info: ../Chap5/Figure/prospection_Cf_L&R&thvar.pdf  used on input line 265.
+(pdftex.def)             Requested size: 209.1301pt x 236.20076pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 269.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 269.
+
+[113] [114 <../Chap5/Figure/prospection_fD_L&R&thvar.pdf> <../Chap5/Figure/prospection_Cf_L&R&thvar.pdf>]
+<../Chap5/Figure/prospection_Khv_L&R&thvar_ZOOM.pdf, id=5163, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/prospection_Khv_L&R&thvar_ZOOM.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/prospection_Khv_L&R&thvar_ZOOM.pdf>
+Package pdftex.def Info: ../Chap5/Figure/prospection_Khv_L&R&thvar_ZOOM.pdf  used on input line 298.
+(pdftex.def)             Requested size: 426.79134pt x 202.25792pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 299.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 299.
+
+[115 <../Chap5/Figure/prospection_Khv_L&R&thvar_ZOOM.pdf>]
+<../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta.pdf, id=5192, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta.pdf>
+Package pdftex.def Info: ../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta.pdf  used on input line 336.
+(pdftex.def)             Requested size: 204.85802pt x 218.4272pt.
+<../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta_25-50.pdf, id=5194, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta_25-50.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta_25-50.pdf>
+Package pdftex.def Info: ../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta_25-50.pdf  used on input line 343.
+(pdftex.def)             Requested size: 204.85802pt x 218.4272pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 347.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 347.
+
+[116] [117 <../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta.pdf> <../Chap5/Figure/(K_VH)_(Cf_VH)_vs_theta_25-50.pdf>]
+<../Chap5/Figure/resultats_essais_statique_VH_tous_simu_vs_non_plastife.pdf, id=5249, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/resultats_essais_statique_VH_tous_simu_vs_non_plastife.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/resultats_essais_statique_VH_tous_simu_vs_non_plastife.pdf>
+Package pdftex.def Info: ../Chap5/Figure/resultats_essais_statique_VH_tous_simu_vs_non_plastife.pdf  used on input line 384.
+(pdftex.def)             Requested size: 426.79134pt x 240.06314pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 385.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 385.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 419.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 419.
+
+<../Chap5/Figure/(Cf_VH)_vs_theta_D1mm.pdf, id=5253, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/(Cf_VH)_vs_theta_D1mm.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/(Cf_VH)_vs_theta_D1mm.pdf>
+Package pdftex.def Info: ../Chap5/Figure/(Cf_VH)_vs_theta_D1mm.pdf  used on input line 433.
+(pdftex.def)             Requested size: 204.85802pt x 163.51024pt.
+File: ../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf Graphic file (type pdf)
+<use ../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf>
+Package pdftex.def Info: ../Chap4/Figure/resultats_essais_hydraulique_VH_D1mm.pdf  used on input line 440.
+(pdftex.def)             Requested size: 204.85802pt x 163.51024pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 444.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 444.
+
+[118] [119 <../Chap5/Figure/resultats_essais_statique_VH_tous_simu_vs_non_plastife.pdf> <../Chap5/Figure/(Cf_VH)_vs_theta_D1mm.pdf>]
+Overfull \hbox (0.53224pt too wide) in paragraph at lines 456--458
+[]\T1/ptm/m/n/10.95 Les PdC in-duites par la mise en sé-rie de plu-sieurs sin-gu-la-ri-tés géo-mé-triques proches ne peuvent
+ []
+
+[120]) [121] [122] (../Chap6/Chap6.tex
+Chapitre VI.
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+\openout4 = `A_MAIN_Manuscrit_Tigran.mtc'.
+
+(./A_MAIN_Manuscrit_Tigran.mtc9
+Overfull \hbox (6.98538pt too wide) in paragraph at lines 1--1
+ [][] [][][]\T1/ptm/b/n/10 Implémentation des com-por-te-ments sta-tiques et hy-drau-liques du tube T100p 
+ []
+
+) [123
+
+]
+Package lettrine.sty Info: Targeted height = 22.13048pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 22.1304pt (E~);
+(lettrine.sty)             reported on input line 44.
+<../Chap5/Figure/(Ep)_vs_(x_m)_avec_plusieurs_K_VH.pdf, id=5342, 963.6pt x 542.025pt>
+File: ../Chap5/Figure/(Ep)_vs_(x_m)_avec_plusieurs_K_VH.pdf Graphic file (type pdf)
+<use ../Chap5/Figure/(Ep)_vs_(x_m)_avec_plusieurs_K_VH.pdf>
+Package pdftex.def Info: ../Chap5/Figure/(Ep)_vs_(x_m)_avec_plusieurs_K_VH.pdf  used on input line 62.
+(pdftex.def)             Requested size: 256.0774pt x 245.55484pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 63.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 63.
+
+[124]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
+ [125 <../Chap5/Figure/(Ep)_vs_(x_m)_avec_plusieurs_K_VH.pdf>] [126]
+<../Chap6/Figure/Energie_potentielle_OBVHeq.pdf, id=5398, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/Energie_potentielle_OBVHeq.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/Energie_potentielle_OBVHeq.pdf>
+Package pdftex.def Info: ../Chap6/Figure/Energie_potentielle_OBVHeq.pdf  used on input line 157.
+(pdftex.def)             Requested size: 341.43436pt x 238.25223pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 158.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 158.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 179.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 179.
+
+[127]
+<../Chap6/Figure/contact_M_VH_lachers.pdf, id=5419, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/contact_M_VH_lachers.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/contact_M_VH_lachers.pdf>
+Package pdftex.def Info: ../Chap6/Figure/contact_M_VH_lachers.pdf  used on input line 203.
+(pdftex.def)             Requested size: 341.43436pt x 109.1727pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 204.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 204.
+
+[128 <../Chap6/Figure/Energie_potentielle_OBVHeq.pdf>]
+<../Chap6/Figure/exp_lacher_free.pdf, id=5448, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/exp_lacher_free.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/exp_lacher_free.pdf>
+Package pdftex.def Info: ../Chap6/Figure/exp_lacher_free.pdf  used on input line 218.
+(pdftex.def)             Requested size: 209.1301pt x 160.21027pt.
+<../Chap6/Figure/exp_lacher_t100p.pdf, id=5450, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/exp_lacher_t100p.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/exp_lacher_t100p.pdf>
+Package pdftex.def Info: ../Chap6/Figure/exp_lacher_t100p.pdf  used on input line 225.
+(pdftex.def)             Requested size: 209.1301pt x 160.21027pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 229.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 229.
+
+[129 <../Chap6/Figure/contact_M_VH_lachers.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 261.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 261.
+
+[130 <../Chap6/Figure/exp_lacher_free.pdf> <../Chap6/Figure/exp_lacher_t100p.pdf>]
+<../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_experimental.pdf, id=5528, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_experimental.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_experimental.pdf>
+Package pdftex.def Info: ../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_experimental.pdf  used on input line 289.
+(pdftex.def)             Requested size: 209.1301pt x 166.92601pt.
+<../Chap6/Figure/theta_saut_experimental.pdf, id=5530, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/theta_saut_experimental.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/theta_saut_experimental.pdf>
+Package pdftex.def Info: ../Chap6/Figure/theta_saut_experimental.pdf  used on input line 296.
+(pdftex.def)             Requested size: 213.39566pt x 163.47716pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 300.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 300.
+
+[131 <../Chap6/Figure/theta_vs_xm_avec_et_sans_gaine_experimental.pdf> <../Chap6/Figure/theta_saut_experimental.pdf>] [132] [133]
+
+LaTeX Warning: Command \c invalid in math mode on input line 352.
+
+Missing character: There is no ç in font zptmcm7t!
+
+LaTeX Warning: Command \c invalid in math mode on input line 352.
+
+Missing character: There is no ç in font zptmcm7t!
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 383.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 383.
+
+[134]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 430.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 430.
+
+[135
+
+
+
+]
+Overfull \hbox (9.73029pt too wide) in paragraph at lines 443--444
+[]\T1/ptm/m/n/10.95 Les cor-ré-la-tions modèle-essais des tests de lâ-cher ex-pé-ri-men-taux réa-li-sés sur l'OB, puis l'OBVH,
+ []
+
+<../Chap6/Figure/lachers_avec_tube_CHOC.pdf, id=5612, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/lachers_avec_tube_CHOC.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/lachers_avec_tube_CHOC.pdf>
+Package pdftex.def Info: ../Chap6/Figure/lachers_avec_tube_CHOC.pdf  used on input line 456.
+(pdftex.def)             Requested size: 426.79134pt x 215.48232pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 457.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 457.
+
+[136
+
+] [137 <../Chap6/Figure/lachers_avec_tube_CHOC.pdf>]
+Overfull \hbox (1.14088pt too wide) in paragraph at lines 481--482
+ []\T1/ptm/b/n/10.95 Le contact PH-M. \T1/ptm/m/n/10.95 L'ac-tion-ne-ment hy-drau-lique est consi-dé-rée quasi-statique de-vant la fré-quence
+ []
+
+[138] [139]) [140] (../Conclusion/Conclusion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+[141] [142]
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+
+ []
+
+[143]
+Overfull \hbox (0.55495pt too wide) in paragraph at lines 73--74
+[]\T1/ptm/m/n/10.95 Ce doc-to-rat a per-mis d'éva-luer la fai-sa-bi-lité d'une nou-velle ar-chi-tec-ture de ré-cu-pé-ra-teur d'éner-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+[144]) [145] [146] (../Conclusion/Biblio.tex (./A_MAIN_Manuscrit_Tigran.bbl [1
+
+]
+Underfull \hbox (badness 1603) in paragraph at lines 137--142
+[]\T1/ptm/m/n/10.95 Youngsik Lee, Jae-min Kim, Hyun-woo Joo, Mi-lan S. Raj, Rooz-beh Ghaf-fari, and
+ []
+
+[2] [3] [4] [5] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 643--648
+\T1/ptm/m/it/10.95 kink-garden-illustrates-selfishness-god-s-love-isn-t-flowing-green-kinked-garden-hose-
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 780--785
+[]\T1/ptm/m/n/10.95 Dupont Kap-ton.  1mil Du-Pont Kap-ton da-ta-sheet.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--785
+\T1/ptm/m/it/10.95 https ://www.dupont.com/content/dam/dupont/amer/us/en/products/ei-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--785
+\T1/ptm/m/it/10.95 transformation/documents/EI-10142-Kapton-Summary-of-Properties.pdf\T1/ptm/m/n/10.95 , pages 1--19,
+ []
+
+[9])) [10] [11] (../Conclusion/Figures.tex (./A_MAIN_Manuscrit_Tigran.lof
+Overfull \hbox (27.01666pt too wide) in paragraph at lines 21--21
+ [][] [][][]\T1/ptm/m/n/10.95 Chaîne de conver-sion éner-gé-tique pour la so-lu-tion pié-zo-élec-trique de [][][] [][]  
+ []
+
+[12
+
+]
+Overfull \hbox (41.01064pt too wide) in paragraph at lines 22--22
+ [][] [][][]\T1/ptm/m/n/10.95 Chaîne de conver-sion éner-gé-tique pour la so-lu-tion élec-tro-ma-gné-tique de [][][] [][]  
+ []
+
+
+Overfull \hbox (50.50385pt too wide) in paragraph at lines 32--32
+ [][] [][][]\T1/ptm/m/n/10.95 Schéma mé-ca-nique d'un dis-tri-bu-teur hy-drau-lique 4/2,4/3 à com-mande élec-trique/pneumatique 
+ []
+
+[13] [14])
+\tf@lof=\write7
+\openout7 = `A_MAIN_Manuscrit_Tigran.lof'.
+
+) [15] [16] (../Conclusion/Tableau.tex (./A_MAIN_Manuscrit_Tigran.lot
+Overfull \hbox (4.9529pt too wide) in paragraph at lines 10--10
+ [][] [][][]\T1/ptm/m/n/10.95 Énergie de flexion glo-bale, de com-pres-sion ra-diale et leurs pro-por-tions pour l'oreille 
+ []
+
+[17
+
+])
+\tf@lot=\write8
+\openout8 = `A_MAIN_Manuscrit_Tigran.lot'.
+
+) [18] [19] (../Annexes/Annexe1.tex
+Annexe A.
+Package minitoc Info: I0006
+(minitoc)             A_MAIN_Manuscrit_Tigran.mtc10 is empty on input line 30.
+[1
+
+]
+<../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf, id=6049, page=1, 845.0471pt x 597.50829pt>
+File: ../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf, page 1>
+Package pdftex.def Info: ../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf , page1 used on input line 35.
+(pdftex.def)             Requested size: 623.11404pt x 405.45108pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 37.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 37.
+
+
+LaTeX Warning: Float too large for page by 14.25974pt on input line 38.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf>]
+<../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf, id=6081, page=2, 845.0471pt x 597.50829pt>
+File: ../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf, page 2>
+Package pdftex.def Info: ../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf , page2 used on input line 44.
+(pdftex.def)             Requested size: 623.11404pt x 405.45108pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 46.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 46.
+
+
+LaTeX Warning: Float too large for page by 14.25974pt on input line 48.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <../Chap3/Figure/bloc_APX4_final_6mm_paysageA4.pdf>]) [4
+
+
+
+
+] (../Annexes/Annexe3.tex
+Annexe B.
+Package minitoc Info: I0006
+(minitoc)             A_MAIN_Manuscrit_Tigran.mtc11 is empty on input line 32.
+[1
+
+]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6123, page=1, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 1>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page1 used on input line 36.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 36--37
+ [] 
+ []
+
+[2 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6177, page=2, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 2>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 42--43
+ [] 
+ []
+
+[3 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6214, page=3, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 3>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page3 used on input line 48.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 48--49
+ [] 
+ []
+
+[4 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6286, page=4, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 4>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page4 used on input line 54.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 54--55
+ [] 
+ []
+
+[5 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6329, page=6, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 6>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page6 used on input line 60.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 60--61
+ [] 
+ []
+
+[6 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 6>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 66--67
+ [] 
+ []
+
+[7]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6378, page=7, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 7>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page7 used on input line 72.
+(pdftex.def)             Requested size: 432.1255pt x 617.77916pt.
+
+Overfull \hbox (5.33417pt too wide) in paragraph at lines 72--73
+ [] 
+ []
+
+[8 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]
+<../Annexes/Figure/FR5227-11_4WEW6.pdf, id=6423, page=8, 597.50829pt x 845.0471pt>
+File: ../Annexes/Figure/FR5227-11_4WEW6.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/FR5227-11_4WEW6.pdf, page 8>
+Package pdftex.def Info: ../Annexes/Figure/FR5227-11_4WEW6.pdf , page8 used on input line 78.
+(pdftex.def)             Requested size: 449.40982pt x 642.48932pt.
+
+Overfull \hbox (22.61848pt too wide) in paragraph at lines 78--79
+ [] 
+ []
+
+[9 <../Annexes/Figure/FR5227-11_4WEW6.pdf>]) [10
+
+
+
+
+
+
+
+
+] (../Annexes/Annexe4.tex
+Annexe C.
+Package minitoc Info: I0006
+(minitoc)             A_MAIN_Manuscrit_Tigran.mtc12 is empty on input line 31.
+[1
+
+]
+<../Annexes/Figure/verins_SMS_serie_MQP.pdf, id=6478, page=1, 597.23125pt x 845.1575pt>
+File: ../Annexes/Figure/verins_SMS_serie_MQP.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/verins_SMS_serie_MQP.pdf, page 1>
+Package pdftex.def Info: ../Annexes/Figure/verins_SMS_serie_MQP.pdf , page1 used on input line 35.
+(pdftex.def)             Requested size: 431.91772pt x 617.86195pt.
+
+Overfull \hbox (5.12639pt too wide) in paragraph at lines 35--36
+ [] 
+ []
+
+[2 <../Annexes/Figure/verins_SMS_serie_MQP.pdf>]
+<../Annexes/Figure/verins_SMS_serie_MQP.pdf, id=6520, page=2, 597.23125pt x 845.1575pt>
+File: ../Annexes/Figure/verins_SMS_serie_MQP.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/verins_SMS_serie_MQP.pdf, page 2>
+Package pdftex.def Info: ../Annexes/Figure/verins_SMS_serie_MQP.pdf , page2 used on input line 41.
+(pdftex.def)             Requested size: 449.19373pt x 642.57542pt.
+
+Overfull \hbox (22.40239pt too wide) in paragraph at lines 41--42
+ [] 
+ []
+
+[3 <../Annexes/Figure/verins_SMS_serie_MQP.pdf>]
+<../Annexes/Figure/verins_SMS_serie_MQP.pdf, id=6550, page=3, 597.23125pt x 845.1575pt>
+File: ../Annexes/Figure/verins_SMS_serie_MQP.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/verins_SMS_serie_MQP.pdf, page 3>
+Package pdftex.def Info: ../Annexes/Figure/verins_SMS_serie_MQP.pdf , page3 used on input line 47.
+(pdftex.def)             Requested size: 431.91772pt x 617.86195pt.
+
+Overfull \hbox (5.12639pt too wide) in paragraph at lines 47--48
+ [] 
+ []
+
+[4 <../Annexes/Figure/verins_SMS_serie_MQP.pdf>]) [5
+
+
+
+] (../Annexes/Annexe6_APA50XS.tex
+Annexe D.
+Package minitoc Info: I0006
+(minitoc)             A_MAIN_Manuscrit_Tigran.mtc13 is empty on input line 31.
+[1
+
+]
+<../Annexes/Figure/APA50XS.pdf, id=6588, page=1, 614.57909pt x 862.11888pt>
+File: ../Annexes/Figure/APA50XS.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/APA50XS.pdf, page 1>
+Package pdftex.def Info: ../Annexes/Figure/APA50XS.pdf , page1 used on input line 35.
+(pdftex.def)             Requested size: 430.20242pt x 603.47911pt.
+
+Overfull \hbox (3.41109pt too wide) in paragraph at lines 35--36
+ [] 
+ []
+
+[2 <../Annexes/Figure/APA50XS.pdf>]
+<../Annexes/Figure/APA50XS.pdf, id=6676, page=2, 614.57909pt x 862.11888pt>
+File: ../Annexes/Figure/APA50XS.pdf Graphic file (type pdf)
+<use ../Annexes/Figure/APA50XS.pdf, page 2>
+Package pdftex.def Info: ../Annexes/Figure/APA50XS.pdf , page2 used on input line 41.
+(pdftex.def)             Requested size: 430.20242pt x 603.47911pt.
+
+Overfull \hbox (3.41109pt too wide) in paragraph at lines 41--42
+ [] 
+ []
+
+[3 <../Annexes/Figure/APA50XS.pdf>]) [4
+
+
+] (../Annexes/Annexe7_cinematique_M-VH.tex
+Annexe E.
+Package minitoc Info: I0006
+(minitoc)             A_MAIN_Manuscrit_Tigran.mtc14 is empty on input line 32.
+[1
+
+]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 62.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 62.
+
+[2]
+<../Chap6/Figure/cinematique_pliage_VH_lacher_calculs.pdf, id=6742, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs.pdf>
+Package pdftex.def Info: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs.pdf  used on input line 122.
+(pdftex.def)             Requested size: 341.43436pt x 233.40529pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 123.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 123.
+
+[3 <../Chap6/Figure/cinematique_pliage_VH_lacher_calculs.pdf>]
+<../Chap6/Figure/theta_saut.pdf, id=6822, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/theta_saut.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/theta_saut.pdf>
+Package pdftex.def Info: ../Chap6/Figure/theta_saut.pdf  used on input line 144.
+(pdftex.def)             Requested size: 234.73653pt x 204.49947pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 145.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 145.
+
+[4 <../Chap6/Figure/theta_saut.pdf>]
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 176.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 176.
+
+<../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_petit.pdf, id=6858, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_petit.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_petit.pdf>
+Package pdftex.def Info: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_petit.pdf  used on input line 203.
+(pdftex.def)             Requested size: 211.26286pt x 202.58067pt.
+<../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut.pdf, id=6860, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut.pdf>
+Package pdftex.def Info: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut.pdf  used on input line 208.
+(pdftex.def)             Requested size: 211.26286pt x 202.58067pt.
+
+Overfull \hbox (0.60469pt too wide) in paragraph at lines 208--209
+ [][] 
+ []
+
+<../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_grand.pdf, id=6862, 963.6pt x 542.025pt>
+File: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_grand.pdf Graphic file (type pdf)
+<use ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_grand.pdf>
+Package pdftex.def Info: ../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_grand.pdf  used on input line 212.
+(pdftex.def)             Requested size: 213.39566pt x 204.62352pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 213.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 213.
+
+[5] [6 <../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_petit.pdf> <../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut.pdf> <../Chap6/Figure/cinematique_pliage_VH_lacher_calculs_saut_grand.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 223--225
+
+ []
+
+) [7] [8] (../Annexes/Annexe5_dimensionnement_analytique_OB.tex
+Annexe F.
+Package minitoc Info: I0006
+(minitoc)             A_MAIN_Manuscrit_Tigran.mtc15 is empty on input line 32.
+[1
+
+]
+<../Chap3/Figure/OB_surbrillance_1_lame.pdf, id=7081, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/OB_surbrillance_1_lame.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/OB_surbrillance_1_lame.pdf>
+Package pdftex.def Info: ../Chap3/Figure/OB_surbrillance_1_lame.pdf  used on input line 46.
+(pdftex.def)             Requested size: 298.75262pt x 140.822pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 47.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 47.
+
+<../Chap3/Figure/ANSYS_deformation.pdf, id=7084, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/ANSYS_deformation.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/ANSYS_deformation.pdf>
+Package pdftex.def Info: ../Chap3/Figure/ANSYS_deformation.pdf  used on input line 59.
+(pdftex.def)             Requested size: 426.79134pt x 157.9015pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 60.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 60.
+
+[2 <../Chap3/Figure/OB_surbrillance_1_lame.pdf>]
+<../Chap3/Figure/OB_surbrillance_2_lames.pdf, id=7123, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/OB_surbrillance_2_lames.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/OB_surbrillance_2_lames.pdf>
+Package pdftex.def Info: ../Chap3/Figure/OB_surbrillance_2_lames.pdf  used on input line 78.
+(pdftex.def)             Requested size: 426.79134pt x 104.53354pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 79.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 79.
+
+<../Chap3/Figure/poutre_flexion_simple.pdf, id=7126, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/poutre_flexion_simple.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/poutre_flexion_simple.pdf>
+Package pdftex.def Info: ../Chap3/Figure/poutre_flexion_simple.pdf  used on input line 89.
+(pdftex.def)             Requested size: 426.79134pt x 135.32143pt.
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 90.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 90.
+
+[3 <../Chap3/Figure/ANSYS_deformation.pdf> <../Chap3/Figure/OB_surbrillance_2_lames.pdf>]
+<../Chap3/Figure/comparaison_ANSYS_analytique.pdf, id=7174, 963.6pt x 542.025pt>
+File: ../Chap3/Figure/comparaison_ANSYS_analytique.pdf Graphic file (type pdf)
+<use ../Chap3/Figure/comparaison_ANSYS_analytique.pdf>
+Package pdftex.def Info: ../Chap3/Figure/comparaison_ANSYS_analytique.pdf  used on input line 141.
+(pdftex.def)             Requested size: 426.79134pt x 132.94836pt.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 142.
+
+
+LaTeX Font Warning: Font shape `T1/ptm/m/scit' undefined
+(Font)              using `T1/ptm/m/sc' instead on input line 142.
+
+[4 <../Chap3/Figure/poutre_flexion_simple.pdf>]) [5 <../Chap3/Figure/comparaison_ANSYS_analytique.pdf>] [6] (../Page_de_garde/Page_de_couverture.tex
+File: ../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf Graphic file (type pdf)
+<use ../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf>
+Package pdftex.def Info: ../Page_de_garde/Figure//logo_Univ_Savoie_bande_bleue.pdf  used on input line 30.
+(pdftex.def)             Requested size: 160.95581pt x 796.67715pt.
+
+Overfull \hbox (1.62021pt too wide) in paragraph at lines 30--30
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]\T1/phv/b/n/19 Approche pié-zo-élec-trique op-ti-mi-sée
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 30--30
+\T1/phv/b/n/19 pour l'au-to-no-mie éner-gé-tique des ap-
+ []
+
+
+Overfull \hbox (17.79987pt too wide) in paragraph at lines 30--30
+[][][][] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 30
+ []
+
+)
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the A_MAIN_Manuscrit_Tigran.maf file.
+\openout4 = `A_MAIN_Manuscrit_Tigran.maf'.
+
+Package minitoc(hints) Info: I0053
+(minitoc(hints))             You have loaded the float package; 
+(minitoc(hints))             please be aware that the minitoc package 
+(minitoc(hints))             facilities can not be used for new types 
+(minitoc(hints))             of floats defined by the float package.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the A_MAIN_Manuscrit_Tigran.log file.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.156 \end{document}
+                     [7] (./A_MAIN_Manuscrit_Tigran.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.55997pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `A_MAIN_Manuscrit_Tigran.out' has not changed.
+(rerunfilecheck)             Checksum: 19062238BF55D57D025EFFF26B301712;31891.
+ ) 
+Here is how much of TeX's memory you used:
+ 38268 strings out of 478305
+ 745469 string characters out of 5849247
+ 1024277 words of memory out of 5000000
+ 54400 multiletter control sequences out of 15000+600000
+ 639077 words of font info for 306 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 111i,26n,134p,2786b,1149s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/calligra-type1/callig15.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on A_MAIN_Manuscrit_Tigran.pdf (222 pages, 34565371 bytes).
+PDF statistics:
+ 7467 PDF objects out of 8907 (max. 8388607)
+ 5125 compressed objects within 52 object streams
+ 778 named destinations out of 1000 (max. 500000)
+ 2648 words of extra memory for PDF output out of 10000 (max. 10000000)
+

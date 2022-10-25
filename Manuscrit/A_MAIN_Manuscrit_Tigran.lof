@@ -1,0 +1,129 @@
+\babel@toc {french}{}\relax 
+\addvspace {10\p@ }
+\contentsline {xchapter}{La récupération d'énergie sur le corps humain}{1}{chapter.1}%
+\contentsline {figure}{\numberline {I.1}{\ignorespaces Exemple de WBAN pour la télémédecine \cite {Abidi2020}.\relax }}{3}{figure.caption.17}%
+\contentsline {figure}{\numberline {I.2}{\ignorespaces Prorotype d'actionneur \emph {DE} mécaniquement optimisé \cite {Croce2021}. (a,b,c) Schématisation de trois positions stables en fonction de la précontrainte et de la tension entre les électrodes. (d,e) Vue 3D du prototype avec la membrane \emph {DE} non déformée et déformée\relax }}{6}{figure.caption.19}%
+\contentsline {figure}{\numberline {I.3}{\ignorespaces Concept de bouchon d'oreille proposé par Voix et Laville \cite {Voix2002}\relax }}{7}{figure.caption.20}%
+\contentsline {figure}{\numberline {I.4}{\ignorespaces (a) : Image du prototype encapsulé installé sur un crâne. (b) : Vue 3D du convertisseur. (c) : Schéma de modélisation du convertisseur \cite {Smilek2016}\relax }}{8}{figure.caption.21}%
+\contentsline {figure}{\numberline {I.5}{\ignorespaces Architecture de dispositif nomade \cite {Borole2021}\relax }}{9}{figure.caption.22}%
+\contentsline {figure}{\numberline {I.6}{\ignorespaces Diagramme bloc centré sur un système de récupération d'énergie.\relax }}{11}{figure.caption.24}%
+\contentsline {figure}{\numberline {I.7}{\ignorespaces Récupérateur piézoélectrique accordable en fréquence proposé par Morris \emph {et al.} \cite {Morris2008}: (a) Concept de base (sans masse sismique), (b) Schéma en coupe transversale lorsqu'entraîné par une excitation de la base(c) Réponse fréquentielle pour différentes positions de précontrainte initiale.\relax }}{15}{figure.caption.27}%
+\contentsline {figure}{\numberline {I.8}{\ignorespaces Exemples de mécanismes de conversion \emph {frequency-up} pour des générateurs électromagnétiques. (a) \cite {Halim2013}, (b) \cite {Sari2010}\relax }}{15}{figure.caption.28}%
+\contentsline {figure}{\numberline {I.9}{\ignorespaces Exemples de mécanismes de conversion \emph {frequency-up} pour des générateurs piézoélectriques. (a) \cite {Gu2011}, (b) \cite {Zhang2018}\relax }}{16}{figure.caption.29}%
+\contentsline {figure}{\numberline {I.10}{\ignorespaces Exemples de mécanismes de conversion \emph {frequency-up} à bille libre \cite {Halim2015}\relax }}{16}{figure.caption.30}%
+\contentsline {figure}{\numberline {I.11}{\ignorespaces Appareils d'aide à l'audition \mbox {commerciaux}\relax }}{18}{figure.caption.32}%
+\contentsline {figure}{\numberline {I.12}{\ignorespaces Appareils d'aide à l'audition basse consommation proposés dans la littérature\relax }}{18}{figure.caption.34}%
+\contentsline {figure}{\numberline {I.13}{\ignorespaces Implant cochléaire bio-intégrable proposé par Kulah \emph {et al.} \cite {Kulah2022}.\relax }}{19}{figure.caption.35}%
+\contentsline {figure}{\numberline {I.14}{\ignorespaces (a) CA aux deux positions extrêmes, montrant un mouvement de flexion global. (b) Vue de coupe du CA aux deux positions extrêmes, mettant en évidence une zone de compression locale \cite {Carioli2016}.\relax }}{20}{figure.caption.36}%
+\contentsline {figure}{\numberline {I.15}{\ignorespaces Schéma de la déformation mécanique du conduit auditif par le JTM \cite {Delnavaz2014}. (a) Bouche fermée. (b) Bouche ouverte.\relax }}{20}{figure.caption.37}%
+\contentsline {figure}{\numberline {I.16}{\ignorespaces Essais de caractérisation du gisement énergétique de compression dans le CA \cite {Bouchard-Roy2020}.\relax }}{21}{figure.caption.39}%
+\contentsline {figure}{\numberline {I.17}{\ignorespaces Résultats de la variation de pression dans le bouchon d'oreille durant un repas pour le sujet \ang {n}1 \cite {Bouchard-Roy2020}.\relax }}{22}{figure.caption.40}%
+\contentsline {figure}{\numberline {I.18}{\ignorespaces Chaîne de conversion énergétique pour la solution piézoélectrique de \mbox {Delnavaz \& Voix \cite {Delnavaz2013}}\relax }}{23}{figure.caption.42}%
+\contentsline {figure}{\numberline {I.19}{\ignorespaces Chaîne de conversion énergétique pour la solution électromagnétique de \mbox {Delnavaz \& Voix \cite {Delnavaz2014}}\relax }}{23}{figure.caption.43}%
+\contentsline {figure}{\numberline {I.20}{\ignorespaces Schéma du récupérateur d'énergie intra-auriculaire hydro-électromagnétique de \mbox {Delnavaz \& Voix \cite {Delnavaz2014}}\relax }}{24}{figure.caption.44}%
+\contentsline {figure}{\numberline {I.21}{\ignorespaces Puissance électrique maximale d'un générateur EM pour différentes fréquences de fonctionnement \cite {Kulah2008}\relax }}{25}{figure.caption.45}%
+\contentsline {figure}{\numberline {I.22}{\ignorespaces Puissance générée en fonction du volume effectif du matériau pour les mécanismes de récupération d'énergie par vibration piézoélectrique et électromagnétique. Puissance de sortie normalisée par l'accélération et multipliée par la fréquence en fonction du volume effectif du matériau de transduction considéré pour divers récupérateurs d'énergie trouvés dans la littérature et dans le commerce. \cite {Priya2017}\relax }}{26}{figure.caption.46}%
+\contentsline {figure}{\numberline {I.23}{\ignorespaces Débit de fluide depuis le bouchon d'oreille sur 1 cycle de mastication \cite {Delnavaz2012}\relax }}{27}{figure.caption.48}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Modélisation et simulation du système de récupération d’énergie intra-auriculaire}{29}{chapter.2}%
+\contentsline {figure}{\numberline {II.1}{\ignorespaces Chaîne de conversation envisagée dans ces travaux\relax }}{31}{figure.caption.49}%
+\contentsline {figure}{\numberline {II.2}{\ignorespaces Schéma du système de récupération d'énergie proposé\relax }}{33}{figure.caption.51}%
+\contentsline {figure}{\numberline {II.3}{\ignorespaces Comportement du flextenseur \cite {Zhou2013}\relax }}{35}{figure.caption.52}%
+\contentsline {figure}{\numberline {II.4}{\ignorespaces Schéma mécanique d'un distributeur hydraulique 4/2,4/3 à commande électrique/pneumatique \cite {HYDRACINTERNATIONAL2022}\relax }}{39}{figure.caption.54}%
+\contentsline {figure}{\numberline {II.5}{\ignorespaces Gestion directionnelle d'écoulement par un distributeur hydraulique piloté\relax }}{39}{figure.caption.55}%
+\contentsline {figure}{\numberline {II.6}{\ignorespaces Gestion directionnelle d'écoulement par deux étrangleurs bidirectionnels couplés\relax }}{40}{figure.caption.56}%
+\contentsline {figure}{\numberline {II.7}{\ignorespaces Exemples de solutions technologiques d'étrangleurs hydrauliques \cite {Maxicours2022,Kenovel2022}\relax }}{40}{figure.caption.57}%
+\contentsline {figure}{\numberline {II.8}{\ignorespaces (a) Pertes de pression ($p_n$) typiques en fonction du débit ($Q_n$) entre l'entrée et la sortie d'un tube en caoutchouc soumis au flambement découlant d'une pression extérieure $p_{ext}$ constante engendrant une contraction locale. (b) Vue de côté du tube en flambement aux positions statiques indiquées sur la figure de gauche. \cite {Conrad1969}\relax }}{41}{figure.caption.58}%
+\contentsline {figure}{\numberline {II.9}{\ignorespaces Exemples de tubes flexibles flambés \cite {SMARTFLEXGarden2019,Blessingscaptured2022}.\relax }}{42}{figure.caption.59}%
+\contentsline {figure}{\numberline {II.10}{\ignorespaces Détail du fonctionnement de la VH en tube flexible\relax }}{42}{figure.caption.60}%
+\contentsline {figure}{\numberline {II.11}{\ignorespaces Intégration VHs - Vue de face\relax }}{43}{figure.caption.61}%
+\contentsline {figure}{\numberline {II.12}{\ignorespaces Intégration VHs - Schéma cinématique vu dans la direction de l'axe des oscillations de M\relax }}{44}{figure.caption.62}%
+\contentsline {figure}{\numberline {II.13}{\ignorespaces Relation entre le moment et l'angle durant la sollicitation en flexion d'un cylindre creux \cite {Chen2016}\relax }}{44}{figure.caption.63}%
+\contentsline {figure}{\numberline {II.14}{\ignorespaces Schéma cinématique \relax }}{46}{figure.caption.66}%
+\contentsline {figure}{\numberline {II.15}{\ignorespaces Impact de $K_{\varphi }$ sur le comportement mécanique de l'OB\relax }}{48}{figure.caption.67}%
+\contentsline {figure}{\numberline {II.16}{\ignorespaces Schéma hydraulique global\relax }}{50}{figure.caption.68}%
+\contentsline {figure}{\numberline {II.17}{\ignorespaces Évolution de la force élastique de l'OB et du meilleur ressort possible pour le gisement énergétique exploité\relax }}{52}{figure.caption.70}%
+\contentsline {figure}{\numberline {II.18}{\ignorespaces Dimensions de l'APA50XS\relax }}{54}{figure.caption.73}%
+\contentsline {figure}{\numberline {II.19}{\ignorespaces Forcé élastique de l'OB suivant l'axe $\vec {x}$\relax }}{55}{figure.caption.74}%
+\contentsline {figure}{\numberline {II.20}{\ignorespaces Résultats de simulation pour les positions, débits, Coefficient de PdC et pressions en concordance de temps\relax }}{62}{figure.caption.78}%
+\contentsline {figure}{\numberline {II.21}{\ignorespaces Résultats de simulation pour les positions, tension GPA, puissances et énergies\relax }}{63}{figure.caption.79}%
+\contentsline {figure}{\numberline {II.22}{\ignorespaces Rendements estimés pour la chaîne de conversation envisagée dans ces travaux\relax }}{63}{figure.caption.80}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conception et fabrication du convertisseur électromécanique : OB + GPA}{65}{chapter.3}%
+\contentsline {figure}{\numberline {III.1}{\ignorespaces Architecture générale de l'OB intégrant le GPA et le réglage de flambement\relax }}{66}{figure.caption.81}%
+\contentsline {figure}{\numberline {III.2}{\ignorespaces Conditions aux limites de l'étude statique en EF de l'OB monobloc sur ANSYS\relax }}{69}{figure.caption.83}%
+\contentsline {figure}{\numberline {III.3}{\ignorespaces Déplacement de la structure monobloc suivant l'axe $\vec {x}$\relax }}{70}{figure.caption.84}%
+\contentsline {figure}{\numberline {III.4}{\ignorespaces Contrainte équivalente de Von Mises dans la structure monobloc\relax }}{71}{figure.caption.85}%
+\contentsline {figure}{\numberline {III.5}{\ignorespaces Énergie de déformation de la structure et moment de rappel des liaisons pivot souples en fonction de l'angle de flexion $\varphi $\relax }}{72}{figure.caption.86}%
+\contentsline {figure}{\numberline {III.6}{\ignorespaces Détail d'une lame horizontale du prototype d'OB conçu\relax }}{73}{figure.caption.87}%
+\contentsline {figure}{\numberline {III.7}{\ignorespaces Évolution de la force élastique $F_{z,0}$ en fonction du niveau de flambement $x_0$\relax }}{73}{figure.caption.88}%
+\contentsline {figure}{\numberline {III.8}{\ignorespaces Conditions initiales de l'étude de flambement EF de l'OB monobloc sur ANSYS\relax }}{74}{figure.caption.89}%
+\contentsline {figure}{\numberline {III.9}{\ignorespaces Illustration des 4 premiers modes de flambement indésirables pour les configurations de l'OB SM(a,b,c,d) et AM(e,f,g,h).\relax }}{75}{figure.caption.91}%
+\contentsline {figure}{\numberline {III.10}{\ignorespaces Modélisation statique du GPA avec la LG usinée\relax }}{77}{figure.caption.93}%
+\contentsline {figure}{\numberline {III.11}{\ignorespaces Schéma de la poutre de guidage sous sollicitations\relax }}{77}{figure.caption.94}%
+\contentsline {figure}{\numberline {III.12}{\ignorespaces Vue de face de GPA et l'OB monobloc sur le banc de caractérisation électromécanique\relax }}{79}{figure.caption.95}%
+\contentsline {figure}{\numberline {III.13}{\ignorespaces Détail sur le plan à 45° monté sur M pour le suivi en déplacement\relax }}{79}{figure.caption.96}%
+\contentsline {figure}{\numberline {III.14}{\ignorespaces (a) Image du montage du système de mesure du déplacement d'un PH. (b) Système de mesure du déplacement d'un PH intégré au banc de test\relax }}{80}{figure.caption.97}%
+\contentsline {figure}{\numberline {III.15}{\ignorespaces Mise en évidence des défauts de fabrication de l'OB monobloc\relax }}{81}{figure.caption.98}%
+\contentsline {figure}{\numberline {III.16}{\ignorespaces Couplage des éléments électriques du banc de test\relax }}{82}{figure.caption.99}%
+\contentsline {figure}{\numberline {III.17}{\ignorespaces Position de M, tension du GPA, puissance dissipée dans la résistance de charge et énergie dissipée dans la résistance de charge en fonction du temps\relax }}{83}{figure.caption.100}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Valves hydrauliques à base de tubes flexibles flambés}{87}{chapter.4}%
+\contentsline {figure}{\numberline {IV.1}{\ignorespaces Raideur $K_{VH}$ admissible afin d'assurer la bistabilité de l'OB dimensionné pour $x_0=x_{0,max}$.\relax }}{90}{figure.caption.102}%
+\contentsline {figure}{\numberline {IV.2}{\ignorespaces Estimation qualitative de l'étranglement pour 3 tubes de matériaux et géométries différents\relax }}{91}{figure.caption.103}%
+\contentsline {figure}{\numberline {IV.3}{\ignorespaces Banc d'essai pour la caractérisations statique de tubes en flexion\relax }}{92}{figure.caption.105}%
+\contentsline {figure}{\numberline {IV.4}{\ignorespaces Schéma des essais de caractérisations statiques de tubes en flexion\relax }}{92}{figure.caption.106}%
+\contentsline {figure}{\numberline {IV.5}{\ignorespaces Évolutions expérimentales de $K_t$ en fonction de $\theta $ pour quatre tubes de dimensions différentes (tab. \ref {tab:dim_tube_statique})\relax }}{93}{figure.caption.107}%
+\contentsline {figure}{\numberline {IV.6}{\ignorespaces Évolution de $K_t$ en fonction de $\theta $ pour le tube T100 plastifié\relax }}{94}{figure.caption.109}%
+\contentsline {figure}{\numberline {IV.7}{\ignorespaces Image du tube T100 plastifié\relax }}{95}{figure.caption.110}%
+\contentsline {figure}{\numberline {IV.8}{\ignorespaces Banc d'essai pour la caractérisations hydrauliques de VH\relax }}{96}{figure.caption.111}%
+\contentsline {figure}{\numberline {IV.9}{\ignorespaces Essais de caractérisations hydrauliques de VH\relax }}{97}{figure.caption.112}%
+\contentsline {figure}{\numberline {IV.10}{\ignorespaces Méthode de fabrication de la VH\relax }}{98}{figure.caption.113}%
+\contentsline {figure}{\numberline {IV.11}{\ignorespaces Essais de caractérisations hydrauliques de VH\relax }}{98}{figure.caption.114}%
+\contentsline {figure}{\numberline {IV.12}{\ignorespaces $Cf_{VH}$ calculé à partir des essais pour 7 incréments d'angles\relax }}{99}{figure.caption.115}%
+\contentsline {figure}{\numberline {IV.13}{\ignorespaces Présentation du banc de test de lâcher avec VH\relax }}{100}{figure.caption.116}%
+\contentsline {figure}{\numberline {IV.14}{\ignorespaces Déplacement du point de contact M-VH\relax }}{101}{figure.caption.117}%
+\contentsline {figure}{\numberline {IV.15}{\ignorespaces Configuration du contact M-VH en fonction de la position de M\relax }}{101}{figure.caption.118}%
+\contentsline {figure}{\numberline {IV.16}{\ignorespaces Comparaison de la configuration cinématique M-VH en fonction de la GR pour différentes valeurs de $b$\relax }}{103}{figure.caption.119}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Approche théorique pour la modélisation des VH}{107}{chapter.5}%
+\contentsline {figure}{\numberline {V.1}{\ignorespaces Approximation de la géométrie de la section flambée d'un tube cylindrique\relax }}{108}{figure.caption.121}%
+\contentsline {figure}{\numberline {V.2}{\ignorespaces Évolution de $g(f_D)$ pour$f_D\in [\ 0.3\ ;\ 1\ ]$ \relax }}{110}{figure.caption.122}%
+\contentsline {figure}{\numberline {V.3}{\ignorespaces Modèle EF d'un tube flexible sous un angle $\theta $ imposé\relax }}{111}{figure.caption.123}%
+\contentsline {figure}{\numberline {V.4}{\ignorespaces Origine de l’angle $\theta $\relax }}{112}{figure.caption.124}%
+\contentsline {figure}{\numberline {V.5}{\ignorespaces Courbe de contraintes-déformations en traction de kapton HN \cite {Dupont2012}\relax }}{112}{figure.caption.125}%
+\contentsline {figure}{\numberline {V.6}{\ignorespaces Résultats des simulation EF sur les aspects hydrauliques\relax }}{114}{figure.caption.127}%
+\contentsline {figure}{\numberline {V.7}{\ignorespaces Influence de l'épaisseur, de la longueur et du diamètre initial du tube sur $K_{VH}(\theta )$\relax }}{115}{figure.caption.128}%
+\contentsline {figure}{\numberline {V.8}{\ignorespaces Évolution de $K_{T40}$ et $Cf_{T40}$ en fonction de $\theta _{T40}$\relax }}{117}{figure.caption.129}%
+\contentsline {figure}{\numberline {V.9}{\ignorespaces Évolutions théoriques et expérimentales de $K_t$ en fonction de $\theta $ \relax }}{119}{figure.caption.130}%
+\contentsline {figure}{\numberline {V.10}{\ignorespaces Modèle théorique et expérimental de $Cf_{VH}$ pour le tube T100p\relax }}{119}{figure.caption.132}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Comportement du système de récupération d’énergie intra-auriculaire avec les composants caractérisés expérimentalement}{123}{chapter.6}%
+\contentsline {figure}{\numberline {VI.1}{\ignorespaces Impact de $K_{VH}$ sur le la tendance de l'évolution de l'énergie potentielle de M\relax }}{125}{figure.caption.133}%
+\contentsline {figure}{\numberline {VI.2}{\ignorespaces Évolution de l'énergie potentielle dans les différents systèmes avec et sans VH\relax }}{128}{figure.caption.134}%
+\contentsline {figure}{\numberline {VI.3}{\ignorespaces Image de la VH$_{T100p}$ lorsque $\theta _0$($x_m=-x_{0})$ et lorsque $\theta _f$($x_m=x_{0,vh}$)\relax }}{129}{figure.caption.136}%
+\contentsline {figure}{\numberline {VI.4}{\ignorespaces Corrélation modèle essais des essais de lâchers avec et sans la VH fabriquée à base du tube T100p\relax }}{130}{figure.caption.137}%
+\contentsline {figure}{\numberline {VI.5}{\ignorespaces Corrélation modèle essais de la cinématique de pliage de la VH$_{T100p}$\relax }}{131}{figure.caption.139}%
+\contentsline {figure}{\numberline {VI.6}{\ignorespaces Superposition de six lâchers consécutifs sur un système OBVH avec $a<1$mm\relax }}{137}{figure.caption.143}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Mise en plan de l'oscillateur bistable monobloc}{A1}{appendix.A}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Plan détaille de l'OB, partie 1\relax }}{A2}{figure.caption.157}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Plan détaille de l'OB, partie 2\relax }}{A3}{figure.caption.158}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Fiche technique de distributeur à tiroir 4/2 et 4/3 à commande électrique, pilotage direct à commutation souple 4WEW 6}{B1}{appendix.B}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Fiche technique des vérins SMS - série MQP}{C1}{appendix.C}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Documentation technique sur l'APA50XS Cedrat Technologies}{D1}{appendix.D}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Cinématique de pliage des VH avec les gaines rigides}{E1}{appendix.E}%
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Cinématique du contact M-VH latéral\relax }}{E3}{figure.caption.177}%
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Évolution de $h$ et $\theta $ en fonction de $x_m$ lorsque $h$ tend vers 0\relax }}{E4}{figure.caption.178}%
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Configuration du contact supérieur pour (a):$b=b_1$, (b):$b=0$ et (c):$b=b_3$\relax }}{E6}{figure.caption.180}%
+\addvspace {10\p@ }
+\contentsline {xchapter}{Dimensionnement analytique des lames de l'OB}{F1}{appendix.F}%
+\contentsline {figure}{\numberline {F.1}{\ignorespaces L'OB à l'équilibre en $x_0$\relax }}{F2}{figure.caption.182}%
+\contentsline {figure}{\numberline {F.2}{\ignorespaces Déformation des lames horizontales sans épaississement\relax }}{F3}{figure.caption.183}%
+\contentsline {figure}{\numberline {F.3}{\ignorespaces Hypothèse du comportement statique d'une lame de l'OB\relax }}{F3}{figure.caption.184}%
+\contentsline {figure}{\numberline {F.4}{\ignorespaces Schéma poutre encastrée-libre en flexion simple\relax }}{F4}{figure.caption.185}%
+\contentsline {figure}{\numberline {F.5}{\ignorespaces Comparaison de la déformée et de la contrainte normale en flexion entre le modèle analytique et le modèle numérique\relax }}{F5}{figure.caption.186}%
