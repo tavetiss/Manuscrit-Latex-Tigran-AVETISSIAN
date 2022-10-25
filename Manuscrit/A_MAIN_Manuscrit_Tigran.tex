@@ -1,0 +1,156 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                        THESE DE DOCTEUR EN SI                          % 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt,a4paper,table]{Classe_SYMME}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%              Indique le chemin vers les images                %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\graphicspath{{../Page_de_garde/Figure/},
+			{../Remerciement/}, 
+			{../Intro/Figure/},
+			{../Chap1/Figure/},
+			{../Chap2/Figure/},
+			{../Chap3/Figure/},
+			{../Chap4/Figure/},
+			{../Chap5/Figure/},
+			{../Conclusion/Figure/},
+			{../Annexes/Figure/}}
+			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                      CORPS DU DOCUMENT                        %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\dominitoc
+
+%%%%%                       Option légendes                         %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\figurename}{Figure}  %Changement de Fig. en Figure
+\renewcommand{\tablename}{Tableau}  %Changement de Tab. en Tableau
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                        PAGE DE GARDE                          
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{../Page_de_garde/Page_de_garde}
+\pageblanchenoheader
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                      Dedicace                              
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \cfoot{}
+\input{../Intro/Dedicace}
+\pageblanchenoheader
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                      Remerciement                          
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{roman}     
+\input{../Intro/Remerciement}
+\pageblanchenoheader
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                      Table des matières                    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{../Intro/Sommaire}
+% \pageblanchenoheader
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                      Acronymes et Symboles                    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{../Intro/Acronymes}
+\pageblanchenoheader
+\input{../Intro/Symboles}
+% \pageblanchenoheader
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%                         INTRO GENERALE                     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{onehalfspace}
+\input{../Intro/Introduction}
+\pageblanchenoheader
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%                       Chapitres                           %%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{arabic}
+\setcounter{mtc}{3}
+\setcounter{page}{1}  
+
+% \pageblanchenoheader
+
+\input{../Chap1/Chap1}
+
+\input{../Chap2/Chap2}   
+
+\input{../Chap3/Chap3} 
+ \pageblanchenoheader
+\input{../Chap4/Chap4} 
+\pageblanchenoheader
+\input{../Chap5/Chap5}
+\pageblanchenoheader
+\input{../Chap6/Chap6}
+
+\newpage 
+
+\input{../Conclusion/Conclusion}
+
+\pageblanchenoheader
+
+%%%%%                        BIBLIOGRAPHIE                          
+\input{../Conclusion/Biblio}
+\pageblanchenoheader
+%%%%%                     Tables des figures                        
+\input{../Conclusion/Figures}
+\pageblanchenoheader
+%%%%%                     Liste des tableaux                        
+\input{../Conclusion/Tableau}
+\pageblanchenoheader
+%%%%%%%                           ANNEXES                             
+\pagenumbering{arabic}% resets `page` counter to 1
+\renewcommand*{\thepage}{A\arabic{page}}
+\input{../Annexes/Annexe1}
+\pageblanchenoheader
+
+\pagenumbering{arabic}
+\renewcommand*{\thepage}{B\arabic{page}}
+\input{../Annexes/Annexe3}
+\pageblanchenoheader
+
+\pagenumbering{arabic}
+\renewcommand*{\thepage}{C\arabic{page}}
+\input{../Annexes/Annexe4}
+\pageblanchenoheader
+
+\pagenumbering{arabic}
+\renewcommand*{\thepage}{D\arabic{page}}
+\input{../Annexes/Annexe6_APA50XS}
+\pageblanchenoheader
+
+\pagenumbering{arabic}
+\renewcommand*{\thepage}{E\arabic{page}}
+\input{../Annexes/Annexe7_cinematique_M-VH}
+\newpage
+\pageblanchenoheader
+
+\pagenumbering{arabic}
+\renewcommand*{\thepage}{F\arabic{page}}
+\input{../Annexes/Annexe5_dimensionnement_analytique_OB}
+
+
+
+
+
+
+
+
+\pageblanchenoheader 
+\end{onehalfspace}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%                      Résumé                                %%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{../Page_de_garde/Page_de_couverture}
+
+%%%%%%
+\cite{}
+\end{document}
