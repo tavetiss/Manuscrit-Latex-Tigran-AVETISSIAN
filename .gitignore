@@ -158,7 +158,11 @@ acs-*.bib
 *.ilg
 *.ind
 
+# initialisation
+*.ini
+
 # minitoc
+*.mtc
 *.maf
 *.mlf
 *.mlt
@@ -299,10 +303,13 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
-# Widows cached files 
+
+# Windows hiden files 
 ~$*
-*.ini
+
+# Figures
 *.png
 !**/Figure/*.jpg
 !**/Figure/*.png
 !**/Figure/**/*.pdf
+!Manuscrit/*.pdf

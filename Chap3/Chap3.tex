@@ -134,11 +134,12 @@ Afin de faire fabriquer un OB conforme aux caractéristiques mécaniques attendu
 			\midrule
 			Module d'Young de l'acier APX4         & $E$                       & 211 [GPa]                     \\
 			Résistance élastique de l'acier APX4   & $Re_{APX4}$               & 955 [MPa]                     \\
-			Dimensions d'une LF                      & $L$ x $l$ x $e$           & 16x0.07x1.2 [mm]              \\
+			Dimensions d'une LF                      & $L$ x $l$ x $e$         & 16x0.07x1.2 [mm]              \\
 			Dimensions de la LG usinée             & $L_{v}$ x $l_{v}$ x $e$   & 17.5x0.07x1.2mm [mm]          \\
 			Dimensions de la LG montée             & $L_{v2}$ x $l_{v2}$ x $e$ & 48x0.1x1.2mm [mm]             \\
-			Raideur en rotation d'une liaison souple & $K_{\varphi}$             & 0.006 [Nm/rad]                   \\
-			Raideur en flexion de la LG usinée     & $K_{LG}$                   & 190 [N/m]                     \\
+			Raideur en rotation d'une liaison souple & $K_{\varphi}$           & 0.006 [Nm/rad]                   \\
+			Raideur en flexion de la LG usinée     & $K_{LG}$                  & 190 [N/m]                     \\
+			Raideur en compression des 4 LFs       & $K_{LF}$                  & 1402 [N/m]  \\  
 			Raideur du GPA                         & $K$                       & 252 [kN/m]                    \\
 			\bottomrule
 		\end{tabular}}
@@ -151,37 +152,72 @@ Plusieurs aspects sont pris en compte pour la conception des différentes lames,
 
 Le fonctionnement de l'OB induit la flexion des LGs et des LFs. Afin d'éviter les concentrations de contraintes aux points d'encastrement de ces dernières, des congés de 1mm de rayon ont été ajoutés. 
 
-La faible largeur $l$ est issue du dimensionnement des LFs qui sera explicité dans la prochaine section. La longueur $L$ quant à elle découle du dimensionnement préliminaire de l'OB dans le respect des critères d'encombrement, ainsi que du niveau d'énergie disponible dans le gisement (0.79mJ d'après l'équation éq. \ref{eq:Energie_max_oreille}). Ces dimensions spécifiques ont pour conséquence l'addition d'épaississements au centre des lames usinées dans le bloc d'acier APX4. Ce choix de conception répond en effet à une problématique liée aux tolérances de fabrication. Le maintien de l'intégrité de la géométrie conçue avec les dimensions $l$ et $L$ calculées peut en effet être difficile lors de l'usinage de l'OB. Malgré le fait que l'usinage par électro-érosion offre de faibles tolérances dimensionnelles \cite{Rajurkar1997}, il est probable que les contraintes résiduelles au passage du fil de découpe induisent de légers flambements locaux sur les lames. Cela aurait pour conséquence de modifier le comportement mécanique de l'OB. Cela a notamment été observé dans les travaux de thèse de T. Huguet \cite{Huguet2019} sur des prototypes issus du même procédé de fabrication. Les épaississements des LFs et des LGs ont alors été dimensionnés en respectant leurs CdC respectifs, que nous présentons dans la suite de ce chapitre.
+La faible largeur $l$ est issue du dimensionnement des LFs qui sera explicité dans la section \ref{sec:3.4:Dimensionnement des lames flambees par approche en EF}. La longueur $L$ quant à elle découle du dimensionnement préliminaire de l'OB dans le respect des critères d'encombrement, ainsi que du niveau d'énergie disponible dans le gisement (0.79mJ d'après l'équation éq. \ref{eq:Energie_max_oreille}). Ces dimensions spécifiques ont pour conséquence l'addition d'épaississements au centre des lames usinées dans le bloc d'acier APX4. Ce choix de conception répond en effet à une problématique liée aux tolérances de fabrication. Le maintien de l'intégrité de la géométrie conçue avec les dimensions $l$ et $L$ calculées peut être difficile lors de l'usinage de l'OB. Malgré le fait que l'usinage par électro-érosion offre de faibles tolérances dimensionnelles \cite{Rajurkar1997}, il est probable que les contraintes résiduelles au passage du fil de découpe induisent de légers flambements locaux sur les lames. Cela aurait pour conséquence de modifier le comportement mécanique de l'OB. Cela a notamment été observé dans les travaux de thèse de T. Huguet \cite{Huguet2019} sur des prototypes issus du même procédé de fabrication. Les épaississements des LFs et des LGs ont alors été dimensionnés en respectant leurs CdC respectifs, que nous présentons dans la suite de ce chapitre.
+
+%/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\%
+\section{Critère d'optimisation fondamental pour le rendement}
+\label{sec:3.3:Critere d optimisation fondamental pour le rendement}
+%/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\%
+Les LFs transmettent les efforts de compression depuis la masse vers le GPA. Par conséquent, elles peuvent être modélisés par des raideurs en série avec ce-dernier. La LG usinée, en revanche, absorbe les efforts transmis depuis les LFs, de la même manière que le GPA. Elle peut donc être modélisée par une raideur en parallèle avec celle du GPA. La raideur équivalente du système composé de l'OB et du GPA peut alors être exprimée en fonction des raideurs des différents éléments, à travers l'équation \ref{eq:Keq}. $K_{eq}$ représente la raideur "vue" du point de vue de la masse, sur l'axe $\vec{z}$. Avec $K_{LF}$ la raideur en compression des quatres LFs, $K_{LG}$ la raideur en flexion de la LG usinée et $K$ la raideur du GPA. 
+\begin{equation}
+	K_{eq} = \dfrac{K_{LF}(K + K_{LG})}{K_{LF}+ K + K_{LG}}
+	\label{eq:Keq}
+\end{equation}
+
+Le rendement de conversion du convertisseur électromécanique doit être maximal. Richards \emph{et al.} ont montré que pour la transduction piézoélectrique à résonance, $\eta_{ob}$ peut s'exprimer par l'équation suivante \cite{Richards2004}: 
+\begin{equation}
+	\eta_{ob} = \dfrac{k^2_{sys}Q}{k^2_{sys}Q+2}
+	\label{eq:eta_ob_theorique}
+\end{equation}
+Où $k^2_{sys}$ est le coefficient de couplage électromécanique global du système. Ce dernier est donné à l'équation \ref{eq:k^2_sys_fonction_des_raideurs} en fonction des paramètres électromécaniques du GPA et des différentes raideurs de lames définies dans le tableau \ref{tab:parametres_lames}.
+\begin{equation}
+	k^2_{sys} = \dfrac{\alpha^2_{eq}}{\alpha^2_{eq} + (K+K_{LF})C_0}
+	\label{eq:k^2_sys_fonction_des_raideurs}
+\end{equation}
+Où $\alpha_{eq}$ est le facteur de force électromécanique équivalent du système exprimé en \ref{eq:alpha_eq}. Il dépend du facteur de forcé électromécanique du GPA et du ratio entre la raideur équivalente $K_{eq}$ (\ref{eq:Keq}) du système suivant l'axe $\vec{z}$ et la raideur équivalente du GPA avec la LG usinée.
+\begin{equation}
+	\alpha_{eq} = \alpha\ \dfrac{K_{eq}}{K + K_{gb}} 
+	\label{eq:alpha_eq}
+\end{equation}
+La combinaison des équations \ref{eq:eta_ob_theorique}-\ref{eq:Keq} permet d'affirmer que pour maximiser $\eta_{ob}$ il faut s'assurer que l'inégalité \ref{eq:K_LG_inf_K_eq_inf_KLF} soit respectée : 
+\begin{equation}
+	K_{LG} \ll K \ll K_{LF}
+	\label{eq:K_LG_inf_K_eq_inf_KLF}
+\end{equation}
+Si \ref{eq:K_LG_inf_K_eq_inf_KLF} est vérifiée, alors $K_{eq}$ peut être assimilé à $K$ et $\alpha_{eq}$ à $\alpha$. Les sections qui suivent présentent les éléments de modélisation permettant de vérifier cette hypothèse.
+
 %/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\%
 	\section{Dimensionnement des lames flambées par approche EF}
-	\label{sec:3.3:Dimensionnement des lames flambees par approche en EF}
+	\label{sec:3.4:Dimensionnement des lames flambees par approche en EF}
 %/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\%
     %/////////////////////////////////////////////
 	\subsection{Cahier des charges}
-	\label{subsec:3.1.3:Cahier des charges lames flambees}	
+	\label{subsec:3.4.1:Cahier des charges lames flambees}	
     %///////////////////////////////////////////// 
-La littérature nous a permis d'estimer les niveaux d'énergies disponibles dans la déformation mécanique du conduit auditif (tab. \ref{tab:Bouchard_deltaPmax}). Le choix a été fait de dimensionner le système de façon à induire un seuil de pression minimal dans l'oreille($p_c=1$kPa), afin de se placer dans les conditions les plus défavorables. Le gisement énergétique et le contexte applicatif ont motivé le choix du GPA (APA50XS : ann. \ref{Ann:6_Documentation technique sur l'APA50XS Cedrat Technologies}), fixant alors la raideur $K$. D'autre part, la longueur $L$ a été fixée en accord avec le contexte applicatif. Ces choix dimensionnent la géométrie des LFs qui doivent donc respecter les critères suivants :
+La littérature nous a permis d'estimer les niveaux d'énergies disponibles dans la déformation mécanique du conduit auditif (tab. \ref{tab:Bouchard_deltaPmax}). Le choix a été fait de dimensionner le système de façon à induire un seuil de pression minimal dans l'oreille ($p_c=1$kPa), afin de se placer dans les conditions les plus défavorables. Le gisement énergétique et le contexte applicatif ont motivé le choix du GPA (APA50XS : ann. \ref{Ann:6_Documentation technique sur l'APA50XS Cedrat Technologies}), fixant alors la raideur $K$. D'autre part, la longueur $L$ a été fixée en accord avec le contexte applicatif. Ces choix dimensionnent la géométrie des LFs qui doivent donc respecter les critères suivants :
 \begin{itemize}[label=$\circ$]
-	\item La précontrainte à appliquer par la vis micrométrique sur le GPA, afin de satisfaire le niveau de flambement $x_0$, doit être inférieure à la valeur nominale de $F_{adm}=18N$ admissible d'après le document constructeur de l'APA50XS qu'on trouve en annexe \ref{Ann:6_Documentation technique sur l'APA50XS Cedrat Technologies}.
+	\item La précontrainte à appliquer par la vis micrométrique sur le GPA, afin de satisfaire le niveau de flambement $x_0$, doit être inférieure à la valeur nominale de $F_{adm}=18$N admissible d'après le document constructeur de l'APA50XS donné en annexe \ref{Ann:6_Documentation technique sur l'APA50XS Cedrat Technologies}.
 	\item Les LFs doivent travailler dans leur domaine élastique sur toute la plage de variation de $x_m$ estimée d'après les résultats de pré-dimensionnement issus des simulations du chapitre précédent (fig. \ref{fig:simu_pos_debit_Cf_pression_1CYCLE})
+	\item La raideur du GPA doit être nettement inférieure à la raideur en compression des LFs : $K \ll K_{LF}$
 \end{itemize}
 
-Nous démontrerons alors, à travers une première étude statique par EF, que la flexion des LFs se produit dans leur domaine de comportement élastique, avec les dimensions respectives du tableau \ref{tab:parametres_lames}. De plus, cette étude permet d'estimer la rigidité en rotation $K_{\varphi}$ pour une liaison souple. Celle-ci sera implémentée dans le modèle système établi dans le chapitre précédent.
+Ces éléments oné été vérifiés à travers une étude statique par EF, donnant lieu aux dimensions du tableau \ref{tab:parametres_lames}. De plus, cette étude aura permis d'estimer la rigidité en rotation $K_{\varphi}$ pour une liaison souple. Celle-ci est implémentée dans le modèle système établi dans le chapitre précédent.
  
-Une seconde étude de flambement, reprenant l'architecture du modèle EF précédent, montrera que la charge appliquée sur le GPA reste bien inférieure à $F_{adm}$.
+Une seconde étude de flambement en EF, reprenant l'architecture du modèle EF précédent, montrera que la charge appliquée sur le GPA reste bien inférieure à $F_{adm}$.
  
     %/////////////////////////////////////////////
 	\subsection{Raideur en rotation et domaine élastique} 
-    %/////////////////////////////////////////////
-    	%*************
-		\subsubsection{Présentation du modèle EF} 
-		%*************	
-Une première approche consiste à simuler le comportement statique de la structure globale au travers d'un modèle éléments finis. La configuration de l'étude, ainsi que les conditions aux limites, sont représentées sur la figure \ref{fig:ANSYS_Conditions_Initiales}. L'étude est faite en grandes déformations avec les caractéristiques matériau du tableau \ref{tab:parametres_lames}.\\
+    %/////////////////////////////////////////////	
+Une première approche consiste à simuler le comportement statique de la structure globale au travers d'un modèle éléments finis. 
+ 	%*************
+	 \subsubsection{Présentation du modèle EF} 
+	 %*************
+La configuration de l'étude, ainsi que les conditions aux limites, sont représentées sur la figure \ref{fig:ANSYS_Conditions_Initiales}. L'étude est faite en grandes déformations avec les caractéristiques matériau du tableau \ref{tab:parametres_lames}.\\
 %%%%%%%%%%%
 \begin{figure}[!htbp]
 \begin{center}
     \captionsetup{justification=centering}
-	\includegraphics[trim={4.5cm 0cm 6.5cm 0cm},clip, width=0.8\textwidth]{../Chap3/Figure/ANSYS_Conditions_Initiales.pdf}
+	\includegraphics[trim={4.5cm 0cm 6.5cm 0cm},clip, width=0.7\textwidth]{../Chap3/Figure/ANSYS_Conditions_Initiales.pdf}
 	\caption{Conditions aux limites de l'étude statique en EF de l'OB monobloc sur ANSYS}
 	\label{fig:ANSYS_Conditions_Initiales}
 \end{center}
@@ -258,11 +294,34 @@ On s'assure bien de calculer le moment de flexion et la rigidité sur les donné
 %%%%%%%%%%%
 
 Par ailleurs, l'annexe \ref{Ann:5_Dimensionnement analytique des lames de l'OB} propose une approche analytique pour le dimensionnement statique des LFs. Celle-ci est corrélée avec les résultats du modèle EF présentés dans cette section et les résultats sont quasiment similaires. 
+
+	%///////////////////////////////////////////// 		
+	\subsection{Raideur en compression}
+	\label{sec:3.3.1a_Raideur en compression}
+    %/////////////////////////////////////////////		
+Une étude statique en faibles déplacements permet de vérifier la raideur en compression $K_{LF}$ qui doit être nettement supérieure à K pour un rendement maximal. Les conditions aux limites et les conditions initiales du modèle EF servant à l'étude sont présentés sur la figure \ref{fig:ANSYS_Conditions_Initiales_K_LF}. La force $F_{st}$ est appliquée sur 100 incréments de $0.1$mN à l'extrémité droite du support mobile, dans la direction $\vec{-z}$. La position $z_s$ du point d'application du support est relevée pour chaque incrément et l'équation \ref{eq:K_LF_ansys} permet alors de calculer $K_{LF}=14.02$kN/m. En négligeant $K_{LG}$, cette valeur permettrait théoriquement d'assurer $k^2_{sys} = 0.75k^2$ (éq. \ref{eq:k^2_sys_fonction_des_raideurs}). 
+\begin{equation}
+	K_{LF} = \dfrac{F_{st}}{z_{st}}
+	\label{eq:K_LF_ansys}
+\end{equation}
+%%%%%%%%%%%
+\begin{figure}[!htbp]
+	\begin{center}
+		\captionsetup{justification=centering}
+		\includegraphics[trim={4.5cm 0cm 6.5cm 0cm},clip, width=0.7\textwidth]{../Chap3/Figure/ANSYS_Conditions_Initiales_K_LF.pdf}
+		\caption{Conditions aux limites et conditions initiales de la prospection de $K_{LF}$ par EF}
+		\label{fig:ANSYS_Conditions_Initiales_K_LF}
+	\end{center}
+\end{figure}
+%%%%%%%%%%%
+
+Ce résultat est considéré satisfaisant compte tenu du cahier des charges énoncé en début de section, et valide alors le dimensionnement des LFs.
+
 	%///////////////////////////////////////////// 		
 	\subsection{Précontrainte de flambement et limite structurelle}
-	\label{sec:3.3.1_Limite structurelle et précontrainte de flambement}
+	\label{sec:3.3.1b_Limite structurelle et précontrainte de flambement}
     %/////////////////////////////////////////////		
-Cette étude a pour but d'identifier la précontrainte nécessaire à appliquer à la structure afin de la flamber dans un configuration bistable similaire à celle illustrée sur la figure \ref{fig:ANSYS_Von_Mises}. La précontrainte pour l'induire devra correspondre à une force inférieure à la force $F_{adm}=18N$ admissible par le GPA. De plus, l'étude permettra d'estimer, au passage de M par la position $x_m=0$, l'effort limite de compression pouvant être supporté par les LFs, au delà duquel elles se déformeraient en flambage. Dans ce cas défavorable, au lieu de transmettre les efforts de compression, les LFs se plieraient aux points de rotation souples et absorberaient alors l'énergie qui aurait dû être emmagasinée dans le ressort du GPA.
+Cette étude a pour but d'identifier la précontrainte nécessaire à appliquer à la structure afin de la flamber dans un configuration bistable similaire à celle illustrée sur la figure \ref{fig:ANSYS_Von_Mises}. La précontrainte pour l'induire devra correspondre à une force inférieure à la force $F_{adm}=18$N admissible par le GPA. De plus, l'étude permettra d'estimer, au passage de M par la position $x_m=0$, l'effort limite de compression pouvant être supporté par les LFs, au delà duquel elles se déformeraient en flambage. Dans ce cas défavorable, au lieu de transmettre les efforts de compression, les LFs se plieraient aux points de rotation souples et absorberaient alors l'énergie qui aurait dû être emmagasinée dans le ressort du GPA.
 
 Le modèle développé dans le chapitre précédent suppose que les LFs assurent le rôle des liaisons pivot élastiques. Nous avons validé cet aspect par l'étude statique. Le modèle analytique suppose aussi qu'entre les liaisons souples les lames sont infiniment rigides, assurant ainsi la meilleure transmission des efforts au GPA et maximisant de ce fait le coefficient de couplage du système. Nous allons vérifier que cette hypothèse est vraie avec les valeurs des paramètres du tableau \ref{tab:parametres_lames}.
 
@@ -277,22 +336,12 @@ La figure \ref{fig:schema_compression_GPA_ch4} illustre l'OB en position d'équi
 	\end{center}
 \end{figure}  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-$F_{z,0}$ est, par contre-réaction, la force élastique générée lors de la compression du GPA. Elle peut être évaluée en fonction de $x_0$ à travers l'équation \ref{eq:F_z ch4}. La figure \ref{fig:Fz(x0)} montre alors l'évolution de $F_{z,0}$ en fonction de $x_0$, pour $K$ et $L$ fixés (tab. \ref{tab:parametres électromécaniques}).
+$F_{z,0}$ est, par contre-réaction, la force élastique générée lors de la compression du GPA. Elle peut être évaluée en fonction de $x_0$ à travers l'équation \ref{eq:F_z ch4}. 
 \begin{equation}
 	F_{z,0}\ =\ K\ \Delta z\ =\  2K(\sqrt{({x_0}^2+L^2)}-L)
 	\label{eq:F_z ch4}
 \end{equation}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
-\begin{figure}[!htb]
-\begin{center}
-    \captionsetup{justification=centering}
-	\includegraphics[trim={10cm 0cm 0cm 0cm},clip, 					                 width=0.5\textwidth]{../Chap3/Figure/Fz(x0).pdf}
-	\caption{Évolution de la force élastique $F_{z,0}$ en fonction du niveau de flambement $x_0$}
-	\label{fig:Fz(x0)}
-\end{center}	
-\end{figure}    
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-En considérant le niveau de flambement $x_0$ du modèle pré-dimensionné, $F_{z,0}(0.49mm)=4N$. Nous allons donc passer par une étude EF pour vérifier que cette valeur n'induit pas de flambement local sur les LFs.
+Dans le cas des simulations préliminaires du chapitre précédent (tab.\ref{tab:parametres électromécaniques}), pour $x_0=0.49$mm on peut calculer $F_{z,0}(0.49mm)=4$N. Nous allons alors passer par une étude EF pour vérifier que cette valeur n'induit pas de flambement local sur les LFs.
 %%%%%%%%%%%
 \begin{figure}
 \begin{center}
@@ -304,7 +353,7 @@ En considérant le niveau de flambement $x_0$ du modèle pré-dimensionné, $F_{
 \end{figure}
 %%%%%%%%%%%
 
-Pour cela, le comportement de l'OB sera considéré suivant les deux conceptions de lames, (SM) et (AM), respectivement sans et avec épaississement. Le modèle EF utilisé se base sur celui de l'étude statique présentée précédemment. Le schéma de la figure \ref{fig:EF_flambement_CI} montre alors les nouvelles conditions aux limites pour cette étude. La précontrainte de flambement induite par la vis micrométrique est modélisée par la force $F_{fl}=10$mN, appliquée à la surface se situant à l'extrémité droite du modèle. La résolution de l'étude de flambement en EF renseigne alors sur le coefficient multiplicateur de charge $m_{ch}$ à appliquer sur $F_{fl}=10mN$ afin de faire apparaître un mode de flambement spécifique. La force critique $F_{cfl}$ faisant apparaître un mode de flambement s'exprime alors par :
+Pour cela, le comportement de l'OB sera considéré suivant les deux conceptions de lames, (SM) et (AM), respectivement sans et avec épaississement. Le modèle EF utilisé se base sur celui de l'étude statique présentée précédemment. Le schéma de la figure \ref{fig:EF_flambement_CI} montre alors les nouvelles conditions initiales pour cette étude. La précontrainte de flambement induite par la vis micrométrique est modélisée par la force $F_{fl}=10$mN, appliquée à la surface se situant à l'extrémité droite du modèle. La résolution de l'étude de flambement en EF renseigne alors sur le coefficient multiplicateur de charge $m_{ch}$ à appliquer sur $F_{fl}=10$mN afin de faire apparaître un mode de flambement spécifique. La force critique $F_{cfl}$ faisant apparaître un mode de flambement s'exprime alors par :
 \begin{equation}
 	F_{cfl}\ =\ m_{ch}\ F_{fl}
 \label{eq:Force flambement EF}
@@ -314,7 +363,7 @@ On considère seulement les résultats du mode de flambement utile et des quatre
 
 En revanche, des différence sont notables entre les deux conceptions si on compare  $m_{ch}$ pour les modes de déformation secondaires suivant l'axe $\vec{x}$ illustrés sur la figure \ref{fig:EF_flambement_avec_et_sans_masselotte}. Les quatre premiers modes de flambement secondaires sollicités sur les deux conceptions sont les mêmes. Cependant, $F_{cfl}$ doit être trois fois plus importante pour induire des flambements locaux indésirables sur les LH (AM). L'épaississement local apporte donc une résistance structurelle trois fois plus importante face à l'apparition des modes de flambement indésirables. 
 
-De plus, en combinant les équations \ref{eq:Force flambement EF} et \ref{fig:Fz(x0)} avec les valeurs du tableau \ref{tab:multiplicateur_de_charge_flambement}, on peut calculer le niveau de flambement maximal théorique $x_{0,max}$ de l'OB à vide avec l'équation \ref{x0_max}. Au delà de cette valeur de réglage pour l'OB seul, on verraient apparaître les modes indésirables dégradant $k_{sys}^2$. Le niveau de flambement maximal théorique pour les deux configurations est donné dans le tableau \ref{tab:x0max} pour garantir un $k_{sys}^2$ optimal avec les dimensions de lames du tableau \ref{tab:parametres_lames}.
+De plus, en combinant les équations \ref{eq:Force flambement EF} et \ref{eq:F_z ch4} avec les valeurs du tableau \ref{tab:multiplicateur_de_charge_flambement}, on peut calculer le niveau de flambement maximal théorique $x_{0,max}$ de l'OB à vide avec l'équation \ref{x0_max}. Au delà de cette valeur de réglage pour l'OB seul, on verraient apparaître les modes indésirables dégradant $k_{sys}^2$. Le niveau de flambement maximal théorique pour les deux configurations est donné dans le tableau \ref{tab:x0max} pour garantir un $k_{sys}^2$ optimal avec les dimensions de lames du tableau \ref{tab:parametres_lames}.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
 \begin{table}[!htbp]
 	\centering
@@ -370,7 +419,18 @@ De plus, en combinant les équations \ref{eq:Force flambement EF} et \ref{fig:Fz
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%  
 
-En conclusion, l'étude de flambement en EF valide le dimensionnement des LFs. De plus, la conception (AM) est à privilégier pour maximiser le $k_{sys}^2$ d'un convertisseur électromécanique suivant l'architecture d'OB considérée, en minimisant le risque d'apparition de mode de flambement secondaire.  
+La conception (AM) est à privilégier pour maximiser le $k_{sys}^2$ d'un convertisseur électromécanique suivant l'architecture d'OB considérée, en minimisant le risque d'apparition de mode de flambement secondaire. La figure \ref{fig:Fz(x0)_resultats} résume alors les résultats de l'étude de flambement dans la configuration AM. $x_0<1.03$mm assurerait l'intégrité du GPA et $x_0<0.63$mm éviterait théoriquement l'apparition de flambements indésirables surs les LFs. Enfin, la zone simulée dans le cadre du pré-dimensionnement réalisé dans le chapitre précédent se trouve bien dans le domaine de fonctionnement valide de l'OB fabriqué.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
+\begin{figure}[!htb]
+	\begin{center}
+		\captionsetup{justification=centering}
+		\includegraphics[trim={19cm 0cm 0cm 6cm},clip,width=0.6\textwidth]{../Chap3/Figure/Fz(x0)_resultats.pdf}
+		\caption{Domaine de flambement de l'OB fabriqué en fonction de la force élastique $F_{z,0}$}
+		\label{fig:Fz(x0)_resultats}
+	\end{center}
+\end{figure}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\%
 \section{Dimensionnement des lames de guidage}
 \label{sec:3.2:Dimensionnement des lames de guidage}
@@ -386,18 +446,6 @@ Lorsque M se déplace d'une position stable vers l'autre, son énergie potentiel
 	\subsection{Approche analytique}
 	\label{subsec:3.2.1:Approche analytique LG}
     %/////////////////////////////////////////////
-Les LFs transmettent les efforts de compression depuis la masse vers le GPA. Par conséquent, elles peuvent être modélisés par des raideurs en série avec ce-dernier. La LG usinée, en revanche, absorbe les efforts transmis depuis les LFs, de la même manière que le GPA. Elle peut donc être modélisée par une raideur en parallèle avec celle du GPA. La raideur équivalente du système composé de l'OB et du GPA peut alors être exprimée en fonction des raideurs des différents éléments, à travers l'équation \ref{eq:Keq}.
-\begin{equation}
-	K_{eq} = \dfrac{K_{LF}(K + K_{LG})}{K_{LF}+ K + K_{LG}}
-	\label{eq:Keq}
-\end{equation}
-$K_{eq}$ représente la raideur "vue" du point de vue de la masse, sur l'axe $\vec{z}$. Avec $K_{LF}$ la raideur en compression des quatres LFs, $K_{LG}$ la raideur en flexion de la LG usinée et $K$ la raideur du GPA. Le coefficient de couplage électromécanique $k^2_{sys}$ du convertisseur électromécanique peut alors être exprimé en fonction la raideur équivalente du système dans l'équation \ref{eq:k^2_eq}. Où $\alpha$ et $C_0$ sont les paramètres électriques du GPA, définis dans le tableau \ref{tab:parametres}.
-\begin{equation}
-	k^2_{sys} = \dfrac{\alpha^2 }{\alpha^2 + K_{eq}C_0}
-	\label{eq:k^2_eq}
-\end{equation}
-Afin de maximiser $k^2_{sys}$, il faut $K_{eq}\approx K$. Pour de satisfaire cette égalité, il faut que $K_{LF}>>K$ pour une bonne transmissions des efforts depuis l'OB vers le GPA. Ceci a été vérifié dans la sous-section \ref{sec:3.3.1_Limite structurelle et précontrainte de flambement}. De plus, il faut $K>>K_{LG}$ pour que les efforts soient majoritairement absorbés par le GPA. La modélisation qui suit permettra de vérifier cette dernière hypothèse.
- 
 Les épaississements locaux n'ont pas d'influence significative sur la raideur en rotation des LFs d'après les observations faites dans la section précédente. Nous allons donc modéliser la double portion de LG usinée comme une seule LG de largeur $L_v$ constante, d'épaisseur $e$ et longueur $l_v$. 
 %%%%%%%%%%%
 \begin{figure}[!htbp]

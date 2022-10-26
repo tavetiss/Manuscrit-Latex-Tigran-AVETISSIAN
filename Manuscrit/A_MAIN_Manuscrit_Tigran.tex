@@ -66,15 +66,16 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%                         INTRO GENERALE                     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{arabic}
 \begin{onehalfspace}
 \input{../Intro/Introduction}
-\pageblanchenoheader
+% \pageblanchenoheader
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%                       Chapitres                           %%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\pagenumbering{arabic}
+% \pagenumbering{arabic}
 \setcounter{mtc}{3}
-\setcounter{page}{1}  
+% \setcounter{page}{1}  
 
 % \pageblanchenoheader
 
@@ -83,7 +84,7 @@
 \input{../Chap2/Chap2}   
 
 \input{../Chap3/Chap3} 
- \pageblanchenoheader
+
 \input{../Chap4/Chap4} 
 \pageblanchenoheader
 \input{../Chap5/Chap5}
@@ -93,18 +94,15 @@
 \newpage 
 
 \input{../Conclusion/Conclusion}
-
 \pageblanchenoheader
 
 %%%%%                        BIBLIOGRAPHIE                          
 \input{../Conclusion/Biblio}
-\pageblanchenoheader
 %%%%%                     Tables des figures                        
 \input{../Conclusion/Figures}
-\pageblanchenoheader
 %%%%%                     Liste des tableaux                        
 \input{../Conclusion/Tableau}
-\pageblanchenoheader
+\newpage
 %%%%%%%                           ANNEXES                             
 \pagenumbering{arabic}% resets `page` counter to 1
 \renewcommand*{\thepage}{A\arabic{page}}
@@ -114,7 +112,6 @@
 \pagenumbering{arabic}
 \renewcommand*{\thepage}{B\arabic{page}}
 \input{../Annexes/Annexe3}
-\pageblanchenoheader
 
 \pagenumbering{arabic}
 \renewcommand*{\thepage}{C\arabic{page}}
@@ -142,7 +139,7 @@
 
 
 
-
+\pageblanchenoheader
 \pageblanchenoheader 
 \end{onehalfspace}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
